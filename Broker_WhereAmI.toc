@@ -1,0 +1,41 @@
+﻿#@retail@
+## Interface: 90002
+#@end-retail@
+#@non-retail@
+# ## Interface: 11306
+#@end-non-retail@
+## Title: Broker: Where am I?
+## Notes: Show where you are and where you should go
+## Version: @project-version@
+## Author: datagutten
+#@non-no-lib-strip@
+# ## Dependencies: Ace3, LibTourist-3.0, LibQTip-1.0, BM-utils, LibProfessions
+#@end-non-no-lib-strip@
+
+## SavedVariables: WhereAmIOptions
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+
+# Static tables
+addon\fonts.lua
+
+# Common utilities
+addon\common.lua
+# Objects
+addon\ZoneInfo.lua
+
+# Config
+addon\config.lua
+addon\OptionTable.lua
+
+addon\text.lua
+
+# Event handling
+addon\events.lua
+
+addon\tooltip.lua
+
+addon\main.lua

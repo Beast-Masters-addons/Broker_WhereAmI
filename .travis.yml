@@ -1,0 +1,23 @@
+language: minimal
+
+jobs:
+  include:
+    - name: 'Retail'
+      install:
+        - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash
+
+    - name: 'Classic'
+      install:
+        - export CLASSIC_VERSION="1.13.6"
+        - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -g $CLASSIC_VERSION
+
+addons:
+  apt:
+    packages:
+      - luarocks
+
+before_install:
+  - sudo luarocks install luacheck
+
+before_script:
+  - luacheck addon --no-color -q

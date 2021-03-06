@@ -1,0 +1,28 @@
+﻿package-as: Broker_WhereAmI
+
+externals:
+  Libs/LibStub:
+    url: svn://svn.wowace.com/wow/libstub/mainline/trunk
+  Libs/AceConfig-3.0:
+    url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceConfig-3.0
+  Libs/AceGUI-3.0:
+    url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceGUI-3.0
+  Libs/HereBeDragons-2.0:
+    url: https://repos.wowace.com/wow/herebedragons
+  Libs/LibTourist-3.0:
+    url: svn://svn.wowace.com/wow/libtourist-3-0/mainline/trunk
+  Libs/LibTouristClassic:
+    url: https://repos.wowace.com/wow/libtourist-classic
+  Libs/LibQTip-1.0:
+    url: https://repos.curseforge.com/wow/libqtip-1-0
+  Libs/BM-utils:
+    url: https://github.com/Beast-Masters-addons/BM-utils.git
+    tag: v1.4.1
+  Libs/LibProfessions:
+    url: https://github.com/Beast-Masters-addons/wow-LibProfessions
+    tag: v0.8.1
+  Libs/LibDataBroker:
+    url: https://github.com/tekkub/libdatabroker-1-1.git
+    tag: v1.1.4
+
+enable-nolib-creation: yes
