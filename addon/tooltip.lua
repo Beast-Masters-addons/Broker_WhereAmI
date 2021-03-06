@@ -73,9 +73,9 @@ function tooltip_class:add_text(destination)
 end
 
 function tooltip_class:show_path(zone)
-    --@debug
+    --@debug@
     print('Show path to', zone)
-    --@end-debug
+    --@end-debug@
     if self.selectedPath == zone then
         self.selectedPath = nil
     else
@@ -157,9 +157,9 @@ function tooltip_class:AddPathTooltip(destination_zone)
             text.zone.touristZoneText, destination_zone), "LEFT", 0)
 
     local found = false
-    --@debug
+    --@debug@
     utils:printf('Get path from %s to %s', text.zone.touristZoneText, destination_zone)
-    --@end-debug
+    --@end-debug@
     for z in Tourist:IteratePath(text.zone.touristZoneText, destination_zone) do
         found = true
         local zone_string, level_string, continent_string = text:zone_info(z)

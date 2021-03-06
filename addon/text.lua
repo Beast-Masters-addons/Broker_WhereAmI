@@ -30,7 +30,9 @@ function text:GetFishingSkillText()
         end
     else
         local zoneId = Tourist:GetZoneMapID(self.touristZoneText) --LibTourist has no error handling for invalid zones
+        --@debug@
         print('ZoneId', zoneId) -- Create fish skill text
+        --@end-debug@
         if self.zone.zoneId ~= nil then
             local skillEnabled
             local skillName, _, _, _ = Tourist:GetFishingSkillInfo(self.zone.mapId)
