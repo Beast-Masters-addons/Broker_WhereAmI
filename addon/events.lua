@@ -1,14 +1,13 @@
-_G['WhereAmIEvents'] = {}
-local events = _G['WhereAmIEvents']
---local addon = _G['WhereAmI-@project-version@']
-local addon = _G['WhereAmI']
-local text = _G['WhereAmIText']
-local utils = _G['WhereAmICommon'].utils
+local addon = _G.BrokerWhereAmI
+---@class WhereAmIEvents
+local events = addon.events
+local text = addon.text
+local utils = addon.utils
 
 local frame = _G.CreateFrame("Frame")
 frame:RegisterEvent("ADDON_LOADED")
 frame:SetScript("OnEvent", function(self, event, ...)
-    if _G['WhereAmIEvents'][event] == nil then
+    if events[event] == nil then
         error(utils:sprintf('No event handler for %s', event))
     end
     events[event](self, ...)
@@ -16,8 +15,6 @@ end)
 
 function events:ADDON_LOADED(addonName)
     if addonName == 'Broker_WhereAmI' then
-        addon = _G['WhereAmI']
-        --text = _G['WhereAmIText']
         --@debug@
         utils:printf("%s loaded", addonName)
         --@end-debug@

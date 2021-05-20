@@ -1,10 +1,10 @@
-_G['WhereAmITooltip'] = {}
-local tooltip_class = _G['WhereAmITooltip']
-local utils = _G['WhereAmICommon'].utils
-local Tourist = _G['WhereAmICommon'].tourist
-local text = _G['WhereAmIText']
+local addon = _G.BrokerWhereAmI
+---@class WhereAmITooltip
+local tooltip_class = addon.tooltip
+local Tourist = addon.tourist
+local text = addon.text
 ---Font definitions
-local fonts = _G['WhereAmIFonts']
+local fonts = addon.fonts
 
 local LibQTip = _G.LibStub('LibQTip-1.0')
 local addonName, _ = ...
@@ -153,12 +153,12 @@ function tooltip_class:AddPathTooltip(destination_zone)
 
     tooltip:AddSeparator()
     local line = tooltip:AddLine()
-    tooltip:SetCell(line, 1, utils:sprintf("    Walk path from %s to %s:",
+    tooltip:SetCell(line, 1, addon.utils:sprintf("    Walk path from %s to %s:",
             text.zone.touristZoneText, destination_zone), "LEFT", 0)
 
     local found = false
     --@debug@
-    utils:printf('Get path from %s to %s', text.zone.touristZoneText, destination_zone)
+    addon.utils:printf('Get path from %s to %s', text.zone.touristZoneText, destination_zone)
     --@end-debug@
     for z in Tourist:IteratePath(text.zone.touristZoneText, destination_zone) do
         found = true
@@ -178,15 +178,13 @@ function tooltip_class:instance_line(instance)
     local groupSize = Tourist:GetInstanceGroupSize(instance)
     local groupSize_string
     if groupSize > 0 then
-        groupSize_string = utils:sprintf("%d-man", groupSize)
+        groupSize_string = addon.utils:sprintf("%d-man", groupSize)
     else
         groupSize_string = ''
     end
 
     return self.tooltip:AddLine(zone_string, level_string, groupSize_string, Tourist:GetInstanceZone(instance))
 end
-
-
 
 ---Show recommended zones
 ---@param destination_zone string Zone to show walk path to

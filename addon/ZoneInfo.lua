@@ -1,9 +1,10 @@
-_G['ZoneInfo'] = {}
-local Zone = _G['ZoneInfo']
+local addon = _G.BrokerWhereAmI
+---@class WhereAmIZoneInfo
+local Zone = addon.zoneInfo
 
-local is_classic = _G['WhereAmICommon'].is_classic
-local Tourist = _G['WhereAmICommon'].tourist
-local utils = _G['WhereAmICommon'].utils
+local is_classic = addon.is_classic
+local Tourist = addon.tourist
+local utils = addon.utils
 
 ---Get information about the current Zone
 ---@return ZoneInfo

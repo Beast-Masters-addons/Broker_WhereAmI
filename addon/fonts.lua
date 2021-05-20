@@ -1,6 +1,6 @@
----Font definitions
-_G['WhereAmIFonts'] = {}
-local fonts = _G['WhereAmIFonts']
+local addon = _G.BrokerWhereAmI
+---@class WhereAmIFonts Static font definitions
+local fonts = addon.fonts
 
 ---Title Font, 14
 fonts.title = _G.CreateFont("titleFont")

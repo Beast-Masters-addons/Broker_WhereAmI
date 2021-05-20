@@ -1,5 +1,6 @@
-_G['WhereAmIConfig'] = {}
-local config = _G['WhereAmIConfig']
+local addon = _G.BrokerWhereAmI
+---@class WhereAmIConfig
+local config = addon.config
 local addonName, _ = ...
 local AceConfig = _G.LibStub("AceConfig-3.0")
 local AceConfigDialog = _G.LibStub("AceConfigDialog-3.0")
@@ -28,9 +29,9 @@ end
 ---
 ---Called at event ADDON_LOADED
 function config:init()
-    AceConfig:RegisterOptionsTable(addonName, _G['WhereAmIOptionTable'], nil)
+    AceConfig:RegisterOptionsTable(addon.name, addon.optionsTable, nil)
     self.optionsFrames = {}
-    self.optionsFrames.general = AceConfigDialog:AddToBlizOptions(addonName, nil, nil, "general")
+    self.optionsFrames.general = AceConfigDialog:AddToBlizOptions(addon.name, nil, nil, "general")
 
     if _G['WhereAmIOptions'] == nil then
         self.reset()
@@ -41,7 +42,7 @@ function config.option_set(info, value)
     local key = info[#info]
     --print("The " .. info[#info] .. " was set to: " .. tostring(value))
     _G['WhereAmIOptions'][key] = value
-    _G['WhereAmI']:MainUpdate()
+    addon:MainUpdate()
 end
 
 ---Get configuration parameter

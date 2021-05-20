@@ -1,4 +1,6 @@
-_G['WhereAmIOptionTable'] = {
+local addon = _G.BrokerWhereAmI
+---@class WhereAmIOptionsTable Options table for AceConfig
+addon.optionsTable = {
     type = "group",
     name = "Broker: Where am I?",
     args = {
@@ -7,8 +9,8 @@ _G['WhereAmIOptionTable'] = {
             type = "group",
             name = "General Settings",
             cmdInline = true,
-            get = _G['WhereAmIConfig'].option_get,
-            set = _G['WhereAmIConfig'].option_set,
+            get = addon.config.option_get,
+            set = addon.config.option_set,
             args = {
                 confdesc = {
                     order = 1,
@@ -47,7 +49,7 @@ _G['WhereAmIOptionTable'] = {
                     desc = "Set the number of visible decimals.",
                     min = 0, max = 2, step = 1,
                     disabled = function()
-                        return not _G['WhereAmIConfig'].get('show_coords')
+                        return not addon.config.get('show_coords')
                     end,
                 },
                 show_zone_level = {

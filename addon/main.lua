@@ -1,16 +1,13 @@
-_G['WhereAmI'] = {}
-_G['WhereAmI-@project-version'] = _G['WhereAmI']
-local addon = _G['WhereAmI']
+local addon = _G.BrokerWhereAmI
 local addonName, _ = ...
 
-addon.config = _G['WhereAmIConfig']
+
 
 local ldb = _G.LibStub:GetLibrary("LibDataBroker-1.1")
 local text = _G['WhereAmIText']
-local common = _G['WhereAmICommon']
 
 local icon
-if not common.is_classic then
+if not addon.is_classic then
     icon = "Interface\\Icons\\INV_Misc_Map07.png"
 else
     icon = "Interface\\Icons\\inv_misc_map_01"
@@ -26,7 +23,7 @@ addon.obj = ldb:NewDataObject(addonName, {
 
 ---Main update function
 function addon:MainUpdate()
-    self.obj.text = text:GetLDBText()
+    self.obj.text = addon.text:GetLDBText()
 end
 
 function addon.show_map()
@@ -40,7 +37,7 @@ end
 
 -- LDB Event handlers
 function addon.obj.OnEnter(self)
-    _G['WhereAmITooltip']:initialize(self)
+    addon.tooltip:initialize(self)
 end
 
 function addon.obj.OnClick(_, button)
@@ -49,13 +46,13 @@ function addon.obj.OnClick(_, button)
         if _G.IsShiftKeyDown() then
             local edit_box = _G.ChatEdit_ChooseBoxForSend()
             _G.ChatEdit_ActivateChat(edit_box)
-            edit_box:Insert(text:GetChatText())
+            edit_box:Insert(addon.text:GetChatText())
         else
             addon.show_map()
         end
     end
     if button == "RightButton" then
-        _G['WhereAmIConfig']:ShowConfig()
+        addon.config:ShowConfig()
     end
 end
 
