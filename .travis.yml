@@ -23,6 +23,6 @@ before_install:
   - sudo luarocks install luacheck
 
 script:
-  - luacheck idTip.lua --no-color -q
+  - luacheck addon --no-color -q
   - cd $TRAVIS_BUILD_DIR
   - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -g $GAME_VERSION
