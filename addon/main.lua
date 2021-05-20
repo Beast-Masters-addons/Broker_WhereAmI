@@ -1,10 +1,5 @@
 local addon = _G.BrokerWhereAmI
-local addonName, _ = ...
-
-
-
 local ldb = _G.LibStub:GetLibrary("LibDataBroker-1.1")
-local text = _G['WhereAmIText']
 
 local icon
 if not addon.is_classic then
@@ -14,7 +9,7 @@ else
 end
 
 ---LibDataBroker object
-addon.obj = ldb:NewDataObject(addonName, {
+addon.obj = ldb:NewDataObject(addon.name, {
     type = "data source",
     label = "Location",
     text = "Updating...",

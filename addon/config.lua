@@ -1,7 +1,6 @@
 local addon = _G.BrokerWhereAmI
 ---@class WhereAmIConfig
 local config = addon.config
-local addonName, _ = ...
 local AceConfig = _G.LibStub("AceConfig-3.0")
 local AceConfigDialog = _G.LibStub("AceConfigDialog-3.0")
 
