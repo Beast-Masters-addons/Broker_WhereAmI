@@ -1,4 +1,4 @@
-﻿## Interface-Retail: 90005
+## Interface-Retail: 90005
 ## Interface-Classic: 11306
 ## Interface-BCC: 20501
 ## Title: Broker: Where am I?
@@ -15,12 +15,12 @@
 embeds.xml
 #@end-no-lib-strip@
 
+# Common utilities
+addon\common.lua
 
 # Static tables
 addon\fonts.lua
 
-# Common utilities
-addon\common.lua
 # Objects
 addon\ZoneInfo.lua
 
