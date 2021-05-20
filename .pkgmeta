@@ -3,6 +3,9 @@
 externals:
   Libs/LibStub:
     url: svn://svn.wowace.com/wow/libstub/mainline/trunk
+  Libs/CallbackHandler:
+    url: https://repos.wowace.com/wow/callbackhandler/trunk/CallbackHandler-1.0
+    tag: latest
   Libs/AceConfig-3.0:
     url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceConfig-3.0
   Libs/AceGUI-3.0:
@@ -17,7 +20,7 @@ externals:
     url: https://repos.curseforge.com/wow/libqtip-1-0
   Libs/BM-utils:
     url: https://github.com/Beast-Masters-addons/BM-utils.git
-    tag: v1.4.1
+    tag: v1.5.2
   Libs/LibProfessions:
     url: https://github.com/Beast-Masters-addons/wow-LibProfessions
     tag: v0.8.1

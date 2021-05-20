@@ -2,6 +2,7 @@
 ..\FrameXML\UI.xsd">
 
     <Script file="Libs\LibStub\LibStub.lua"/>
+    <Include file="Libs\CallbackHandler\CallbackHandler-1.0.xml"/>
     <Include file="Libs\AceGUI-3.0\AceGUI-3.0.xml"/>
     <Include file="Libs\AceConfig-3.0\AceConfig-3.0.xml"/>
     <Script file="Libs\HereBeDragons-2.0\HereBeDragons-2.0.lua"/>
@@ -12,8 +13,7 @@
         <Script file="Libs\LibTouristClassic\LibTouristClassic-1.0.lua"/>
     @end-non-retail@-->
     <Include file="Libs\LibQTip-1.0\lib.xml"/>
-    <Script file="Libs\BM-Utils\addon\version.lua"/>
-    <Script file="Libs\BM-Utils\addon\utils.lua"/>
+    <Include file="Libs\BM-utils\lib.xml"/>
     <Script file="Libs\LibProfessions\addon\LibProfessions.lua"/>
     <Script file="Libs\LibDataBroker\LibDataBroker-1.1.lua"/>
 </Ui>
