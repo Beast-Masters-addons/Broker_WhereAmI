@@ -1,30 +1,30 @@
 ﻿package-as: Broker_WhereAmI
 
 externals:
-  Libs/LibStub:
+  libs/LibStub:
     url: svn://svn.wowace.com/wow/libstub/mainline/trunk
-  Libs/CallbackHandler:
+  libs/CallbackHandler:
     url: https://repos.wowace.com/wow/callbackhandler/trunk/CallbackHandler-1.0
     tag: latest
-  Libs/AceConfig-3.0:
+  libs/AceConfig-3.0:
     url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceConfig-3.0
-  Libs/AceGUI-3.0:
+  libs/AceGUI-3.0:
     url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceGUI-3.0
-  Libs/HereBeDragons-2.0:
+  libs/HereBeDragons-2.0:
     url: https://repos.wowace.com/wow/herebedragons
-  Libs/LibTourist-3.0:
+  libs/LibTourist-3.0:
     url: svn://svn.wowace.com/wow/libtourist-3-0/mainline/trunk
-  Libs/LibTouristClassic:
+  libs/LibTouristClassic:
     url: https://repos.wowace.com/wow/libtourist-classic
-  Libs/LibQTip-1.0:
+  libs/LibQTip-1.0:
     url: https://repos.curseforge.com/wow/libqtip-1-0
-  Libs/BM-utils:
+  libs/BM-utils:
     url: https://github.com/Beast-Masters-addons/BM-utils.git
     tag: v1.5.2
-  Libs/LibProfessions:
+  libs/LibProfessions:
     url: https://github.com/Beast-Masters-addons/wow-LibProfessions
     tag: v0.8.1
-  Libs/LibDataBroker:
+  libs/LibDataBroker:
     url: https://github.com/tekkub/libdatabroker-1-1.git
     tag: v1.1.4
 
