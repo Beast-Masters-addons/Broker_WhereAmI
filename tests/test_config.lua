@@ -7,7 +7,11 @@ loadfile('wow_functions.lua')()
 _G.debugstack = debug.traceback
 _G.strmatch = string.match
 loadfile('../libs/LibStub/LibStub.lua')()
-_G.LibStub:NewLibrary('LibTourist-3.0', 1)
+if os.getenv('GAME_VERSION') == 'retail' then
+    _G.LibStub:NewLibrary('LibTourist-3.0', 1)
+else
+    _G.LibStub:NewLibrary('LibTouristClassic-1.0', 1)
+end
 
 loadfile('build_utils/utils/load_toc.lua')('../Broker_WhereAmI.toc', { 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'HereBeDragons-2.0.lua', 'fonts.lua' })
 
