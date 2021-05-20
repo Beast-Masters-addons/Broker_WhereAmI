@@ -12,7 +12,7 @@ jobs:
 
     - name: 'TBC'
       install:
-        - export GAME_VERSION="bc"
+        - export GAME_VERSION="bcc"
 
 addons:
   apt:
@@ -21,8 +21,22 @@ addons:
 
 before_install:
   - sudo luarocks install luacheck
+  - sudo luarocks install luaunit
+  - sudo luarocks install luacov
+
+before_script:
+  - luacheck addon --no-color -q
+  - git clone https://github.com/Beast-Masters-addons/build_utils tests/build_utils
+  - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -d -z -g $GAME_VERSION
+  - mv .release/Broker_WhereAmI/libs .
 
 script:
-  - luacheck addon --no-color -q
+  - cd tests
+  - for test in test*.lua; do lua -lluacov "$test"; done
+
+after_script:
+  - bash <(curl -s https://codecov.io/bash)
+
+after_success:
   - cd $TRAVIS_BUILD_DIR
   - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -g $GAME_VERSION
