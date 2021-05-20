@@ -4,12 +4,15 @@ jobs:
   include:
     - name: 'Retail'
       install:
-        - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash
+        - export GAME_VERSION="retail"
 
     - name: 'Classic'
       install:
-        - export CLASSIC_VERSION="1.13.6"
-        - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -g $CLASSIC_VERSION
+        - export GAME_VERSION="classic"
+
+    - name: 'TBC'
+      install:
+        - export GAME_VERSION="bc"
 
 addons:
   apt:
@@ -19,5 +22,7 @@ addons:
 before_install:
   - sudo luarocks install luacheck
 
-before_script:
-  - luacheck addon --no-color -q
+script:
+  - luacheck idTip.lua --no-color -q
+  - cd $TRAVIS_BUILD_DIR
+  - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -g $GAME_VERSION
