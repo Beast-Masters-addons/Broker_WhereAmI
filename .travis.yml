@@ -5,14 +5,17 @@ jobs:
     - name: 'Retail'
       before_install:
         - export GAME_VERSION="retail"
+        - git clone https://github.com/Gethe/wow-ui-source tests/wow-ui-source
 
     - name: 'Classic'
       before_install:
         - export GAME_VERSION="classic"
+        - git clone https://github.com/Gethe/wow-ui-source tests/wow-ui-source -b classic_era
 
     - name: 'TBC'
       before_install:
         - export GAME_VERSION="bcc"
+        - git clone https://github.com/Gethe/wow-ui-source tests/wow-ui-source -b classic
 
 addons:
   apt:
