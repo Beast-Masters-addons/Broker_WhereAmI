@@ -26,6 +26,7 @@ install:
   - git clone https://github.com/Beast-Masters-addons/build_utils tests/build_utils
   - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -d -z -g $GAME_VERSION
   - mv .release/Broker_WhereAmI/libs .
+  - python tests/build_utils/utils/BuildMapData.py
 
 script:
   - luacheck addon --no-color -q
