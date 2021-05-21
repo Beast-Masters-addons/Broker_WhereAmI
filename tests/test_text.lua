@@ -33,7 +33,6 @@ loadfile('build_utils/utils/load_toc.lua')('../Broker_WhereAmI.toc', { 'LibTouri
 _G['test'] = {}
 local test = _G['test']
 local addon = _G.BrokerWhereAmI
-local inspect = require 'inspect'
 
 function test:test_GetFishingSkillText()
     addon.text:UpdateZoneInfo()
