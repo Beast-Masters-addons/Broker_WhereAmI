@@ -1,7 +1,9 @@
 local lu = require('luaunit')
 --loadfile('wow_functions.lua')()
-loadfile('wow_frame.lua')()
-loadfile('wow_functions.lua')()
+loadfile('build_utils/wow_api/frame.lua')()
+loadfile('build_utils/wow_api/functions.lua')()
+loadfile('build_utils/wow_api/text.lua')()
+loadfile('build_utils/wow_api/texture.lua')()
 
 -- Aliases required for LibStub
 _G.debugstack = debug.traceback
