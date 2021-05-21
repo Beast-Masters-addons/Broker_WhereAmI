@@ -24,10 +24,6 @@ loadfile('build_utils/wow_api/skills.lua')()
 loadfile('build_utils/wow_api/map.lua')()
 loadfile('build_utils/wow_api/zone.lua')()
 
-_G['MapInfo'][947] = { MapName_lang = 'Azeroth' }
-_G['MapInfo'][1414] = { MapName_lang = 'Kalimdor' }
-_G['MapInfo'][1415] = { MapName_lang = 'Eastern Kingdoms' }
-
 loadfile('../libs/CallbackHandler/CallbackHandler-1.0.lua')()
 loadfile('../libs/HereBeDragons-2.0/HereBeDragons-2.0.lua')()
 if os.getenv('GAME_VERSION') == 'retail' then
