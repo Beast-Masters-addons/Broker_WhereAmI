@@ -24,13 +24,13 @@ before_install:
   - sudo luarocks install luaunit
   - sudo luarocks install luacov
 
-before_script:
-  - luacheck addon --no-color -q
+install:
   - git clone https://github.com/Beast-Masters-addons/build_utils tests/build_utils
   - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -d -z -g $GAME_VERSION
   - mv .release/Broker_WhereAmI/libs .
 
 script:
+  - luacheck addon --no-color -q
   - cd tests
   - for test in test*.lua; do lua -lluacov "$test"; done
 
