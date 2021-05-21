@@ -1,4 +1,4 @@
-language: minimal
+language: python
 
 jobs:
   include:
@@ -19,11 +19,14 @@ addons:
     packages:
       - luarocks
 
+cache: pip
+
 install:
   - sudo luarocks install luacheck
   - sudo luarocks install luaunit
   - sudo luarocks install luacov
   - git clone https://github.com/Beast-Masters-addons/build_utils tests/build_utils
+  - pip install -r tests/build_utils/utils/requirements.txt
   - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -d -z -g $GAME_VERSION
   - mv .release/Broker_WhereAmI/libs .
   - python tests/build_utils/utils/BuildMapData.py
