@@ -33,6 +33,7 @@ install:
   - curl -s https://raw.githubusercontent.com/BigWigsMods/packager/master/release.sh | bash -s -- -d -z -g $GAME_VERSION
   - mv .release/Broker_WhereAmI/libs .
   - python tests/build_utils/utils/BuildMapData.py
+  - sed -i '1s/^\xEF\xBB\xBF//' libs/LibTouristClassic/LibTouristClassic-1.0.lua
 
 script:
   - luacheck addon --no-color -q
