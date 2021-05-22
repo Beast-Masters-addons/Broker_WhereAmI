@@ -7,7 +7,7 @@ local Tourist = addon.tourist
 local utils = addon.utils
 
 ---Get information about the current Zone
----@return ZoneInfo
+---@return WhereAmIZoneInfo
 function Zone:current()
     local o = self:construct()
     return o
@@ -20,21 +20,21 @@ end
 
 function Zone:construct(mapId)
     local o = {}
-    o.zoneText = _G.GetRealZoneText(mapId)
+    if mapId == nil then
+        o.mapId = _G['C_Map'].GetBestMapForUnit("player")
+    else
+        o.mapId = mapId
+    end
+
+    o.zoneText = _G.GetRealZoneText(o.mapId)
 
     if o.zoneText == '' then
         o.zoneText = nil
     end
 
-    o.subZoneText = _G.GetSubZoneText(mapId)
+    o.subZoneText = _G.GetSubZoneText(o.mapId)
     if o.subZoneText == '' then
         o.subZoneText = nil
-    end
-
-    if mapId == nil then
-        o.mapId = _G['C_Map'].GetBestMapForUnit("player")
-    else
-        o.mapId = mapId
     end
 
     o.continent = Tourist:GetContinent(o.mapId)
