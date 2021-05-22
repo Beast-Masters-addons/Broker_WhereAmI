@@ -29,6 +29,7 @@ loadfile('../libs/HereBeDragons-2.0/HereBeDragons-2.0.lua')()
 if os.getenv('GAME_VERSION') == 'retail' then
     loadfile('../libs/LibTourist-3.0/LibTourist-3.0.lua')()
 else
+    loadfile('instance_id.lua')()
     loadfile('../libs/LibTouristClassic/LibTouristClassic-1.0.lua')()
 end
 loadfile('build_utils/utils/load_toc.lua')('../Broker_WhereAmI.toc', { 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'fonts.lua', 'AceGUI-3.0' })
