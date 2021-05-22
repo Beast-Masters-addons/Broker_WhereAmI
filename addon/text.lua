@@ -117,7 +117,7 @@ function text:GetLevelRangeText(wrap)
     if wrap == true then
         level_string = addon.utils:sprintf('[%s]', level_string)
     end
-    local r, g, b = Tourist:GetLevelColor(self.mapId)
+    local r, g, b = Tourist:GetLevelColor(self.zone.mapId)
     return addon.utils:colorize(level_string, addon.utils:ColorToRGB(r, g, b))
 end
 
