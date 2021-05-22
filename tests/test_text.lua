@@ -40,9 +40,11 @@ _G['test'] = {}
 local test = _G['test']
 local addon = _G.BrokerWhereAmI
 
-function test:test_GetFishingSkillText()
+function test:setUp()
     addon.text:UpdateZoneInfo()
+end
 
+function test:test_GetFishingSkillText()
     if addon.is_classic then
         local fishSkill = addon.text.professions:GetAllSkills()["Fishing"]
         lu.assertEquals(fishSkill[4], 8)
@@ -57,12 +59,11 @@ function test:test_GetFishingSkillText()
 end
 
 function test:test_GetAreaStatus()
-    lu.assertTrue(addon.tourist:IsContested(addon.text.mapId))
+    lu.assertTrue(addon.tourist:IsContested(addon.text.zone.mapId))
     lu.assertEquals(addon.text:GetAreaStatus(), addon.utils:colorize('Contested', 255, 178.5, 25.5))
 end
 
 function test:test_GetZoneName()
-    addon.text:UpdateZoneInfo()
     if addon.is_classic then
         lu.assertEquals(addon.text:GetZoneName(true, true), 'Stranglethorn Vale')
     else
@@ -79,14 +80,12 @@ function test:test_GetLevelRangeText()
 end
 
 function test:test_GetCoordinateText()
-    addon.text:UpdateZoneInfo()
     lu.assertEquals(addon.text:GetCoordinateText(0), '(55, 55)')
     lu.assertEquals(addon.text:GetCoordinateText(1), '(54.8, 54.9)')
     lu.assertEquals(addon.text:GetCoordinateText(2), '(54.77, 54.86)')
 end
 
 function test:test_GetChatText()
-    addon.text:UpdateZoneInfo()
     if addon.is_classic then
         lu.assertEquals(addon.text:GetChatText(), 'Stranglethorn Vale (55, 55)')
     else
