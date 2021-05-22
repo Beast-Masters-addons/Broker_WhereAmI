@@ -61,4 +61,13 @@ function test:test_GetAreaStatus()
     lu.assertEquals(addon.text:GetAreaStatus(), addon.utils:colorize('Contested', 255, 178.5, 25.5))
 end
 
+function test:test_GetZoneName()
+    addon.text:UpdateZoneInfo()
+    if addon.is_classic then
+        lu.assertEquals(addon.text:GetZoneName(true, true), 'Stranglethorn Vale')
+    else
+        lu.assertEquals(addon.text:GetZoneName(true, true), 'The Cape of Stranglethorn')
+    end
+end
+
 os.exit(lu.LuaUnit.run())
