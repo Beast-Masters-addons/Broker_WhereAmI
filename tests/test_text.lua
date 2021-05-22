@@ -19,7 +19,9 @@ loadfile('wow-ui-source/SharedXML/Vector3D.lua')()
 loadfile('build_utils/data/AreaInfo.lua')()
 loadfile('build_utils/data/MapInfo.lua')()
 
-loadfile('build_utils/wow_api/profession_api.lua')()
+loadfile('build_utils/wow_api/profession_api_classic.lua')()
+loadfile('build_utils/wow_api/profession_api_retail.lua')()
+
 loadfile('build_utils/wow_api/skills.lua')()
 loadfile('build_utils/wow_api/map.lua')()
 loadfile('build_utils/wow_api/zone.lua')()
@@ -40,12 +42,18 @@ local addon = _G.BrokerWhereAmI
 
 function test:test_GetFishingSkillText()
     addon.text:UpdateZoneInfo()
-    local fishSkill = addon.text.professions:GetAllSkills()["Fishing"]
-    lu.assertEquals(fishSkill[4], 8)
-    local minFish = addon.tourist:GetFishingLevel(addon.zoneInfo:current().mapId)
-    lu.assertEquals(minFish, 130)
-    local expected_text = addon.utils:colorize(minFish, 255, 0, 0)
-    lu.assertEquals(addon.text:GetFishingSkillText(), expected_text)
+
+    if addon.is_classic then
+        local fishSkill = addon.text.professions:GetAllSkills()["Fishing"]
+        lu.assertEquals(fishSkill[4], 8)
+        local minFish = addon.tourist:GetFishingLevel(addon.zoneInfo:current().mapId)
+
+        lu.assertEquals(minFish, 130)
+        local expected_text = addon.utils:colorize(minFish, 255, 0, 0)
+        lu.assertEquals(addon.text:GetFishingSkillText(), expected_text)
+    else
+        lu.assertEquals(addon.text:GetFishingSkillText(), '')
+    end
 end
 
 function test:test_GetAreaStatus()
