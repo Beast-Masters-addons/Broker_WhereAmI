@@ -45,19 +45,19 @@ end
 
 -- Return area status: sanctuary, friendly, contested
 function text:GetAreaStatus()
-    if (Tourist:IsFriendly(self.mapId)) then
+    if (Tourist:IsFriendly(self.zone.mapId)) then
         return addon.utils:colorize('Friendly', 25.5, 255, 25.5)
-    elseif (Tourist:IsHostile(self.mapId)) then
+    elseif (Tourist:IsHostile(self.zone.mapId)) then
         return addon.utils:colorize('Hostile', 255, 25.5, 25.5)
-    elseif (Tourist:IsContested(self.mapId)) then
+    elseif (Tourist:IsContested(self.zone.mapId)) then
         return addon.utils:colorize('Contested', 255, 178.5, 25.5)
-    elseif (Tourist:IsInstance(self.mapId)) then
+    elseif (Tourist:IsInstance(self.zone.mapId)) then
         return addon.utils:colorize('Instance', 255, 25.5, 25.5)
-    elseif addon.is_classic == false then
+    elseif self.is_classic == false then
         local pvpType, _, _ = _G.GetZonePVPInfo()
-        if (Tourist:IsSanctuary(self.mapId)) then
+        if Tourist:IsSanctuary(self.zone.mapId) then
             return addon.utils:colorize('Sanctuary', 104.55, 204, 239, 7)
-        elseif (addon.is_classic == false and Tourist:IsArena(self.mapId)) then
+        elseif Tourist:IsArena(self.zone.mapId) then
             return addon.utils:colorize('Arena', 255, 25.5, 25.5)
         elseif (pvpType == "combat") then
             return addon.utils:colorize('Combat', 255, 25.5, 25.5)
@@ -70,14 +70,10 @@ end
 function text:UpdateZoneInfo()
     self.zone = addon.zoneInfo:current()
 
-    self.mapId = self.zone.mapId
-    self.zoneText = self.zone.zoneText
-    self.subZoneText = self.zone.subZoneText
-
     if not addon.is_classic then
-        self.touristZoneText = Tourist:GetUniqueZoneNameForLookup(self.zoneText, self.zone.mapId)
+        self.touristZoneText = Tourist:GetUniqueZoneNameForLookup(self.zone.zoneText, self.zone.mapId)
     else
-        self.touristZoneText = self.zoneText
+        self.touristZoneText = self.zone.zoneText
     end
 end
 
@@ -86,7 +82,7 @@ end
 ---@param show_sub boolean
 ---@return string
 function text:GetZoneName(show_main, show_sub)
-    if self.zone.touristZoneText == '' then
+    if self.zone.zoneText == '' then
         show_main = false
     end
 
@@ -101,12 +97,12 @@ function text:GetZoneName(show_main, show_sub)
     -- zone and sub zone
     if show_main then
         if show_sub then
-            return addon.utils:sprintf('%s: %s', self.touristZoneText, self.subZoneText)
+            return addon.utils:sprintf('%s: %s', self.zone.zoneText, self.zone.subZoneText)
         else
-            return self.touristZoneText
+            return self.zone.zoneText
         end
     elseif show_sub then
-        return self.subZoneText
+        return self.zone.subZoneText
     else
         return ''
     end
@@ -126,10 +122,10 @@ function text:GetLevelRangeText(wrap)
 end
 
 function text:GetCoordinateText(precision)
-    if self.mapId == nil then
+    if self.zone.mapId == nil then
         return ''
     end
-    local mapPosObject = _G['C_Map'].GetPlayerMapPosition(self.mapId, "player")
+    local mapPosObject = _G['C_Map'].GetPlayerMapPosition(self.zone.mapId, "player")
     if mapPosObject == nil then
         return ''
     end
