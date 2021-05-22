@@ -28,10 +28,7 @@ function text:GetFishingSkillText()
         end
     else
         local zoneId = Tourist:GetZoneMapID(self.touristZoneText) --LibTourist has no error handling for invalid zones
-        --@debug@
-        print('ZoneId', zoneId) -- Create fish skill text
-        --@end-debug@
-        if self.zone.zoneId ~= nil then
+        if self.zone.mapId ~= nil then
             local skillEnabled
             local skillName, _, _, _ = Tourist:GetFishingSkillInfo(self.zone.mapId)
             if not skillName then
@@ -73,12 +70,12 @@ end
 function text:UpdateZoneInfo()
     self.zone = addon.zoneInfo:current()
 
-    self.mapId = _G['C_Map'].GetBestMapForUnit("player")
-    self.zoneText = _G.GetRealZoneText()
-    self.subZoneText = _G.GetSubZoneText()
+    self.mapId = self.zone.mapId
+    self.zoneText = self.zone.zoneText
+    self.subZoneText = self.zone.subZoneText
 
     if not addon.is_classic then
-        self.touristZoneText = Tourist:GetUniqueZoneNameForLookup(self.zoneText, self.mapId)
+        self.touristZoneText = Tourist:GetUniqueZoneNameForLookup(self.zoneText, self.zone.mapId)
     else
         self.touristZoneText = self.zoneText
     end
