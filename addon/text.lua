@@ -177,7 +177,7 @@ end
 --end
 
 function text:zone_info(zone)
-    local zone_obj = _G['BrokerWhereAmI'].zoneInfo:fromZoneName(zone)
+    local zone_obj = addon.zoneInfo:fromZoneName(zone)
     local zone_string = addon.utils:colorize(zone, zone_obj.factionColor)
 
     local level_string
