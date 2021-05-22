@@ -70,4 +70,28 @@ function test:test_GetZoneName()
     end
 end
 
+function test:test_GetLevelRangeText()
+    if addon.is_classic then
+        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (30-50)', 0x7f, 0x7f, 0x7f))
+    else
+        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
+    end
+end
+
+function test:test_GetCoordinateText()
+    addon.text:UpdateZoneInfo()
+    lu.assertEquals(addon.text:GetCoordinateText(0), '(55, 55)')
+    lu.assertEquals(addon.text:GetCoordinateText(1), '(54.8, 54.9)')
+    lu.assertEquals(addon.text:GetCoordinateText(2), '(54.77, 54.86)')
+end
+
+function test:test_GetChatText()
+    addon.text:UpdateZoneInfo()
+    if addon.is_classic then
+        lu.assertEquals(addon.text:GetChatText(), 'Stranglethorn Vale (55, 55)')
+    else
+        lu.assertEquals(addon.text:GetChatText(), 'The Cape of Stranglethorn (55, 55)')
+    end
+end
+
 os.exit(lu.LuaUnit.run())
