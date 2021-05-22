@@ -72,7 +72,7 @@ end
 
 function test:test_GetLevelRangeText()
     if addon.is_classic then
-        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (30-50)', 0x7f, 0x7f, 0x7f))
+        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (30-45)', 0xff, 0xc3, 0x00))
     else
         lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
     end
@@ -91,6 +91,16 @@ function test:test_GetChatText()
         lu.assertEquals(addon.text:GetChatText(), 'Stranglethorn Vale (55, 55)')
     else
         lu.assertEquals(addon.text:GetChatText(), 'The Cape of Stranglethorn (55, 55)')
+    end
+end
+
+function test:test_GetLDBText()
+    addon.config:init()
+    local text = addon.text:GetLDBText()
+    if addon.is_classic then
+        lu.assertEquals(text, '|cffffff00Stranglethorn Vale (55, 55) |cffffc300[30 (30-45)|r|r')
+    else
+        lu.assertEquals(text, '|cffffff00The Cape of Stranglethorn (55, 55) |cff7f7f7f[30 (10-30)]|r|r')
     end
 end
 
