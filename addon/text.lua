@@ -82,7 +82,7 @@ end
 ---@param show_sub boolean
 ---@return string
 function text:GetZoneName(show_main, show_sub)
-    if self.zone.zoneText == '' then
+    if self.zone.zoneText == nil then
         show_main = false
     end
 
