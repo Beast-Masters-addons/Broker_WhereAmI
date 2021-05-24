@@ -25,7 +25,7 @@ function events:ADDON_LOADED(addonName)
         self:RegisterEvent("PLAYER_STOPPED_MOVING")
         self:RegisterEvent("PLAYER_ENTERING_WORLD")
 
-        _G['WhereAmIConfig']:init()
+        addon.config:init()
         --addon:MainUpdate()
     end
 end

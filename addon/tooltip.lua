@@ -37,19 +37,19 @@ end
 function tooltip_class:add_text(destination)
     --Title
     local line = self.tooltip:AddLine()
-    self.tooltip:SetCell(line, 1, "Broker: Where am I? " .. _G['WhereAmICommon'].version, fonts.title, "CENTER", 0)
+    self.tooltip:SetCell(line, 1, "Broker: Where am I? " .. addon.version, fonts.title, "CENTER", 0)
     self.tooltip:AddLine(" ")
     --General
-    _G['WhereAmITooltip']:general(text.zone)
+    self:general(text.zone)
 
     --Instances
-    _G['WhereAmITooltip']:zone_instances(text.zone.mapId)
+    self:zone_instances(text.zone.mapId)
 
-    if _G['WhereAmIConfig'].get('show_recommended') then
-        _G['WhereAmITooltip']:recommended_zones(destination)
+    if addon.config.get('show_recommended') then
+        self:recommended_zones(destination)
         self.tooltip:AddSeparator()
         -- recommended instances
-        _G['WhereAmITooltip']:recommended_instances(destination)
+        self:recommended_instances(destination)
     end
 
     -- shortcut hints
