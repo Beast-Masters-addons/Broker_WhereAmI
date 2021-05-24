@@ -26,15 +26,22 @@ function Zone:construct(mapId)
         o.mapId = mapId
     end
 
-    o.zoneText = _G.GetRealZoneText(o.mapId)
+    if mapId == nil then
+        o.zoneText = _G.GetZoneText()
+    else
+        local mapInfo _G.C_Map.GetMapInfo(o.mapId)
+        o.zoneText = mapInfo['name']
+    end
 
     if o.zoneText == '' then
         o.zoneText = nil
     end
 
-    o.subZoneText = _G.GetSubZoneText(o.mapId)
-    if o.subZoneText == '' then
-        o.subZoneText = nil
+    if mapId == nil then
+        o.subZoneText = _G.GetSubZoneText()
+        if o.subZoneText == '' then
+            o.subZoneText = nil
+        end
     end
 
     o.continent = Tourist:GetContinent(o.mapId)
