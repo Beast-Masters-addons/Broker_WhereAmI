@@ -11,7 +11,7 @@ end
 ---LibDataBroker object
 addon.obj = ldb:NewDataObject(addon.name, {
     type = "data source",
-    label = "Location",
+    label = "Where am I?",
     text = "Updating...",
     icon = icon,
 })
