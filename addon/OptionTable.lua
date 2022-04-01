@@ -2,7 +2,7 @@ local addon = _G.BrokerWhereAmI
 ---@class WhereAmIOptionsTable Options table for AceConfig
 addon.optionsTable = {
     type = "group",
-    name = "Broker: Where am I?",
+    name = addon.name,
     args = {
         general = {
             order = 1,
