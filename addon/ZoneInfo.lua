@@ -29,8 +29,15 @@ function Zone:construct(mapId)
     if mapId == nil then
         o.zoneText = _G.GetZoneText()
     else
-        local mapInfo _G.C_Map.GetMapInfo(o.mapId)
-        o.zoneText = mapInfo['name']
+        local mapInfo = _G.C_Map.GetMapInfo(o.mapId)
+        if mapInfo ~= nil then
+            o.zoneText = mapInfo['name']
+        else
+            --@debug@
+            --addon.utils:printf('No info found for UiMapID %d', mapId)
+            error(('No info found for UiMapID "%d"'):format(mapId))
+            --@end-debug@
+        end
     end
 
     if o.zoneText == '' then
