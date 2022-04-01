@@ -28,11 +28,17 @@ loadfile('build_utils/wow_api/zone.lua')()
 
 loadfile('../libs/CallbackHandler/CallbackHandler-1.0.lua')()
 loadfile('../libs/HereBeDragons-2.0/HereBeDragons-2.0.lua')()
+
 if os.getenv('GAME_VERSION') == 'retail' then
-    loadfile('../libs/LibTourist-3.0/LibTourist-3.0.lua')()
+    loadfile('zone_id_missing_retail.lua')()
 else
     loadfile('instance_id.lua')()
-    loadfile('../libs/LibTouristClassic/LibTouristClassic-1.0.lua')()
+    if os.getenv('GAME_VERSION') == 'classic' then
+        loadfile('zone_id_vanilla.lua')()
+    end
+    if os.getenv('GAME_VERSION') == 'bcc' then
+        loadfile('zone_id_tbc.lua')()
+    end
 end
 loadfile('build_utils/utils/load_toc.lua')('../Broker_WhereAmI.toc', { 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'fonts.lua', 'AceGUI-3.0' })
 
