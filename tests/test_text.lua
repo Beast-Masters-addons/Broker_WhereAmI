@@ -13,8 +13,8 @@ loadfile('build_utils/wow_api/functions.lua')()
 loadfile('build_utils/wow_api/frame.lua')()
 loadfile('build_utils/wow_api/mixin.lua')()
 
-loadfile('wow-ui-source/SharedXML/Vector2D.lua')()
-loadfile('wow-ui-source/SharedXML/Vector3D.lua')()
+loadfile('wow-ui-source/Interface/SharedXML/Vector2D.lua')()
+loadfile('wow-ui-source/Interface/SharedXML/Vector3D.lua')()
 
 loadfile('build_utils/data/AreaInfo.lua')()
 loadfile('build_utils/data/MapInfo.lua')()
