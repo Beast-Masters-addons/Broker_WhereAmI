@@ -46,6 +46,14 @@ _G['test'] = {}
 local test = _G['test']
 local addon = _G.BrokerWhereAmI
 
+function _G.GetZoneText()
+    if addon.is_classic then
+        return 'Stranglethorn Vale'
+    else
+        return 'The Cape of Stranglethorn'
+    end
+end
+
 function test:setUp()
     addon.text:UpdateZoneInfo()
 end
