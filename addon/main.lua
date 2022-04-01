@@ -12,7 +12,7 @@ end
 addon.obj = ldb:NewDataObject(addon.name, {
     type = "data source",
     label = "Where am I?",
-    text = "Updating...",
+    text = "Waiting for movement...",
     icon = icon,
 })
 
