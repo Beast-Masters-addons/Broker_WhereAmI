@@ -21,6 +21,7 @@ function config.reset()
         show_minimap = false,
         show_recommended = true,
         show_atlas_on_ctrl = false,
+        show_map_id = false,
     }
 end
 

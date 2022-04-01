@@ -145,6 +145,11 @@ function tooltip_class:general(zone)
             tooltip:SetCell(line, 2, pet_levels, "LEFT", 3)
         end
     end
+
+    if addon.config.get('show_map_id') then
+        line = tooltip:AddLine("UiMapID:")
+        tooltip:SetCell(line, 2, _G.C_Map.GetBestMapForUnit("player"), "LEFT", 3)
+    end
 end
 
 -- Show path to recommended zone

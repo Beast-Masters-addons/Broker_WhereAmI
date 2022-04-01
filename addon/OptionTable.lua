@@ -95,6 +95,13 @@ addon.optionsTable = {
                         return _G['Atlas'] == nil
                     end
                 },
+                show_map_id = {
+                    order = 13,
+                    type = 'toggle',
+                    width = "full",
+                    name = "Show UiMapID",
+                    desc = "Toggle to show the UiMapID.",
+                },
             }
         }
     }
