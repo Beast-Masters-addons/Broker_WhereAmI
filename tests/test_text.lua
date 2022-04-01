@@ -40,7 +40,7 @@ else
         loadfile('zone_id_tbc.lua')()
     end
 end
-loadfile('build_utils/utils/load_toc.lua')('../Broker_WhereAmI.toc', { 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'fonts.lua', 'AceGUI-3.0' })
+loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'fonts.lua', 'AceGUI-3.0' })
 
 _G['test'] = {}
 local test = _G['test']
