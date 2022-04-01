@@ -11,8 +11,12 @@ _G.strmatch = string.match
 loadfile('../libs/LibStub/LibStub.lua')()
 if os.getenv('GAME_VERSION') == 'retail' then
     _G.LibStub:NewLibrary('LibTourist-3.0', 1)
-else
+end
+if os.getenv('GAME_VERSION') == 'bcc' then
     _G.LibStub:NewLibrary('LibTouristClassic-1.0', 1)
+end
+if os.getenv('GAME_VERSION') == 'classic' then
+    _G.LibStub:NewLibrary('LibTouristClassicEra', 1)
 end
 
 loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'LibTouristClassicEra.lua', 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'HereBeDragons-2.0.lua', 'fonts.lua' })

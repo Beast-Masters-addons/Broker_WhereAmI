@@ -6,12 +6,15 @@
     <Include file="libs\AceGUI-3.0\AceGUI-3.0.xml"/>
     <Include file="libs\AceConfig-3.0\AceConfig-3.0.xml"/>
     <Script file="libs\HereBeDragons-2.0\HereBeDragons-2.0.lua"/>
-    <!--@retail@-->
+    <!--@version-retail@-->
     <Script file="libs\LibTourist-3.0\LibTourist-3.0.lua"/>
-    <!--@end-retail@-->
-    <!--@non-retail@
-        <Script file="libs\LibTouristClassic\LibTouristClassic-1.0.lua"/>
-    @end-non-retail@-->
+    <!--@end-version-retail@-->
+    <!--@version-bcc@-->
+    <Script file="libs\LibTouristClassic\LibTouristClassic-1.0.lua"/>
+    <!--@end-version-bcc@-->
+    <!--@version-classic@-->
+    <Script file="libs\LibTouristClassicEra\LibTouristClassicEra.lua"/>
+    <!--@end-version-classic@-->
     <Include file="libs\LibQTip-1.0\lib.xml"/>
     <Include file="libs\BM-utils\lib.xml"/>
     <Include file="libs\LibProfessions\lib.xml"/>
