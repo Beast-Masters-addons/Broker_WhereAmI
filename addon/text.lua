@@ -1,11 +1,14 @@
+---@type BrokerWhereAmI
 local addon = _G.BrokerWhereAmI
 ---@class WhereAmIText Text utils
 local text = addon.text
 
 text.professions = _G['LibProfessions']
+---@type LibProfessions
 text.professions = _G['LibStub']('LibProfessions-0')
-
+---@type boolean
 text.is_classic = addon.is_classic
+---@type WhereAmIConfig
 text.config = addon.config
 
 local Tourist = addon.tourist
