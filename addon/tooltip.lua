@@ -160,7 +160,7 @@ function tooltip_class:AddPathTooltip(destination_zone)
     --@debug@
     addon.utils:printf('Get path from %s to %s', text.zone.touristZoneText, destination_zone)
     --@end-debug@
-    for z in Tourist:IteratePath(text.zone.touristZoneText, destination_zone) do
+    for z in Tourist:IteratePath(text.zone.mapId, destination_zone) do
         found = true
         local zone_string, level_string, continent_string = text:zone_info(z)
         tooltip:AddLine("    " .. zone_string, level_string, continent_string)
