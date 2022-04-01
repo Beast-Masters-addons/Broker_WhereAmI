@@ -105,7 +105,7 @@ function tooltip_class:general(zone)
     end
     local tooltip = self.tooltip
 
-    local line = tooltip:AddLine("Zone:")
+    local line = tooltip:AddLine(_G.ZONE_COLON)
     tooltip:SetCell(line, 2, zone.zoneText, "LEFT", 3)
     if text.zone.subZoneText ~= nil then
         line = tooltip:AddLine("Subzone:")
@@ -114,7 +114,7 @@ function tooltip_class:general(zone)
 
     local status = text:GetAreaStatus()
     if status then
-        line = tooltip:AddLine("Status:")
+        line = tooltip:AddLine(_G.STATUS .. ':')
         tooltip:SetCell(line, 2, status, "LEFT", 3)
     end
 
@@ -123,7 +123,7 @@ function tooltip_class:general(zone)
     tooltip:SetCell(line, 2, coords_string, "LEFT", 3)
 
     --touristContinentText = Tourist:GetContinent(text.touristZoneText)
-    line = tooltip:AddLine("Continent:")
+    line = tooltip:AddLine(_G.CONTINENT .. ':')
     tooltip:SetCell(line, 2, zone.continent, "LEFT", 3)
 
     local level = text:GetLevelRangeText()
@@ -134,7 +134,7 @@ function tooltip_class:general(zone)
 
     local fishText = text:GetFishingSkillText()
     if fishText ~= nil then
-        line = tooltip:AddLine("Fishing:")
+        line = tooltip:AddLine(_G.PROFESSIONS_FISHING .. ':')
         tooltip:SetCell(line, 2, fishText, "LEFT", 3)
     end
 
