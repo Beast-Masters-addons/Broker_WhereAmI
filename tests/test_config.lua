@@ -1,5 +1,5 @@
 local lu = require('luaunit')
---loadfile('wow_functions.lua')()
+loadfile('build_utils/wow_api/constants.lua')()
 loadfile('build_utils/wow_api/frame.lua')()
 loadfile('build_utils/wow_api/functions.lua')()
 loadfile('build_utils/wow_api/text.lua')()
