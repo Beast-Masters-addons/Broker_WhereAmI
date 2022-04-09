@@ -45,6 +45,11 @@ jobs:
           sudo luarocks install luaunit
           sudo luarocks install luacov
 
+      - name: Move toc and add LibTourist to .pkgmeta
+        run: |
+          cat ${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
+          mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
+
       - name: Build the addon
         uses: BigWigsMods/packager@v1.0.1
         with:
@@ -55,8 +60,6 @@ jobs:
           mv .release/Broker_WhereAmI/libs .
           mv .release/Broker_WhereAmI/Broker_WhereAmI.toc .
           mv .release/Broker_WhereAmI/embeds.xml .
-          cat ${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
-          mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
 
       - name: Strip invalid characters from LibTouristClassic-1.0.lua
         if: matrix.game_version == 'bcc'
@@ -130,8 +133,10 @@ jobs:
       - name: Build map data
         run: python tests/build_utils/utils/BuildMapData.py
 
-      - name: Add LibTourist to .pkgmeta
-        run: cat ${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
+      - name: Move toc and add LibTourist to .pkgmeta
+        run: |
+          cat ${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
+          mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
 
       - name: WoW Packager
         uses: BigWigsMods/packager@v1.0.1
