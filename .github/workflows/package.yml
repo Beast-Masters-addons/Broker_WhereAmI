@@ -56,11 +56,8 @@ jobs:
         with:
           args: -z -d
 
-      - name: Move libraries and toc
-        run: | 
-          mv .release/Broker_WhereAmI/libs .
-          mv .release/Broker_WhereAmI/Broker_WhereAmI.toc .
-          mv .release/Broker_WhereAmI/embeds.xml .
+      - name: Move libraries
+        run: mv .release/Broker_WhereAmI/libs .
 
       - name: Strip invalid characters from LibTouristClassic-1.0.lua
         if: matrix.game_version == 'bcc'
