@@ -45,12 +45,15 @@ jobs:
           sudo luarocks install luaunit
           sudo luarocks install luacov
 
-      - name: Move toc and add LibTourist to .pkgmeta
+      - name: Move toc
         run: |
-          cat files/${{ matrix.game_version }}/externals.yml >> $GITHUB_WORKSPACE/.pkgmeta.yml
           mv files/${{ matrix.game_version }}/Broker_WhereAmI.toc $GITHUB_WORKSPACE/Broker_WhereAmI.toc
           rm -R files
-          cat $GITHUB_WORKSPACE/.pkgmeta.yml
+
+      - name: Build YAML
+        run: python yaml_merge.py
+        env:
+          GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Build the addon
         uses: BigWigsMods/packager@v2.0.3
@@ -101,7 +104,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v1
+        uses: codecov/codecov-action@v2
 
   build:
     runs-on: ubuntu-latest
