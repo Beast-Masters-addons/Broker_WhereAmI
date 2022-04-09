@@ -51,9 +51,9 @@ jobs:
           mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
 
       - name: Build the addon
-        uses: BigWigsMods/packager@v1.0.1
+        uses: BigWigsMods/packager@v2.0.3
         with:
-          args: -g ${{ matrix.game_version }} -z -d
+          args: -z -d
 
       - name: Move libraries and toc
         run: | 
@@ -139,9 +139,9 @@ jobs:
           mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
 
       - name: WoW Packager
-        uses: BigWigsMods/packager@v1.0.1
+        uses: BigWigsMods/packager@v2.0.3
         with:
-          args: -g ${{ matrix.game_version }} -o
+          args: -o
 
       - uses: actions/upload-artifact@v3
         with:
