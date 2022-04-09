@@ -1,0 +1,17 @@
+## Interface: 20504
+## Title: Broker: Where am I?
+## Notes: Show where you are and where you should go
+## Version: @project-version@
+## Author: datagutten
+#@non-no-lib-strip@
+# ## Dependencies: Ace3, LibTouristClassic, LibQTip-1.0, BM-utils, LibProfessions
+#@end-non-no-lib-strip@
+
+## SavedVariables: WhereAmIOptions
+
+#@no-lib-strip@
+embeds.xml
+libs\LibTouristClassic\LibTouristClassic-1.0.lua
+#@end-no-lib-strip@
+
+addon.xml

@@ -45,10 +45,17 @@ jobs:
           sudo luarocks install luaunit
           sudo luarocks install luacov
 
+      - name: Build YAML and move toc
+        run: |
+          python files/yaml_merge.py
+          git add Broker_WhereAmI.toc
+        env:
+          GAME_VERSION: ${{ matrix.game_version }}
+
       - name: Build the addon
-        uses: BigWigsMods/packager@v1.0.1
+        uses: BigWigsMods/packager@v2.0.3
         with:
-          args: -g ${{ matrix.game_version }} -z -d
+          args: -z -d
 
       - name: Move libraries and toc
         run: | 
@@ -128,10 +135,17 @@ jobs:
       - name: Build map data
         run: python tests/build_utils/utils/BuildMapData.py
 
+      - name: Build YAML and move toc
+        run: |
+          python files/yaml_merge.py
+          git add Broker_WhereAmI.toc
+        env:
+          GAME_VERSION: ${{ matrix.game_version }}
+
       - name: WoW Packager
-        uses: BigWigsMods/packager@v1.0.1
+        uses: BigWigsMods/packager@v2.0.3
         with:
-          args: -g ${{ matrix.game_version }} -o
+          args: -o
 
       - uses: actions/upload-artifact@v3
         with:

@@ -12,14 +12,6 @@ externals:
     url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceGUI-3.0
   libs/HereBeDragons-2.0:
     url: https://repos.wowace.com/wow/herebedragons
-  libs/LibTourist-3.0:
-    url: svn://svn.wowace.com/wow/libtourist-3-0/mainline/trunk
-  libs/LibTouristClassic:
-    url: https://repos.wowace.com/wow/libtourist-classic
-    tag: latest
-  libs/LibTouristClassicEra:
-    url: https://repos.wowace.com/wow/libtourist-classic-era
-    tag: latest
   libs/LibQTip-1.0:
     url: https://repos.curseforge.com/wow/libqtip-1-0
   libs/BM-utils:
@@ -34,5 +26,6 @@ externals:
 
 ignore:
   - tests
+  - files
 
 enable-nolib-creation: yes

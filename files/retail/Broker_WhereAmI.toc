@@ -1,6 +1,4 @@
-## Interface-Retail: 90200
-## Interface-Classic: 11402
-## Interface-BCC: 20504
+## Interface: 90200
 ## Title: Broker: Where am I?
 ## Notes: Show where you are and where you should go
 ## Version: @project-version@
@@ -13,26 +11,7 @@
 
 #@no-lib-strip@
 embeds.xml
+libs\LibTourist-3.0\LibTourist-3.0.lua
 #@end-no-lib-strip@
 
-# Common utilities
-addon\common.lua
-
-# Static tables
-addon\fonts.lua
-
-# Objects
-addon\ZoneInfo.lua
-
-# Config
-addon\config.lua
-addon\OptionTable.lua
-
-addon\text.lua
-
-# Event handling
-addon\events.lua
-
-addon\tooltip.lua
-
-addon\main.lua
+addon.xml
