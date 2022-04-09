@@ -1,6 +1,9 @@
 ﻿package-as: Broker_WhereAmI
 ignore:
   - tests
+  - classic
+  - bcc
+  - retail
 
 enable-nolib-creation: yes
 
