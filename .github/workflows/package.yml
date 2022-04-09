@@ -45,13 +45,12 @@ jobs:
       - name: Run luacheck
         run: luacheck addon
 
-      - name: Build YAML
-        run: python files/yaml_merge.py
+      - name: Build YAML and move toc
+        run: |
+          python files/yaml_merge.py
+          git add Broker_WhereAmI.toc
         env:
           GAME_VERSION: ${{ matrix.game_version }}
-
-      - name: Git add toc
-        run: git add Broker_WhereAmI.toc
 
       - name: Build the addon
         uses: BigWigsMods/packager@v2.0.3
@@ -133,13 +132,12 @@ jobs:
       - name: Build map data
         run: python tests/build_utils/utils/BuildMapData.py
 
-      - name: Build YAML
-        run: python files/yaml_merge.py
+      - name: Build YAML and move toc
+        run: |
+          python files/yaml_merge.py
+          git add Broker_WhereAmI.toc
         env:
           GAME_VERSION: ${{ matrix.game_version }}
-
-      - name: Git add toc
-        run: git add Broker_WhereAmI.toc
 
       - name: WoW Packager
         uses: BigWigsMods/packager@v2.0.3
