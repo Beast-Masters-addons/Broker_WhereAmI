@@ -23,4 +23,5 @@ with open('.pkgmeta', 'w', encoding='utf8') as fp:
     fp.write(output)
     pass
 
-shutil.move(os.path.join('files', game, 'Broker_WhereAmI.toc'), 'Broker_WhereAmI.toc')
+path = os.path.realpath(os.path.dirname(__file__))
+shutil.move(os.path.join(path, 'files', game, 'Broker_WhereAmI.toc'), 'Broker_WhereAmI.toc')
