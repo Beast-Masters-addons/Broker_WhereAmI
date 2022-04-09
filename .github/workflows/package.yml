@@ -47,8 +47,9 @@ jobs:
 
       - name: Move toc and add LibTourist to .pkgmeta
         run: |
-          cat ${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
-          mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
+          cat files/${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
+          mv files/${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
+          rm -R files
 
       - name: Build the addon
         uses: BigWigsMods/packager@v2.0.3
@@ -135,8 +136,9 @@ jobs:
 
       - name: Move toc and add LibTourist to .pkgmeta
         run: |
-          cat ${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
-          mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
+          cat files/${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
+          mv files/${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
+          rm -R files
 
       - name: WoW Packager
         uses: BigWigsMods/packager@v2.0.3

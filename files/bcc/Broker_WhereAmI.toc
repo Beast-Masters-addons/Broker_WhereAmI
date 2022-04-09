@@ -1,4 +1,4 @@
-## Interface: 11402
+## Interface-BCC: 20504
 ## Title: Broker: Where am I?
 ## Notes: Show where you are and where you should go
 ## Version: @project-version@
@@ -11,7 +11,7 @@
 
 #@no-lib-strip@
 embeds.xml
-libs\LibTouristClassicEra\LibTouristClassicEra.lua
+libs\LibTouristClassic\LibTouristClassic-1.0.lua
 #@end-no-lib-strip@
 
 addon.xml
