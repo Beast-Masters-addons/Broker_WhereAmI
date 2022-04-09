@@ -56,6 +56,9 @@ jobs:
         env:
           GAME_VERSION: ${{ matrix.game_version }}
 
+      - name: Git add toc
+        run: git add Broker_WhereAmI.toc
+
       - name: Build the addon
         uses: BigWigsMods/packager@v2.0.3
         with:
@@ -136,12 +139,13 @@ jobs:
       - name: Build map data
         run: python tests/build_utils/utils/BuildMapData.py
 
-      - name: Move toc and add LibTourist to .pkgmeta
-        run: |
-          cat files/${{ matrix.game_version }}/externals.yml >> $GITHUB_WORKSPACE/.pkgmeta.yml
-          mv files/${{ matrix.game_version }}/Broker_WhereAmI.toc $GITHUB_WORKSPACE/Broker_WhereAmI.toc
-          rm -R files
-          git add Broker_WhereAmI.toc
+      - name: Build YAML
+        run: python yaml_merge.py
+        env:
+          GAME_VERSION: ${{ matrix.game_version }}
+
+      - name: Git add toc
+        run: git add Broker_WhereAmI.toc
 
       - name: WoW Packager
         uses: BigWigsMods/packager@v2.0.3

@@ -1,4 +1,5 @@
 import os
+import shutil
 
 from yaml import load, dump
 from yaml import Loader, Dumper
@@ -21,3 +22,5 @@ with open('.pkgmeta', 'w', encoding='utf8') as fp:
     output = dump(data, Dumper=Dumper)
     fp.write(output)
     pass
+
+shutil.move(os.path.join('files', game, 'Broker_WhereAmI.toc'), 'Broker_WhereAmI.toc')
