@@ -5,7 +5,7 @@ from yaml import load, dump
 from yaml import Loader, Dumper
 
 game = os.getenv('GAME_VERSION')
-with open('.pkgmeta', 'r', encoding='utf8') as fp:
+with open('../.pkgmeta', 'r', encoding='utf8') as fp:
     data = load(fp, Loader=Loader)
 
     if game == 'classic':
@@ -18,10 +18,8 @@ with open('.pkgmeta', 'r', encoding='utf8') as fp:
         data['externals']['libs/LibTourist-3.0'] = {'url': 'https://repos.wowace.com/wow/libtourist-3-0/trunk',
                                                     'tag': 'latest'}
 
-with open('.pkgmeta', 'w', encoding='utf8') as fp:
+with open('../.pkgmeta', 'w', encoding='utf8') as fp:
     output = dump(data, Dumper=Dumper)
     fp.write(output)
-    pass
 
-path = os.path.realpath(os.path.dirname(__file__))
-shutil.move(os.path.join(path, 'files', game, 'Broker_WhereAmI.toc'), 'Broker_WhereAmI.toc')
+shutil.move(os.path.join(game, 'Broker_WhereAmI.toc'), '../Broker_WhereAmI.toc')
