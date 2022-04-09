@@ -4,11 +4,11 @@ name: Test and package
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [ master ]
+    branches: [ master, build_test ]
     tags:
       - '**'
   pull_request:
-    branches: [ master ]
+    branches: [ master, build_test ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -56,6 +56,7 @@ jobs:
           mv .release/Broker_WhereAmI/Broker_WhereAmI.toc .
           mv .release/Broker_WhereAmI/embeds.xml .
           cat ${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
+          mv ${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
 
       - name: Strip invalid characters from LibTouristClassic-1.0.lua
         if: matrix.game_version == 'bcc'
