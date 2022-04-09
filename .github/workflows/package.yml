@@ -50,6 +50,7 @@ jobs:
           cat files/${{ matrix.game_version }}/externals.yml >> .pkgmeta.yml
           mv files/${{ matrix.game_version }}/Broker_WhereAmI.toc Broker_WhereAmI.toc
           rm -R files
+          cat .pkgmeta.yml
 
       - name: Build the addon
         uses: BigWigsMods/packager@v2.0.3
