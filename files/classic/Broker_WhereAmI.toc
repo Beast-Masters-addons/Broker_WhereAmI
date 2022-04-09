@@ -1,4 +1,4 @@
-## Interface-Classic: 11402
+## Interface: 11402
 ## Title: Broker: Where am I?
 ## Notes: Show where you are and where you should go
 ## Version: @project-version@

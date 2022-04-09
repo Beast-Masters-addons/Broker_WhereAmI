@@ -1,4 +1,4 @@
-## Interface-Retail: 90200
+## Interface: 90200
 ## Title: Broker: Where am I?
 ## Notes: Show where you are and where you should go
 ## Version: @project-version@
