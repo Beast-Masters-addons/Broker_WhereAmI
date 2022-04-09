@@ -1,9 +1,8 @@
 ﻿package-as: Broker_WhereAmI
 ignore:
   - tests
-  - classic
-  - bcc
-  - retail
+  - files
+  - yaml_merge.py
 
 enable-nolib-creation: yes
 
