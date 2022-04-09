@@ -34,22 +34,16 @@ jobs:
       - name: Build map data
         run: python tests/build_utils/utils/BuildMapData.py
 
-      - name: Install and run Luacheck
-        uses: nebularg/actions-luacheck@v1
-        with:
-          path: 'addon'
-          annotate: warning
-
       - name: Install lua dependencies
         run: |
+          sudo apt-get update
+          sudo apt-get -y install luarocks
           sudo luarocks install luaunit
           sudo luarocks install luacov
+          sudo luarocks install luacheck
 
-      - name: Move toc
-        run: |
-          mv files/${{ matrix.game_version }}/Broker_WhereAmI.toc $GITHUB_WORKSPACE/Broker_WhereAmI.toc
-          rm -R files
-          git add Broker_WhereAmI.toc
+      - name: Run luacheck
+        run: luacheck addon
 
       - name: Build YAML
         run: python yaml_merge.py
