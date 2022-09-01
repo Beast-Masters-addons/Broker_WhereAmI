@@ -19,7 +19,7 @@ externals:
     tag: v1.5.2
   libs/LibProfessions:
     url: https://github.com/Beast-Masters-addons/wow-LibProfessions
-    tag: v0.10
+    tag: v0.10.1
   libs/LibDataBroker:
     url: https://github.com/tekkub/libdatabroker-1-1.git
     tag: v1.1.4
