@@ -111,7 +111,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'bcc', 'retail' ]
+        game_version: [ 'classic', 'bcc', 'wrath', 'retail' ]
 
     needs:
       - test

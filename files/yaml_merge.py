@@ -15,6 +15,9 @@ with open(os.path.join(main_folder, '.pkgmeta'), 'r', encoding='utf8') as fp:
                                                           'tag': 'latest'}
     elif game == 'bcc':
         data['externals']['libs/LibTouristClassic'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic',
+                                                       'tag': 'WoW-2.5.3-release1'}
+    elif game == 'wrath':
+        data['externals']['libs/LibTouristClassic'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic',
                                                        'tag': 'latest'}
     else:
         data['externals']['libs/LibTourist-3.0'] = {'url': 'https://repos.wowace.com/wow/libtourist-3-0/trunk',
