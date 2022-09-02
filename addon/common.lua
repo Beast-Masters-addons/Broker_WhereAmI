@@ -19,7 +19,7 @@ _G['BrokerWhereAmI'] = {
     ---@type WhereAmITooltip
     tooltip = {},
 }
-_G['BrokerWhereAmI'].is_classic = _G['BrokerWhereAmI'].utils:IsWoWClassic()
+_G['BrokerWhereAmI'].is_classic = _G.WOW_PROJECT_ID ~= _G.WOW_PROJECT_MAINLINE
 
 if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
     _G['BrokerWhereAmI'].tourist = _G.LibStub("LibTouristClassicEra")
