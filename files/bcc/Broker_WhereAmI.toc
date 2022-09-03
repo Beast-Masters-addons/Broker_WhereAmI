@@ -8,6 +8,8 @@
 #@end-non-no-lib-strip@
 
 ## SavedVariables: WhereAmIOptions
+## X-WoWI-ID: 26397
+## X-Wago-ID: 5bGopJN0
 
 #@no-lib-strip@
 embeds.xml
