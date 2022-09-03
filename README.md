@@ -5,4 +5,4 @@ The recommendations and walk paths are provided by [LibTourist](https://www.curs
 
 The addon requires a LibDataBroker addon like [Bazooka](https://www.curseforge.com/wow/addons/bazooka)
 
-![Screenshot](https://raw.githubusercontent.com/Beast-Masters-addons/Broker_WhereAmI/master/screenshot.jog)
+![Screenshot](https://raw.githubusercontent.com/Beast-Masters-addons/Broker_WhereAmI/master/screenshot.jpg)
