@@ -64,7 +64,7 @@ jobs:
           mv .release/Broker_WhereAmI/embeds.xml .
 
       - name: Strip invalid characters from LibTouristClassic-1.0.lua
-        if: matrix.game_version == 'bcc'
+        if: matrix.game_version == 'wrath'
         run: sed -i '1s/^\xEF\xBB\xBF//' libs/LibTouristClassic/LibTouristClassic-1.0.lua
 
       - name: Strip invalid characters from LibTouristClassicEra.lua
@@ -82,8 +82,8 @@ jobs:
           path: tests/wow-ui-source
           ref: 'classic_era'
 
-      - name: Download Burning Crusade Classic UI source
-        if: matrix.game_version == 'bcc'
+      - name: Download WotLK UI source
+        if: matrix.game_version == 'wrath'
         uses: actions/checkout@v2
         with:
           repository: Gethe/wow-ui-source
