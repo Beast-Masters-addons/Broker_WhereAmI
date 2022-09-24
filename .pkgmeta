@@ -26,6 +26,7 @@ externals:
 
 ignore:
   - tests
+  - libs/LibStub/tests
   - files
 
 enable-nolib-creation: yes
