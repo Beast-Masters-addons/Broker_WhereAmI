@@ -36,7 +36,7 @@ else
     if os.getenv('GAME_VERSION') == 'classic' then
         loadfile('zone_id_vanilla.lua')()
     end
-    if os.getenv('GAME_VERSION') == 'bcc' then
+    if os.getenv('GAME_VERSION') == 'wrath' then
         loadfile('zone_id_tbc.lua')()
     end
 end

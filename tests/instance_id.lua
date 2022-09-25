@@ -31,7 +31,12 @@ local instances = {
     [533] = "Naxxramas",
     [189] = "Scarlet Monastery", -- 1004 ?
     [289] = "Scholomance", -- 1007 ?
-    [309] = "Zul'Gurub"
+    [309] = "Zul'Gurub",
+    [572] = "Ruins of Lordaeron",
+    [559] = "Nagrand Arena",
+    [562] = "Blade's Edge Arena",
+    [585] = "Magister's Terrace",
+    [618] = "The Ring of Valor",
 }
 
 for key, value in pairs(instances) do
