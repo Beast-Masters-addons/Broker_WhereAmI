@@ -146,7 +146,7 @@ jobs:
       - name: WoW Packager
         uses: BigWigsMods/packager@v2.0.3
         with:
-          args: -o
+          args: -o -g ${{ matrix.game_version }}
 
       - uses: actions/upload-artifact@v3
         with:
