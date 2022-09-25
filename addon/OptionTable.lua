@@ -59,20 +59,13 @@ addon.optionsTable = {
                     name = "Show zone level",
                     desc = "Toggle to show the zone level.",
                 },
-                --[[				show_minimap = {
-                                    order = 8,
-                                    type = 'toggle',
-                                    width = "full",
-                                    name = "Show location above minimap.",
-                                    desc = "Toggle to show the text displayed above the minimap.",
-                                    get = function()
-                                        return profileDB.show_minimap
-                                    end,
-                                    set = function(key, value)
-                                        profileDB.show_minimap = value
-                                        addon:UpdateMinimapZoneTextButton()
-                                    end,
-                                },]]
+                hide_minimap_location = {
+                    order = 8,
+                    type = 'toggle',
+                    width = "full",
+                    name = "Hide location above minimap.",
+                    desc = "Toggle to show the text displayed above the minimap.",
+                },
                 separator2 = {
                     order = 10,
                     type = "header",

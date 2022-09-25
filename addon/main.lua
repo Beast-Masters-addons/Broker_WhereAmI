@@ -29,6 +29,21 @@ function addon.show_map()
     end
 end
 
+function addon.hideMiniMapZone()
+    _G.MinimapBorderTop:Hide()
+    _G.MinimapZoneTextButton:Hide()
+    if _G.MinimapToggleButton then
+        _G.MinimapToggleButton:Hide()
+    end
+end
+
+function addon.showMiniMapZone()
+    _G.MinimapBorderTop:Show()
+    _G.MinimapZoneTextButton:Show()
+    if _G.MinimapToggleButton then
+        _G.MinimapToggleButton:Show()
+    end
+end
 
 -- LDB Event handlers
 function addon.obj.OnEnter(self)

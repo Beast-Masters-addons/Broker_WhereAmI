@@ -50,6 +50,9 @@ function events.PLAYER_ENTERING_WORLD()
         print('PLAYER_ENTERING_WORLD in zone', _G.GetRealZoneText())
         --@end-debug@
     end
+    if _G['WhereAmIOptions']['hide_minimap_location'] then
+        addon.hideMiniMapZone()
+    end
 end
 
 function events:PLAYER_STARTED_MOVING()

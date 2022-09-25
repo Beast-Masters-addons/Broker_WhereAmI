@@ -18,7 +18,7 @@ function config.reset()
         show_coords = true,
         cords_decimal_precision = 0,
         show_zone_level = true,
-        show_minimap = false,
+        hide_minimap_location = false,
         show_recommended = true,
         show_atlas_on_ctrl = false,
         show_map_id = false,
@@ -38,10 +38,25 @@ function config:init()
     end
 end
 
+function config.handler_hide_minimap_location(key, value)
+    print('show_minimap', key, 'value', value)
+    if value then
+        print('Hide')
+        addon.hideMiniMapZone()
+    else
+        print('Show')
+        addon.showMiniMapZone()
+    end
+    return key
+end
+
 function config.option_set(info, value)
     local key = info[#info]
     --print("The " .. info[#info] .. " was set to: " .. tostring(value))
     _G['WhereAmIOptions'][key] = value
+    if config['handler_' .. key] ~= nil then
+        config['handler_' .. key](key, value)
+    end
     addon:MainUpdate()
 end
 
