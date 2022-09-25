@@ -1,7 +1,8 @@
+local _, addonTitle = _G.GetAddOnInfo(...)
 ---@class BrokerWhereAmI
 _G['BrokerWhereAmI'] = {
     version = '@project-version@',
-    name = ...,
+    name = addonTitle,
     ---@type BMUtils
     utils = _G.LibStub("BM-utils-1"),
     ---@type WhereAmIFonts
