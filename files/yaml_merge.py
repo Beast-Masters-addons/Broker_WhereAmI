@@ -7,7 +7,7 @@ from yaml import Loader, Dumper
 game = os.getenv('GAME_VERSION')
 main_folder = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
-with open(os.path.join(main_folder, '.pkgmeta'), 'r', encoding='utf8') as fp:
+with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as fp:
     data = load(fp, Loader=Loader)
 
     if game == 'classic':
