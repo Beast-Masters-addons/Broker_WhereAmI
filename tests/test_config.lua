@@ -19,6 +19,10 @@ if os.getenv('GAME_VERSION') == 'classic' then
     _G.LibStub:NewLibrary('LibTouristClassicEra', 1)
 end
 
+function GetAddOnInfo()
+    return 'Broker_Where Am I?', 'Broker: Where Am I?'
+end
+
 loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'LibTouristClassicEra.lua', 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'HereBeDragons-2.0.lua', 'fonts.lua' })
 
 _G['test'] = {}
