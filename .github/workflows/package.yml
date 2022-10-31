@@ -23,10 +23,10 @@ jobs:
         game_version: [ 'classic', 'wrath', 'retail' ]
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
 
       - name: Get build utils
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: Beast-Masters-addons/build_utils
           path: tests/build_utils
@@ -35,7 +35,7 @@ jobs:
         run: python tests/build_utils/utils/BuildMapData.py
 
       - name: Install and run Luacheck
-        uses: nebularg/actions-luacheck@v1
+        uses: nebularg/actions-luacheck@v3
         with:
           path: 'addon'
           annotate: warning
@@ -76,7 +76,7 @@ jobs:
 
       - name: Download classic UI source
         if: matrix.game_version == 'classic'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -84,7 +84,7 @@ jobs:
 
       - name: Download WotLK UI source
         if: matrix.game_version == 'wrath'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -92,7 +92,7 @@ jobs:
 
       - name: Download retail UI source
         if: matrix.game_version == 'retail'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -125,7 +125,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
 
       - name: Get build utils
         uses: actions/checkout@v3
