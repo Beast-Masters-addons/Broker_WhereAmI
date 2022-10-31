@@ -4,11 +4,8 @@ loadfile('build_utils/wow_api/frame.lua')()
 loadfile('build_utils/wow_api/functions.lua')()
 loadfile('build_utils/wow_api/text.lua')()
 loadfile('build_utils/wow_api/texture.lua')()
+loadfile('common.lua')()
 
--- Aliases required for LibStub
-_G.debugstack = debug.traceback
-_G.strmatch = string.match
-loadfile('../libs/LibStub/LibStub.lua')()
 if os.getenv('GAME_VERSION') == 'retail' then
     _G.LibStub:NewLibrary('LibTourist-3.0', 1)
 end
@@ -17,10 +14,6 @@ if os.getenv('GAME_VERSION') == 'wrath' then
 end
 if os.getenv('GAME_VERSION') == 'classic' then
     _G.LibStub:NewLibrary('LibTouristClassicEra', 1)
-end
-
-function GetAddOnInfo()
-    return 'Broker_Where Am I?', 'Broker: Where Am I?'
 end
 
 loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'LibTouristClassicEra.lua', 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'HereBeDragons-2.0.lua', 'fonts.lua' })
