@@ -1,4 +1,7 @@
 local addon = _G.BrokerWhereAmI
+if not addon then
+    return
+end
 ---@class WhereAmIOptionsTable Options table for AceConfig
 addon.optionsTable = {
     type = "group",

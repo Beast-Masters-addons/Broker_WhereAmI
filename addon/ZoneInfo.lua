@@ -1,4 +1,7 @@
 local addon = _G.BrokerWhereAmI
+if not addon then
+    return
+end
 ---@class WhereAmIZoneInfo
 local Zone = addon.zoneInfo
 

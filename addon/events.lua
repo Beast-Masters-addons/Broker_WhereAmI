@@ -1,4 +1,7 @@
 local addon = _G.BrokerWhereAmI
+if not addon then
+    return
+end
 ---@class WhereAmIEvents
 local events = addon.events
 local text = addon.text

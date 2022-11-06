@@ -1,4 +1,7 @@
 local addon = _G.BrokerWhereAmI
+if not addon then
+    return
+end
 ---@class WhereAmIFonts Static font definitions
 local fonts = addon.fonts
 

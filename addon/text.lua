@@ -1,5 +1,8 @@
 ---@type BrokerWhereAmI
 local addon = _G.BrokerWhereAmI
+if not addon then
+    return
+end
 ---@class WhereAmIText Text utils
 local text = addon.text
 

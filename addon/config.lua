@@ -1,4 +1,7 @@
 local addon = _G.BrokerWhereAmI
+if not addon then
+    return
+end
 ---@class WhereAmIConfig
 local config = addon.config
 local AceConfig = _G.LibStub("AceConfig-3.0")

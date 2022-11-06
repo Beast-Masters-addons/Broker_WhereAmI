@@ -1,4 +1,7 @@
 local addon = _G.BrokerWhereAmI
+if not addon then
+    return
+end
 ---@class WhereAmITooltip
 local tooltip_class = addon.tooltip
 local Tourist = addon.tourist
