@@ -22,7 +22,7 @@ function text:GetFishingSkillText()
     if addon.is_classic then
         local minFish = Tourist:GetFishingLevel(self.zone.mapId)
         local fishSkill = self.professions:GetAllSkills()["Fishing"]
-        if fishSkill ~= nil then
+        if fishSkill ~= nil and minFish ~= nil then
             local skillRank = fishSkill[4]
             if minFish < skillRank then
                 return addon.utils:colorize(minFish, 0, 255, 0)
