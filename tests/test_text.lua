@@ -24,21 +24,21 @@ loadfile('build_utils/wow_api/map.lua')()
 loadfile('build_utils/wow_api/zone.lua')()
 
 if os.getenv('GAME_VERSION') == 'retail' then
-    loadfile('zone_id_missing_retail.lua')()
     loadfile('data/retail/AreaInfo.lua')()
     loadfile('data/retail/MapInfo.lua')()
+    loadfile('zone_id_missing_retail.lua')()
 else
-    loadfile('instance_id.lua')()
     if os.getenv('GAME_VERSION') == 'classic' then
-        loadfile('zone_id_vanilla.lua')()
         loadfile('data/classic/AreaInfo.lua')()
         loadfile('data/clasic/MapInfo.lua')()
+        loadfile('zone_id_vanilla.lua')()
     end
     if os.getenv('GAME_VERSION') == 'wrath' then
-        loadfile('zone_id_tbc.lua')()
         loadfile('data/wrath/AreaInfo.lua')()
         loadfile('data/wrath/MapInfo.lua')()
+        loadfile('zone_id_tbc.lua')()
     end
+    loadfile('instance_id.lua')()
 end
 
 loadfile('../libs/CallbackHandler/CallbackHandler-1.0.lua')()
