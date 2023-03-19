@@ -30,7 +30,7 @@ if os.getenv('GAME_VERSION') == 'retail' then
 else
     if os.getenv('GAME_VERSION') == 'classic' then
         loadfile('data/classic/AreaInfo.lua')()
-        loadfile('data/clasic/MapInfo.lua')()
+        loadfile('data/classic/MapInfo.lua')()
         loadfile('zone_id_vanilla.lua')()
     end
     if os.getenv('GAME_VERSION') == 'wrath' then
