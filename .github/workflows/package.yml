@@ -31,9 +31,6 @@ jobs:
           repository: Beast-Masters-addons/build_utils
           path: tests/build_utils
 
-      - name: Build map data
-        run: python tests/build_utils/utils/BuildMapData.py
-
       - name: Install and run Luacheck
         uses: nebularg/actions-luacheck@v1
         with:

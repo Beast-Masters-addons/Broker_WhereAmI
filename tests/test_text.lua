@@ -16,9 +16,6 @@ loadfile('build_utils/wow_api/mixin.lua')()
 loadfile('wow-ui-source/Interface/SharedXML/Vector2D.lua')()
 loadfile('wow-ui-source/Interface/SharedXML/Vector3D.lua')()
 
-loadfile('build_utils/data/AreaInfo.lua')()
-loadfile('build_utils/data/MapInfo.lua')()
-
 loadfile('build_utils/wow_api/profession_api_classic.lua')()
 loadfile('build_utils/wow_api/profession_api_retail.lua')()
 
@@ -31,13 +28,19 @@ loadfile('../libs/HereBeDragons-2.0/HereBeDragons-2.0.lua')()
 
 if os.getenv('GAME_VERSION') == 'retail' then
     loadfile('zone_id_missing_retail.lua')()
+    loadfile('data/retail/AreaInfo.lua')()
+    loadfile('data/retail/MapInfo.lua')()
 else
     loadfile('instance_id.lua')()
     if os.getenv('GAME_VERSION') == 'classic' then
         loadfile('zone_id_vanilla.lua')()
+        loadfile('data/classic/AreaInfo.lua')()
+        loadfile('data/clasic/MapInfo.lua')()
     end
     if os.getenv('GAME_VERSION') == 'wrath' then
         loadfile('zone_id_tbc.lua')()
+        loadfile('data/wrath/AreaInfo.lua')()
+        loadfile('data/wrath/MapInfo.lua')()
     end
 end
 loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'fonts.lua', 'AceGUI-3.0' })
