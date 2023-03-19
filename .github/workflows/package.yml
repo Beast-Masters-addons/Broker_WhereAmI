@@ -130,9 +130,6 @@ jobs:
           repository: Beast-Masters-addons/build_utils
           path: tests/build_utils
 
-      - name: Build map data
-        run: python tests/build_utils/utils/BuildMapData.py
-
       - name: Build YAML and move toc
         run: |
           python files/yaml_merge.py
