@@ -23,9 +23,6 @@ loadfile('build_utils/wow_api/skills.lua')()
 loadfile('build_utils/wow_api/map.lua')()
 loadfile('build_utils/wow_api/zone.lua')()
 
-loadfile('../libs/CallbackHandler/CallbackHandler-1.0.lua')()
-loadfile('../libs/HereBeDragons-2.0/HereBeDragons-2.0.lua')()
-
 if os.getenv('GAME_VERSION') == 'retail' then
     loadfile('zone_id_missing_retail.lua')()
     loadfile('data/retail/AreaInfo.lua')()
@@ -43,6 +40,10 @@ else
         loadfile('data/wrath/MapInfo.lua')()
     end
 end
+
+loadfile('../libs/CallbackHandler/CallbackHandler-1.0.lua')()
+loadfile('../libs/HereBeDragons-2.0/HereBeDragons-2.0.lua')()
+
 loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'fonts.lua', 'AceGUI-3.0' })
 
 _G['test'] = {}
