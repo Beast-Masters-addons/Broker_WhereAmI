@@ -50,7 +50,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Build the addon
-        uses: BigWigsMods/packager@v2.0.11
+        uses: BigWigsMods/packager@v2.1.0
         with:
           args: -z -d -g ${{ matrix.game_version }}
 
@@ -138,7 +138,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: WoW Packager
-        uses: BigWigsMods/packager@v2.0.11
+        uses: BigWigsMods/packager@v2.1.0
         with:
           args: -o -g ${{ matrix.game_version }}
 
