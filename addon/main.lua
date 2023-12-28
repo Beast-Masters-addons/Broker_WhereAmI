@@ -25,7 +25,7 @@ function addon:MainUpdate()
 end
 
 function addon.show_map()
-    if _G.Atlas_Toggle ~= nil and _G.IsControlKeyDown() and _G['WhereAmIConfig'].get('show_atlas_on_ctrl') then
+    if _G.Atlas_Toggle ~= nil and _G.IsControlKeyDown() and addon.config.get('show_atlas_on_ctrl') then
         _G.Atlas_Toggle() -- Defined in Atlas.lua in Atlas addon
     else
         _G.ToggleFrame(_G.WorldMapFrame)
