@@ -119,12 +119,8 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-
-      - name: Get build utils
-        uses: actions/checkout@v3
         with:
-          repository: Beast-Masters-addons/build_utils
-          path: tests/build_utils
+          submodules: true
 
       - name: Build YAML and move toc
         run: |
