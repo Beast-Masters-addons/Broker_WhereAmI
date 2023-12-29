@@ -1,7 +1,6 @@
 .idea
 .release
 libs
-build_utils
 luacov.*.out
 wow-ui-source
 resolved.toc
