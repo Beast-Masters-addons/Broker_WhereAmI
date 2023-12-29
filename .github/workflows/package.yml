@@ -126,6 +126,8 @@ jobs:
         run: |
           python files/yaml_merge.py
           git add -f Broker_WhereAmI.toc
+          git rm -rf tests
+          git rm -rf files
         env:
           GAME_VERSION: ${{ matrix.game_version }}
 
