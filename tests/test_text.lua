@@ -72,7 +72,7 @@ function test:test_GetFishingSkillText()
         local expected_text = addon.utils:colorize(minFish, 255, 0, 0)
         lu.assertEquals(addon.text:GetFishingSkillText(), expected_text)
     else
-        lu.assertEquals(addon.text:GetFishingSkillText(), '')
+        lu.assertEquals(addon.text:GetFishingSkillText(), 'Classic Fishing')
     end
 end
 
