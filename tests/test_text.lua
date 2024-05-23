@@ -13,8 +13,8 @@ loadfile('build_utils/wow_api/functions.lua')()
 loadfile('build_utils/wow_api/frame.lua')()
 loadfile('build_utils/wow_api/mixin.lua')()
 
-loadfile('wow-ui-source/Interface/SharedXML/Vector2D.lua')()
-loadfile('wow-ui-source/Interface/SharedXML/Vector3D.lua')()
+loadfile('wow-ui-source/Interface/AddOns/Blizzard_SharedXML/Vector2D.lua')()
+loadfile('wow-ui-source/Interface/AddOns/Blizzard_SharedXML/Vector3D.lua')()
 
 loadfile('build_utils/wow_api/profession_api_classic.lua')()
 loadfile('build_utils/wow_api/profession_api_retail.lua')()
