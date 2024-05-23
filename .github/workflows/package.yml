@@ -60,6 +60,11 @@ jobs:
         if: matrix.game_version == 'cata'
         run: sed -i '1s/^\xEF\xBB\xBF//' libs/LibTouristClassic/LibTouristClassic-1.0.lua
 
+      - name: Patch typo in LibTouristClassic-1.0.lua
+        if: matrix.game_version == 'cata'
+        run: git apply ../../files/tourist.patch
+        working-directory: libs/LibTouristClassic
+
       - name: Strip invalid characters from LibTouristClassicEra.lua
         if: matrix.game_version == 'classic'
         run: sed -i '1s/^\xEF\xBB\xBF//' libs/LibTouristClassicEra/LibTouristClassicEra.lua

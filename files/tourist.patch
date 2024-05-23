@@ -1,0 +1,13 @@
+diff --git a/LibTouristClassic-1.0.lua b/LibTouristClassic-1.0.lua
+index b48cee8..ba3373e 100644
+--- a/LibTouristClassic-1.0.lua
++++ b/LibTouristClassic-1.0.lua
+@@ -13555,7 +13555,7 @@ end
+ 					minLvl, maxLvl = C_Map.GetMapLevels(zoneMapID)
+ 					if minLvl and minLvl > 0 then zones[zoneName].low = minLvl end
+ 					if maxLvl and maxLvl > 0 then zones[zoneName].high = maxLvl end
+-					if (not minLvl and not maxLvl) or (minLvl + maxLvl = 0) then
++					if (not minLvl and not maxLvl) or (minLvl + maxLvl == 0) then
+ 						-- No data or 0s
+ 						trace("|r|cffffa500! -- Tourist:|r No level data for "..tostring(zoneName).." ("..tostring(continentName)..")" )
+ 					end
