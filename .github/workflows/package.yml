@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'wrath', 'retail' ]
+        game_version: [ 'classic', 'cataclysm', 'retail' ]
 
     steps:
       - uses: actions/checkout@v3
