@@ -20,10 +20,10 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'cataclysm', 'retail' ]
+        game_version: [ 'classic', 'cata', 'retail' ]
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
 
@@ -46,7 +46,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Build the addon
-        uses: BigWigsMods/packager@v2.1.0
+        uses: BigWigsMods/packager@v2.3.1
         with:
           args: -z -d -g ${{ matrix.game_version }}
 
@@ -69,7 +69,7 @@ jobs:
 
       - name: Download classic UI source
         if: matrix.game_version == 'classic'
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -77,7 +77,7 @@ jobs:
 
       - name: Download WotLK UI source
         if: matrix.game_version == 'wrath'
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -85,7 +85,7 @@ jobs:
 
       - name: Download retail UI source
         if: matrix.game_version == 'retail'
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -118,7 +118,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           submodules: true
 
@@ -132,7 +132,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: WoW Packager
-        uses: BigWigsMods/packager@v2.1.0
+        uses: BigWigsMods/packager@v2.3.1
         with:
           args: -o -g ${{ matrix.game_version }}
 
