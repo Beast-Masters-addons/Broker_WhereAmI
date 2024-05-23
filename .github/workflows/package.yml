@@ -57,7 +57,7 @@ jobs:
           mv .release/Broker_WhereAmI/embeds.xml .
 
       - name: Strip invalid characters from LibTouristClassic-1.0.lua
-        if: matrix.game_version == 'wrath'
+        if: matrix.game_version == 'cata'
         run: sed -i '1s/^\xEF\xBB\xBF//' libs/LibTouristClassic/LibTouristClassic-1.0.lua
 
       - name: Strip invalid characters from LibTouristClassicEra.lua
@@ -76,7 +76,7 @@ jobs:
           ref: 'classic_era'
 
       - name: Download WotLK UI source
-        if: matrix.game_version == 'wrath'
+        if: matrix.game_version == 'cata'
         uses: actions/checkout@v4
         with:
           repository: Gethe/wow-ui-source
@@ -104,7 +104,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'wrath', 'retail' ]
+        game_version: [ 'classic', 'cata', 'retail' ]
 
     needs:
       - test
