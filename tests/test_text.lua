@@ -33,9 +33,9 @@ else
         loadfile('data/classic/MapInfo.lua')()
         loadfile('zone_id_vanilla.lua')()
     end
-    if os.getenv('GAME_VERSION') == 'cata' then -- TODO: Replace data with cata
-        loadfile('data/wrath/AreaInfo.lua')()
-        loadfile('data/wrath/MapInfo.lua')()
+    if os.getenv('GAME_VERSION') == 'cata' then
+        loadfile('data/cata/AreaInfo.lua')()
+        loadfile('data/cata/MapInfo.lua')()
         loadfile('zone_id_tbc.lua')()
     end
     loadfile('instance_id.lua')()
@@ -90,9 +90,11 @@ function test:test_GetZoneName()
 end
 
 function test:test_GetLevelRangeText()
-    if addon.is_classic then
+    if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
         lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30-45', 0xff, 0xc3, 0x00))
-    else
+    elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CATACLYSM_CLASSIC then
+        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('25-55', 0xff, 0xcc, 0x00))
+    elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
         lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
     end
 end
@@ -114,9 +116,11 @@ end
 function test:test_GetLDBText()
     addon.config:init()
     local text = addon.text:GetLDBText()
-    if addon.is_classic then
+    if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
         lu.assertEquals(text, '|cffffff00Stranglethorn Vale (55, 55) |cffffc300[30-45]|r|r')
-    else
+    elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CATACLYSM_CLASSIC then
+        lu.assertEquals(text, '|cffffff00Stranglethorn Vale (55, 55) |cffffcc00[25-55]|r|r')
+    elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
         lu.assertEquals(text, '|cffffff00The Cape of Stranglethorn (55, 55) |cff7f7f7f[30 (10-30)]|r|r')
     end
 end
