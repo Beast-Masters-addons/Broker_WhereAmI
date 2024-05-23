@@ -102,7 +102,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v3
+        uses: codecov/codecov-action@v4
 
   build:
     runs-on: ubuntu-latest
@@ -141,7 +141,7 @@ jobs:
         with:
           args: -o -g ${{ matrix.game_version }}
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: Broker_WhereAmI-${{ matrix.game_version }}
           path: .release
