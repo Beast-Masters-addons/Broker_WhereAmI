@@ -33,7 +33,7 @@ else
         loadfile('data/classic/MapInfo.lua')()
         loadfile('zone_id_vanilla.lua')()
     end
-    if os.getenv('GAME_VERSION') == 'wrath' then
+    if os.getenv('GAME_VERSION') == 'cata' then -- TODO: Replace data with cata
         loadfile('data/wrath/AreaInfo.lua')()
         loadfile('data/wrath/MapInfo.lua')()
         loadfile('zone_id_tbc.lua')()

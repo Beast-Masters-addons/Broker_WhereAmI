@@ -24,7 +24,7 @@ addon.is_classic = _G.WOW_PROJECT_ID ~= _G.WOW_PROJECT_MAINLINE
 
 if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
     addon.tourist = _G.LibStub("LibTouristClassicEra")
-elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_WRATH_CLASSIC then
+elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CATACLYSM_CLASSIC then
     addon.tourist = _G.LibStub("LibTouristClassic-1.0")
 elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
     addon.tourist = _G.LibStub("LibTourist-3.0")

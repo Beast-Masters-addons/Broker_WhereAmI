@@ -9,7 +9,7 @@ loadfile('common.lua')()
 if os.getenv('GAME_VERSION') == 'retail' then
     _G.LibStub:NewLibrary('LibTourist-3.0', 1)
 end
-if os.getenv('GAME_VERSION') == 'wrath' then
+if os.getenv('GAME_VERSION') == 'cata' then
     _G.LibStub:NewLibrary('LibTouristClassic-1.0', 1)
 end
 if os.getenv('GAME_VERSION') == 'classic' then
