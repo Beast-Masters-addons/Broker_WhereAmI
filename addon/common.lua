@@ -1,4 +1,5 @@
-local _, addonTitle = _G.GetAddOnInfo(...)
+local GetAddOnInfo = _G.GetAddOnInfo or (_G.C_AddOns and _G.C_AddOns.GetAddOnInfo)
+local _, addonTitle = GetAddOnInfo(...)
 ---@class BrokerWhereAmI
 local addon = {
     version = '@project-version@',
