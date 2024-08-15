@@ -14,6 +14,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "70",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2] = {
         ["Name_lang"] = "Burning Blade Coven",
@@ -30,6 +32,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [3] = {
         ["Name_lang"] = "Tiragarde Keep",
@@ -46,6 +50,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [4] = {
         ["Name_lang"] = "Tiragarde Keep",
@@ -62,6 +68,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [5] = {
         ["Name_lang"] = "Skull Rock",
@@ -78,6 +86,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [6] = {
         ["Name_lang"] = "Dustwind Cave",
@@ -94,6 +104,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [7] = {
         ["Name_lang"] = "Mulgore",
@@ -110,6 +122,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "71",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [8] = {
         ["Name_lang"] = "Palemane Rock",
@@ -126,6 +140,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [9] = {
         ["Name_lang"] = "The Venture Co. Mine",
@@ -142,6 +158,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [10] = {
         ["Name_lang"] = "Northern Barrens",
@@ -158,6 +176,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "3",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [11] = {
         ["Name_lang"] = "Wailing Caverns",
@@ -174,6 +194,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [12] = {
         ["Name_lang"] = "Kalimdor",
@@ -189,7 +211,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2844",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [13] = {
         ["Name_lang"] = "Eastern Kingdoms",
@@ -205,7 +229,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2844",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [14] = {
         ["Name_lang"] = "Arathi Highlands",
@@ -222,6 +248,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "17",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [15] = {
         ["Name_lang"] = "Badlands",
@@ -238,6 +266,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "27",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [16] = {
         ["Name_lang"] = "Uldaman",
@@ -254,6 +284,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [17] = {
         ["Name_lang"] = "Blasted Lands",
@@ -270,6 +302,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "34",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [18] = {
         ["Name_lang"] = "Tirisfal Glades",
@@ -286,6 +320,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "75",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [19] = {
         ["Name_lang"] = "Scarlet Monastery Entrance",
@@ -302,6 +338,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [20] = {
         ["Name_lang"] = "Keeper's Rest",
@@ -318,6 +356,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [21] = {
         ["Name_lang"] = "Silverpine Forest",
@@ -334,6 +374,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "7",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [22] = {
         ["Name_lang"] = "Western Plaguelands",
@@ -350,6 +392,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "25",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [23] = {
         ["Name_lang"] = "Eastern Plaguelands",
@@ -366,6 +410,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "35",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [24] = {
         ["Name_lang"] = "Light's Hope Chapel",
@@ -382,6 +428,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [25] = {
         ["Name_lang"] = "Hillsbrad Foothills",
@@ -398,6 +446,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "11",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [26] = {
         ["Name_lang"] = "The Hinterlands",
@@ -414,6 +464,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "20",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [27] = {
         ["Name_lang"] = "Dun Morogh",
@@ -430,6 +482,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "74",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [28] = {
         ["Name_lang"] = "Coldridge Pass",
@@ -446,6 +500,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [29] = {
         ["Name_lang"] = "The Grizzled Den",
@@ -462,6 +518,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [30] = {
         ["Name_lang"] = "New Tinkertown",
@@ -478,6 +536,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [31] = {
         ["Name_lang"] = "Gol'Bolar Quarry",
@@ -494,6 +554,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [32] = {
         ["Name_lang"] = "Searing Gorge",
@@ -510,6 +572,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "29",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [33] = {
         ["Name_lang"] = "Blackrock Mountain",
@@ -526,6 +590,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [34] = {
         ["Name_lang"] = "Blackrock Mountain",
@@ -542,6 +608,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [35] = {
         ["Name_lang"] = "Blackrock Mountain",
@@ -558,6 +626,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [36] = {
         ["Name_lang"] = "Burning Steppes",
@@ -574,6 +644,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "30",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [37] = {
         ["Name_lang"] = "Elwynn Forest",
@@ -590,6 +662,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "73",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [38] = {
         ["Name_lang"] = "Fargodeep Mine",
@@ -606,6 +680,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [39] = {
         ["Name_lang"] = "Fargodeep Mine",
@@ -622,6 +698,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [40] = {
         ["Name_lang"] = "Jasperlode Mine",
@@ -638,6 +716,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [41] = {
         ["Name_lang"] = "Dalaran",
@@ -654,6 +734,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [42] = {
         ["Name_lang"] = "Deadwind Pass",
@@ -670,6 +752,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "775",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [43] = {
         ["Name_lang"] = "The Master's Cellar",
@@ -686,6 +770,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [44] = {
         ["Name_lang"] = "The Master's Cellar",
@@ -702,6 +788,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [45] = {
         ["Name_lang"] = "The Master's Cellar",
@@ -718,6 +806,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [46] = {
         ["Name_lang"] = "Karazhan Catacombs",
@@ -734,6 +824,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [47] = {
         ["Name_lang"] = "Duskwood",
@@ -750,6 +842,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "13",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [48] = {
         ["Name_lang"] = "Loch Modan",
@@ -766,6 +860,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "9",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [49] = {
         ["Name_lang"] = "Redridge Mountains",
@@ -782,6 +878,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "10",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [50] = {
         ["Name_lang"] = "Northern Stranglethorn",
@@ -798,6 +896,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "18",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [51] = {
         ["Name_lang"] = "Swamp of Sorrows",
@@ -814,6 +914,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "31",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [52] = {
         ["Name_lang"] = "Westfall",
@@ -830,6 +932,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "6",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [53] = {
         ["Name_lang"] = "Gold Coast Quarry",
@@ -846,6 +950,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [54] = {
         ["Name_lang"] = "Jangolode Mine",
@@ -862,6 +968,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [55] = {
         ["Name_lang"] = "The Deadmines",
@@ -878,6 +986,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [56] = {
         ["Name_lang"] = "Wetlands",
@@ -894,6 +1004,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "15",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [57] = {
         ["Name_lang"] = "Teldrassil",
@@ -910,6 +1022,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "72",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [58] = {
         ["Name_lang"] = "Shadowthread Cave",
@@ -926,6 +1040,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [59] = {
         ["Name_lang"] = "Fel Rock",
@@ -942,6 +1058,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [60] = {
         ["Name_lang"] = "Ban'ethil Barrow Den",
@@ -958,6 +1076,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [61] = {
         ["Name_lang"] = "Ban'ethil Barrow Den",
@@ -974,6 +1094,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [62] = {
         ["Name_lang"] = "Darkshore",
@@ -990,6 +1112,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "5",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [63] = {
         ["Name_lang"] = "Ashenvale",
@@ -1006,6 +1130,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "12",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [64] = {
         ["Name_lang"] = "Thousand Needles",
@@ -1022,6 +1148,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "21",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [65] = {
         ["Name_lang"] = "Stonetalon Mountains",
@@ -1038,6 +1166,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "14",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [66] = {
         ["Name_lang"] = "Desolace",
@@ -1054,6 +1184,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "19",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [67] = {
         ["Name_lang"] = "Maraudon",
@@ -1070,6 +1202,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [68] = {
         ["Name_lang"] = "Maraudon",
@@ -1086,6 +1220,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [69] = {
         ["Name_lang"] = "Feralas",
@@ -1102,6 +1238,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "22",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [70] = {
         ["Name_lang"] = "Dustwallow Marsh",
@@ -1118,6 +1256,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "23",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [71] = {
         ["Name_lang"] = "Tanaris",
@@ -1134,6 +1274,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "28",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [72] = {
         ["Name_lang"] = "The Noxious Lair",
@@ -1150,6 +1292,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [73] = {
         ["Name_lang"] = "The Gaping Chasm",
@@ -1166,6 +1310,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [74] = {
         ["Name_lang"] = "Caverns of Time",
@@ -1182,6 +1328,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [75] = {
         ["Name_lang"] = "Caverns of Time",
@@ -1198,6 +1346,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [76] = {
         ["Name_lang"] = "Azshara",
@@ -1214,6 +1364,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "2",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [77] = {
         ["Name_lang"] = "Felwood",
@@ -1230,6 +1382,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "26",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [78] = {
         ["Name_lang"] = "Un'Goro Crater",
@@ -1246,6 +1400,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "32",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [79] = {
         ["Name_lang"] = "The Slithering Scar",
@@ -1262,6 +1418,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [80] = {
         ["Name_lang"] = "Moonglade",
@@ -1278,6 +1436,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "884",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [81] = {
         ["Name_lang"] = "Silithus",
@@ -1294,6 +1454,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "36",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [82] = {
         ["Name_lang"] = "Twilight's Run",
@@ -1310,6 +1472,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [83] = {
         ["Name_lang"] = "Winterspring",
@@ -1326,6 +1490,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "33",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [84] = {
         ["Name_lang"] = "Stormwind City",
@@ -1342,6 +1508,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [85] = {
         ["Name_lang"] = "Orgrimmar",
@@ -1358,12 +1526,14 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [86] = {
         ["Name_lang"] = "Orgrimmar",
         ["ID"] = "86",
         ["ParentUiMapID"] = "85",
-        ["Flags"] = "0",
+        ["Flags"] = "512",
         ["System"] = "0",
         ["Type"] = "6",
         ["BountySetID"] = "0",
@@ -1374,6 +1544,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [87] = {
         ["Name_lang"] = "Ironforge",
@@ -1390,6 +1562,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [88] = {
         ["Name_lang"] = "Thunder Bluff",
@@ -1406,6 +1580,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [89] = {
         ["Name_lang"] = "Darnassus",
@@ -1422,6 +1598,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [90] = {
         ["Name_lang"] = "Undercity",
@@ -1438,6 +1616,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [91] = {
         ["Name_lang"] = "Alterac Valley",
@@ -1454,6 +1634,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [92] = {
         ["Name_lang"] = "Warsong Gulch",
@@ -1470,6 +1652,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [93] = {
         ["Name_lang"] = "Arathi Basin",
@@ -1486,6 +1670,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [94] = {
         ["Name_lang"] = "Eversong Woods",
@@ -1502,6 +1688,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "77",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [95] = {
         ["Name_lang"] = "Ghostlands",
@@ -1518,6 +1706,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "8",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [96] = {
         ["Name_lang"] = "Amani Catacombs",
@@ -1534,6 +1724,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [97] = {
         ["Name_lang"] = "Azuremyst Isle",
@@ -1550,6 +1742,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "76",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [98] = {
         ["Name_lang"] = "Tides' Hollow",
@@ -1566,6 +1760,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [99] = {
         ["Name_lang"] = "Stillpine Hold",
@@ -1582,6 +1778,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [100] = {
         ["Name_lang"] = "Hellfire Peninsula",
@@ -1598,6 +1796,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "37",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [101] = {
         ["Name_lang"] = "Outland",
@@ -1614,6 +1814,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "777",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [102] = {
         ["Name_lang"] = "Zangarmarsh",
@@ -1630,6 +1832,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "38",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [103] = {
         ["Name_lang"] = "The Exodar",
@@ -1646,6 +1850,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [104] = {
         ["Name_lang"] = "Shadowmoon Valley",
@@ -1662,6 +1868,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "43",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [105] = {
         ["Name_lang"] = "Blade's Edge Mountains",
@@ -1678,6 +1886,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "41",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [106] = {
         ["Name_lang"] = "Bloodmyst Isle",
@@ -1694,6 +1904,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "4",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [107] = {
         ["Name_lang"] = "Nagrand",
@@ -1710,6 +1922,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "40",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [108] = {
         ["Name_lang"] = "Terokkar Forest",
@@ -1726,6 +1940,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "39",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [109] = {
         ["Name_lang"] = "Netherstorm",
@@ -1742,6 +1958,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "42",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [110] = {
         ["Name_lang"] = "Silvermoon City",
@@ -1758,6 +1976,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [111] = {
         ["Name_lang"] = "Shattrath City",
@@ -1774,6 +1994,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [112] = {
         ["Name_lang"] = "Eye of the Storm",
@@ -1790,6 +2012,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [113] = {
         ["Name_lang"] = "Northrend",
@@ -1806,6 +2030,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "826",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [114] = {
         ["Name_lang"] = "Borean Tundra",
@@ -1822,6 +2048,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "44",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [115] = {
         ["Name_lang"] = "Dragonblight",
@@ -1838,6 +2066,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "46",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [116] = {
         ["Name_lang"] = "Grizzly Hills",
@@ -1854,6 +2084,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "47",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [117] = {
         ["Name_lang"] = "Howling Fjord",
@@ -1870,6 +2102,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "45",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [118] = {
         ["Name_lang"] = "Icecrown",
@@ -1886,6 +2120,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "51",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [119] = {
         ["Name_lang"] = "Sholazar Basin",
@@ -1902,6 +2138,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "49",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [120] = {
         ["Name_lang"] = "The Storm Peaks",
@@ -1918,6 +2156,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "50",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [121] = {
         ["Name_lang"] = "Zul'Drak",
@@ -1934,6 +2174,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "48",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [122] = {
         ["Name_lang"] = "Isle of Quel'Danas",
@@ -1950,6 +2192,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "161",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [123] = {
         ["Name_lang"] = "Wintergrasp",
@@ -1966,6 +2210,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "1200",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [124] = {
         ["Name_lang"] = "Plaguelands: The Scarlet Enclave",
@@ -1982,6 +2228,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [125] = {
         ["Name_lang"] = "Dalaran",
@@ -1998,6 +2246,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [126] = {
         ["Name_lang"] = "Dalaran",
@@ -2014,6 +2264,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [127] = {
         ["Name_lang"] = "Crystalsong Forest",
@@ -2030,6 +2282,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "163",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [128] = {
         ["Name_lang"] = "Strand of the Ancients",
@@ -2046,6 +2300,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [129] = {
         ["Name_lang"] = "The Nexus",
@@ -2062,6 +2318,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [130] = {
         ["Name_lang"] = "The Culling of Stratholme",
@@ -2078,6 +2336,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [131] = {
         ["Name_lang"] = "The Culling of Stratholme",
@@ -2094,6 +2354,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [132] = {
         ["Name_lang"] = "Ahn'kahet: The Old Kingdom",
@@ -2110,6 +2372,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [133] = {
         ["Name_lang"] = "Utgarde Keep",
@@ -2126,6 +2390,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [134] = {
         ["Name_lang"] = "Utgarde Keep",
@@ -2142,6 +2408,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [135] = {
         ["Name_lang"] = "Utgarde Keep",
@@ -2158,6 +2426,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [136] = {
         ["Name_lang"] = "Utgarde Pinnacle",
@@ -2174,6 +2444,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [137] = {
         ["Name_lang"] = "Utgarde Pinnacle",
@@ -2190,6 +2462,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [138] = {
         ["Name_lang"] = "Halls of Lightning",
@@ -2206,6 +2480,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [139] = {
         ["Name_lang"] = "Halls of Lightning",
@@ -2222,6 +2498,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [140] = {
         ["Name_lang"] = "Halls of Stone",
@@ -2238,6 +2516,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [141] = {
         ["Name_lang"] = "The Eye of Eternity",
@@ -2254,6 +2534,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [142] = {
         ["Name_lang"] = "The Oculus",
@@ -2270,6 +2552,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [143] = {
         ["Name_lang"] = "The Oculus",
@@ -2286,6 +2570,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [144] = {
         ["Name_lang"] = "The Oculus",
@@ -2302,6 +2588,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [145] = {
         ["Name_lang"] = "The Oculus",
@@ -2318,6 +2606,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [146] = {
         ["Name_lang"] = "The Oculus",
@@ -2334,6 +2624,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [147] = {
         ["Name_lang"] = "Ulduar",
@@ -2350,6 +2642,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [148] = {
         ["Name_lang"] = "Ulduar",
@@ -2366,6 +2660,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [149] = {
         ["Name_lang"] = "Ulduar",
@@ -2382,6 +2678,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [150] = {
         ["Name_lang"] = "Ulduar",
@@ -2398,6 +2696,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [151] = {
         ["Name_lang"] = "Ulduar",
@@ -2414,6 +2714,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [152] = {
         ["Name_lang"] = "Ulduar",
@@ -2430,6 +2732,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [153] = {
         ["Name_lang"] = "Gundrak",
@@ -2446,6 +2750,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [154] = {
         ["Name_lang"] = "Gundrak",
@@ -2462,6 +2768,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [155] = {
         ["Name_lang"] = "The Obsidian Sanctum",
@@ -2478,6 +2786,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [156] = {
         ["Name_lang"] = "Vault of Archavon",
@@ -2494,6 +2804,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [157] = {
         ["Name_lang"] = "Azjol-Nerub",
@@ -2510,6 +2822,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [158] = {
         ["Name_lang"] = "Azjol-Nerub",
@@ -2526,6 +2840,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [159] = {
         ["Name_lang"] = "Azjol-Nerub",
@@ -2542,6 +2858,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [160] = {
         ["Name_lang"] = "Drak'Tharon Keep",
@@ -2558,6 +2876,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [161] = {
         ["Name_lang"] = "Drak'Tharon Keep",
@@ -2574,6 +2894,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [162] = {
         ["Name_lang"] = "Naxxramas",
@@ -2590,6 +2912,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [163] = {
         ["Name_lang"] = "Naxxramas",
@@ -2606,6 +2930,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [164] = {
         ["Name_lang"] = "Naxxramas",
@@ -2622,6 +2948,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [165] = {
         ["Name_lang"] = "Naxxramas",
@@ -2638,6 +2966,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [166] = {
         ["Name_lang"] = "Naxxramas",
@@ -2654,6 +2984,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [167] = {
         ["Name_lang"] = "Naxxramas",
@@ -2670,6 +3002,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [168] = {
         ["Name_lang"] = "The Violet Hold",
@@ -2686,6 +3020,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [169] = {
         ["Name_lang"] = "Isle of Conquest",
@@ -2702,6 +3038,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [170] = {
         ["Name_lang"] = "Hrothgar's Landing",
@@ -2718,6 +3056,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "988",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [171] = {
         ["Name_lang"] = "Trial of the Champion",
@@ -2734,6 +3074,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [172] = {
         ["Name_lang"] = "Trial of the Crusader",
@@ -2750,6 +3092,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [173] = {
         ["Name_lang"] = "Trial of the Crusader",
@@ -2766,6 +3110,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [174] = {
         ["Name_lang"] = "The Lost Isles",
@@ -2782,6 +3128,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "159",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [175] = {
         ["Name_lang"] = "Kaja'mite Cavern",
@@ -2798,6 +3146,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [176] = {
         ["Name_lang"] = "Volcanoth's Lair",
@@ -2814,6 +3164,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [177] = {
         ["Name_lang"] = "Gallywix Labor Mine",
@@ -2830,6 +3182,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [178] = {
         ["Name_lang"] = "Gallywix Labor Mine",
@@ -2846,6 +3200,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [179] = {
         ["Name_lang"] = "Gilneas",
@@ -2862,6 +3218,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "78",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [180] = {
         ["Name_lang"] = "Emberstone Mine",
@@ -2878,6 +3236,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [181] = {
         ["Name_lang"] = "Greymane Manor",
@@ -2894,6 +3254,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [182] = {
         ["Name_lang"] = "Greymane Manor",
@@ -2910,6 +3272,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [183] = {
         ["Name_lang"] = "The Forge of Souls",
@@ -2926,6 +3290,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [184] = {
         ["Name_lang"] = "Pit of Saron",
@@ -2942,6 +3308,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [185] = {
         ["Name_lang"] = "Halls of Reflection",
@@ -2958,6 +3326,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [186] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -2974,6 +3344,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [187] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -2990,6 +3362,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [188] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -3006,6 +3380,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [189] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -3022,6 +3398,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [190] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -3038,6 +3416,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [191] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -3054,6 +3434,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [192] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -3070,6 +3452,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [193] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -3086,6 +3470,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [194] = {
         ["Name_lang"] = "Kezan",
@@ -3102,6 +3488,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "79",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [195] = {
         ["Name_lang"] = "Kaja'mine",
@@ -3118,6 +3506,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [196] = {
         ["Name_lang"] = "Kaja'mine",
@@ -3134,6 +3524,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [197] = {
         ["Name_lang"] = "Kaja'mine",
@@ -3150,6 +3542,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [198] = {
         ["Name_lang"] = "Mount Hyjal",
@@ -3166,6 +3560,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "52",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [199] = {
         ["Name_lang"] = "Southern Barrens",
@@ -3182,6 +3578,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "16",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [200] = {
         ["Name_lang"] = "The Ruby Sanctum",
@@ -3198,6 +3596,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [201] = {
         ["Name_lang"] = "Kelp'thar Forest",
@@ -3214,6 +3614,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [202] = {
         ["Name_lang"] = "Gilneas City",
@@ -3230,6 +3632,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [203] = {
         ["Name_lang"] = "Vashj'ir",
@@ -3246,6 +3650,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "53",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [204] = {
         ["Name_lang"] = "Abyssal Depths",
@@ -3262,6 +3668,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [205] = {
         ["Name_lang"] = "Shimmering Expanse",
@@ -3278,6 +3686,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [206] = {
         ["Name_lang"] = "Twin Peaks",
@@ -3294,6 +3704,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [207] = {
         ["Name_lang"] = "Deepholm",
@@ -3310,6 +3722,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "54",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [208] = {
         ["Name_lang"] = "Twilight Depths",
@@ -3326,6 +3740,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [209] = {
         ["Name_lang"] = "Twilight Depths",
@@ -3342,6 +3758,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [210] = {
         ["Name_lang"] = "The Cape of Stranglethorn",
@@ -3358,6 +3776,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "24",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [213] = {
         ["Name_lang"] = "Ragefire Chasm",
@@ -3374,6 +3794,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [217] = {
         ["Name_lang"] = "Ruins of Gilneas",
@@ -3390,6 +3812,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "78",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [218] = {
         ["Name_lang"] = "Ruins of Gilneas City",
@@ -3406,6 +3830,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [219] = {
         ["Name_lang"] = "Zul'Farrak",
@@ -3422,6 +3848,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [220] = {
         ["Name_lang"] = "The Temple of Atal'Hakkar",
@@ -3438,6 +3866,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [221] = {
         ["Name_lang"] = "Blackfathom Deeps",
@@ -3454,6 +3884,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [222] = {
         ["Name_lang"] = "Blackfathom Deeps",
@@ -3470,6 +3902,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [223] = {
         ["Name_lang"] = "Blackfathom Deeps",
@@ -3486,6 +3920,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [224] = {
         ["Name_lang"] = "Stranglethorn Vale",
@@ -3502,6 +3938,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "18",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [225] = {
         ["Name_lang"] = "The Stockade",
@@ -3518,6 +3956,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [226] = {
         ["Name_lang"] = "Gnomeregan",
@@ -3534,6 +3974,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [227] = {
         ["Name_lang"] = "Gnomeregan",
@@ -3550,6 +3992,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [228] = {
         ["Name_lang"] = "Gnomeregan",
@@ -3566,6 +4010,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [229] = {
         ["Name_lang"] = "Gnomeregan",
@@ -3582,6 +4028,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [230] = {
         ["Name_lang"] = "Uldaman",
@@ -3598,6 +4046,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [231] = {
         ["Name_lang"] = "Uldaman",
@@ -3614,6 +4064,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [232] = {
         ["Name_lang"] = "Molten Core",
@@ -3630,6 +4082,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [233] = {
         ["Name_lang"] = "Zul'Gurub",
@@ -3646,6 +4100,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [234] = {
         ["Name_lang"] = "Dire Maul",
@@ -3662,6 +4118,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [235] = {
         ["Name_lang"] = "Dire Maul",
@@ -3678,6 +4136,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [236] = {
         ["Name_lang"] = "Dire Maul",
@@ -3694,6 +4154,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [237] = {
         ["Name_lang"] = "Dire Maul",
@@ -3710,6 +4172,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [238] = {
         ["Name_lang"] = "Dire Maul",
@@ -3726,6 +4190,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [239] = {
         ["Name_lang"] = "Dire Maul",
@@ -3742,6 +4208,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [240] = {
         ["Name_lang"] = "Dire Maul",
@@ -3758,6 +4226,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [241] = {
         ["Name_lang"] = "Twilight Highlands",
@@ -3774,6 +4244,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "56",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [242] = {
         ["Name_lang"] = "Blackrock Depths",
@@ -3790,6 +4262,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [243] = {
         ["Name_lang"] = "Blackrock Depths",
@@ -3806,6 +4280,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [244] = {
         ["Name_lang"] = "Tol Barad",
@@ -3822,6 +4298,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "656",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [245] = {
         ["Name_lang"] = "Tol Barad Peninsula",
@@ -3838,6 +4316,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "656",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [246] = {
         ["Name_lang"] = "The Shattered Halls",
@@ -3854,6 +4334,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [247] = {
         ["Name_lang"] = "Ruins of Ahn'Qiraj",
@@ -3870,6 +4352,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [248] = {
         ["Name_lang"] = "Onyxia's Lair",
@@ -3886,6 +4370,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [249] = {
         ["Name_lang"] = "Uldum",
@@ -3902,6 +4388,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "1",
         ["ContentTuningID"] = "55",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [250] = {
         ["Name_lang"] = "Blackrock Spire",
@@ -3918,6 +4406,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [251] = {
         ["Name_lang"] = "Blackrock Spire",
@@ -3934,6 +4424,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [252] = {
         ["Name_lang"] = "Blackrock Spire",
@@ -3950,6 +4442,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [253] = {
         ["Name_lang"] = "Blackrock Spire",
@@ -3966,6 +4460,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [254] = {
         ["Name_lang"] = "Blackrock Spire",
@@ -3982,6 +4478,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [255] = {
         ["Name_lang"] = "Blackrock Spire",
@@ -3998,6 +4496,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [256] = {
         ["Name_lang"] = "Auchenai Crypts",
@@ -4014,6 +4514,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [257] = {
         ["Name_lang"] = "Auchenai Crypts",
@@ -4030,6 +4532,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [258] = {
         ["Name_lang"] = "Sethekk Halls",
@@ -4046,6 +4550,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [259] = {
         ["Name_lang"] = "Sethekk Halls",
@@ -4062,6 +4568,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [260] = {
         ["Name_lang"] = "Shadow Labyrinth",
@@ -4078,6 +4586,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [261] = {
         ["Name_lang"] = "The Blood Furnace",
@@ -4094,6 +4604,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [262] = {
         ["Name_lang"] = "The Underbog",
@@ -4110,6 +4622,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [263] = {
         ["Name_lang"] = "The Steamvault",
@@ -4126,6 +4640,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [264] = {
         ["Name_lang"] = "The Steamvault",
@@ -4142,6 +4658,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [265] = {
         ["Name_lang"] = "The Slave Pens",
@@ -4158,6 +4676,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [266] = {
         ["Name_lang"] = "The Botanica",
@@ -4174,6 +4694,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [267] = {
         ["Name_lang"] = "The Mechanar",
@@ -4190,6 +4712,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [268] = {
         ["Name_lang"] = "The Mechanar",
@@ -4206,6 +4730,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [269] = {
         ["Name_lang"] = "The Arcatraz",
@@ -4222,6 +4748,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [270] = {
         ["Name_lang"] = "The Arcatraz",
@@ -4238,6 +4766,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [271] = {
         ["Name_lang"] = "The Arcatraz",
@@ -4254,6 +4784,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [272] = {
         ["Name_lang"] = "Mana-Tombs",
@@ -4270,6 +4802,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [273] = {
         ["Name_lang"] = "The Black Morass",
@@ -4286,6 +4820,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [274] = {
         ["Name_lang"] = "Old Hillsbrad Foothills",
@@ -4302,6 +4838,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [275] = {
         ["Name_lang"] = "The Battle for Gilneas",
@@ -4318,6 +4856,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [276] = {
         ["Name_lang"] = "The Maelstrom",
@@ -4334,6 +4874,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [277] = {
         ["Name_lang"] = "Lost City of the Tol'vir",
@@ -4350,6 +4892,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [279] = {
         ["Name_lang"] = "Wailing Caverns",
@@ -4366,6 +4910,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [280] = {
         ["Name_lang"] = "Maraudon",
@@ -4382,6 +4928,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [281] = {
         ["Name_lang"] = "Maraudon",
@@ -4398,6 +4946,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [282] = {
         ["Name_lang"] = "Baradin Hold",
@@ -4414,6 +4964,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [283] = {
         ["Name_lang"] = "Blackrock Caverns",
@@ -4430,6 +4982,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [284] = {
         ["Name_lang"] = "Blackrock Caverns",
@@ -4446,6 +5000,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [285] = {
         ["Name_lang"] = "Blackwing Descent",
@@ -4462,6 +5018,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [286] = {
         ["Name_lang"] = "Blackwing Descent",
@@ -4478,6 +5036,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [287] = {
         ["Name_lang"] = "Blackwing Lair",
@@ -4494,6 +5054,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [288] = {
         ["Name_lang"] = "Blackwing Lair",
@@ -4510,6 +5072,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [289] = {
         ["Name_lang"] = "Blackwing Lair",
@@ -4526,6 +5090,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [290] = {
         ["Name_lang"] = "Blackwing Lair",
@@ -4542,6 +5108,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [291] = {
         ["Name_lang"] = "The Deadmines",
@@ -4558,6 +5126,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [292] = {
         ["Name_lang"] = "The Deadmines",
@@ -4574,6 +5144,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [293] = {
         ["Name_lang"] = "Grim Batol",
@@ -4590,6 +5162,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [294] = {
         ["Name_lang"] = "The Bastion of Twilight",
@@ -4606,6 +5180,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [295] = {
         ["Name_lang"] = "The Bastion of Twilight",
@@ -4622,6 +5198,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [296] = {
         ["Name_lang"] = "The Bastion of Twilight",
@@ -4638,6 +5216,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [297] = {
         ["Name_lang"] = "Halls of Origination",
@@ -4654,6 +5234,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [298] = {
         ["Name_lang"] = "Halls of Origination",
@@ -4670,6 +5252,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [299] = {
         ["Name_lang"] = "Halls of Origination",
@@ -4686,6 +5270,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [300] = {
         ["Name_lang"] = "Razorfen Downs",
@@ -4702,6 +5288,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [301] = {
         ["Name_lang"] = "Razorfen Kraul",
@@ -4718,6 +5306,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [302] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -4734,6 +5324,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [303] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -4750,6 +5342,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [304] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -4766,6 +5360,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [305] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -4782,6 +5378,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [306] = {
         ["Name_lang"] = "Legacy of Scholomance",
@@ -4798,6 +5396,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [307] = {
         ["Name_lang"] = "Legacy of Scholomance",
@@ -4814,6 +5414,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [308] = {
         ["Name_lang"] = "Legacy of Scholomance",
@@ -4830,6 +5432,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [309] = {
         ["Name_lang"] = "Legacy of Scholomance",
@@ -4846,6 +5450,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [310] = {
         ["Name_lang"] = "Shadowfang Keep",
@@ -4862,6 +5468,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [311] = {
         ["Name_lang"] = "Shadowfang Keep",
@@ -4878,6 +5486,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [312] = {
         ["Name_lang"] = "Shadowfang Keep",
@@ -4894,6 +5504,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [313] = {
         ["Name_lang"] = "Shadowfang Keep",
@@ -4910,6 +5522,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [314] = {
         ["Name_lang"] = "Shadowfang Keep",
@@ -4926,6 +5540,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [315] = {
         ["Name_lang"] = "Shadowfang Keep",
@@ -4942,6 +5558,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [316] = {
         ["Name_lang"] = "Shadowfang Keep",
@@ -4958,6 +5576,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [317] = {
         ["Name_lang"] = "Stratholme",
@@ -4974,6 +5594,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [318] = {
         ["Name_lang"] = "Stratholme",
@@ -4990,6 +5612,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [319] = {
         ["Name_lang"] = "Ahn'Qiraj",
@@ -5006,6 +5630,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [320] = {
         ["Name_lang"] = "Ahn'Qiraj",
@@ -5022,6 +5648,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [321] = {
         ["Name_lang"] = "Ahn'Qiraj",
@@ -5038,6 +5666,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [322] = {
         ["Name_lang"] = "Throne of the Tides",
@@ -5054,6 +5684,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [323] = {
         ["Name_lang"] = "Throne of the Tides",
@@ -5070,6 +5702,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [324] = {
         ["Name_lang"] = "The Stonecore",
@@ -5086,6 +5720,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [325] = {
         ["Name_lang"] = "The Vortex Pinnacle",
@@ -5102,6 +5738,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [327] = {
         ["Name_lang"] = "Ahn'Qiraj: The Fallen Kingdom",
@@ -5118,6 +5756,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [328] = {
         ["Name_lang"] = "Throne of the Four Winds",
@@ -5134,6 +5774,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [329] = {
         ["Name_lang"] = "Hyjal Summit",
@@ -5150,6 +5792,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [330] = {
         ["Name_lang"] = "Gruul's Lair",
@@ -5166,6 +5810,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [331] = {
         ["Name_lang"] = "Magtheridon's Lair",
@@ -5182,6 +5828,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [332] = {
         ["Name_lang"] = "Serpentshrine Cavern",
@@ -5198,6 +5846,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [333] = {
         ["Name_lang"] = "Zul'Aman",
@@ -5214,6 +5864,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [334] = {
         ["Name_lang"] = "Tempest Keep",
@@ -5230,6 +5882,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [335] = {
         ["Name_lang"] = "Sunwell Plateau",
@@ -5246,6 +5900,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [336] = {
         ["Name_lang"] = "Sunwell Plateau",
@@ -5262,6 +5918,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [337] = {
         ["Name_lang"] = "Zul'Gurub",
@@ -5278,6 +5936,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [338] = {
         ["Name_lang"] = "Molten Front",
@@ -5294,6 +5954,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [339] = {
         ["Name_lang"] = "Black Temple",
@@ -5310,6 +5972,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [340] = {
         ["Name_lang"] = "Black Temple",
@@ -5326,6 +5990,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [341] = {
         ["Name_lang"] = "Black Temple",
@@ -5342,6 +6008,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [342] = {
         ["Name_lang"] = "Black Temple",
@@ -5358,6 +6026,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [343] = {
         ["Name_lang"] = "Black Temple",
@@ -5374,6 +6044,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [344] = {
         ["Name_lang"] = "Black Temple",
@@ -5390,6 +6062,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [345] = {
         ["Name_lang"] = "Black Temple",
@@ -5406,6 +6080,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [346] = {
         ["Name_lang"] = "Black Temple",
@@ -5422,6 +6098,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [347] = {
         ["Name_lang"] = "Hellfire Ramparts",
@@ -5438,6 +6116,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [348] = {
         ["Name_lang"] = "Magisters' Terrace",
@@ -5454,6 +6134,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [349] = {
         ["Name_lang"] = "Magisters' Terrace",
@@ -5470,6 +6152,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [350] = {
         ["Name_lang"] = "Karazhan",
@@ -5486,6 +6170,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [351] = {
         ["Name_lang"] = "Karazhan",
@@ -5502,6 +6188,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [352] = {
         ["Name_lang"] = "Karazhan",
@@ -5518,6 +6206,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [353] = {
         ["Name_lang"] = "Karazhan",
@@ -5534,6 +6224,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [354] = {
         ["Name_lang"] = "Karazhan",
@@ -5550,6 +6242,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [355] = {
         ["Name_lang"] = "Karazhan",
@@ -5566,6 +6260,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [356] = {
         ["Name_lang"] = "Karazhan",
@@ -5582,6 +6278,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [357] = {
         ["Name_lang"] = "Karazhan",
@@ -5598,6 +6296,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [358] = {
         ["Name_lang"] = "Karazhan",
@@ -5614,6 +6314,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [359] = {
         ["Name_lang"] = "Karazhan",
@@ -5630,6 +6332,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [360] = {
         ["Name_lang"] = "Karazhan",
@@ -5646,6 +6350,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [361] = {
         ["Name_lang"] = "Karazhan",
@@ -5662,6 +6368,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [362] = {
         ["Name_lang"] = "Karazhan",
@@ -5678,6 +6386,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [363] = {
         ["Name_lang"] = "Karazhan",
@@ -5694,6 +6404,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [364] = {
         ["Name_lang"] = "Karazhan",
@@ -5710,6 +6422,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [365] = {
         ["Name_lang"] = "Karazhan",
@@ -5726,6 +6440,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [366] = {
         ["Name_lang"] = "Karazhan",
@@ -5742,6 +6458,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [367] = {
         ["Name_lang"] = "Firelands",
@@ -5758,6 +6476,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [368] = {
         ["Name_lang"] = "Firelands",
@@ -5774,6 +6494,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [369] = {
         ["Name_lang"] = "Firelands",
@@ -5790,6 +6512,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [370] = {
         ["Name_lang"] = "The Nexus",
@@ -5806,6 +6530,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [371] = {
         ["Name_lang"] = "The Jade Forest",
@@ -5822,6 +6548,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "57",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [372] = {
         ["Name_lang"] = "Greenstone Quarry",
@@ -5838,6 +6566,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [373] = {
         ["Name_lang"] = "Greenstone Quarry",
@@ -5854,6 +6584,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [374] = {
         ["Name_lang"] = "The Widow's Wail",
@@ -5870,6 +6602,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [375] = {
         ["Name_lang"] = "Oona Kagu",
@@ -5886,6 +6620,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [376] = {
         ["Name_lang"] = "Valley of the Four Winds",
@@ -5902,6 +6638,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "58",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [377] = {
         ["Name_lang"] = "Cavern of Endless Echoes",
@@ -5918,6 +6656,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [378] = {
         ["Name_lang"] = "The Wandering Isle",
@@ -5934,6 +6674,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "80",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [379] = {
         ["Name_lang"] = "Kun-Lai Summit",
@@ -5950,6 +6692,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "60",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [380] = {
         ["Name_lang"] = "Howlingwind Cavern",
@@ -5966,6 +6710,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [381] = {
         ["Name_lang"] = "Pranksters' Hollow",
@@ -5982,6 +6728,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [382] = {
         ["Name_lang"] = "Knucklethump Hole",
@@ -5998,6 +6746,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [383] = {
         ["Name_lang"] = "The Deeper",
@@ -6014,6 +6764,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [384] = {
         ["Name_lang"] = "The Deeper",
@@ -6030,6 +6782,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [385] = {
         ["Name_lang"] = "Tomb of Conquerors",
@@ -6046,6 +6800,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [386] = {
         ["Name_lang"] = "Ruins of Korune",
@@ -6062,6 +6818,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [387] = {
         ["Name_lang"] = "Ruins of Korune",
@@ -6078,6 +6836,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [388] = {
         ["Name_lang"] = "Townlong Steppes",
@@ -6094,6 +6854,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "61",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [389] = {
         ["Name_lang"] = "Niuzao Temple",
@@ -6110,6 +6872,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [390] = {
         ["Name_lang"] = "Vale of Eternal Blossoms",
@@ -6126,6 +6890,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "2",
         ["ContentTuningID"] = "173",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [391] = {
         ["Name_lang"] = "Shrine of Two Moons",
@@ -6142,6 +6908,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [392] = {
         ["Name_lang"] = "Shrine of Two Moons",
@@ -6158,6 +6926,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [393] = {
         ["Name_lang"] = "Shrine of Seven Stars",
@@ -6174,6 +6944,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [394] = {
         ["Name_lang"] = "Shrine of Seven Stars",
@@ -6190,6 +6962,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [395] = {
         ["Name_lang"] = "Guo-Lai Halls",
@@ -6206,6 +6980,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [396] = {
         ["Name_lang"] = "Guo-Lai Halls",
@@ -6222,6 +6998,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [397] = {
         ["Name_lang"] = "Eye of the Storm",
@@ -6238,6 +7016,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [398] = {
         ["Name_lang"] = "Well of Eternity",
@@ -6254,6 +7034,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [399] = {
         ["Name_lang"] = "Hour of Twilight",
@@ -6270,6 +7052,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [400] = {
         ["Name_lang"] = "Hour of Twilight",
@@ -6286,6 +7070,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [401] = {
         ["Name_lang"] = "End Time",
@@ -6302,6 +7088,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [402] = {
         ["Name_lang"] = "End Time",
@@ -6318,6 +7106,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [403] = {
         ["Name_lang"] = "End Time",
@@ -6334,6 +7124,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [404] = {
         ["Name_lang"] = "End Time",
@@ -6350,6 +7142,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [405] = {
         ["Name_lang"] = "End Time",
@@ -6366,6 +7160,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [406] = {
         ["Name_lang"] = "End Time",
@@ -6382,6 +7178,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [407] = {
         ["Name_lang"] = "Darkmoon Island",
@@ -6398,6 +7196,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [408] = {
         ["Name_lang"] = "Darkmoon Island",
@@ -6414,6 +7214,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [409] = {
         ["Name_lang"] = "Dragon Soul",
@@ -6430,6 +7232,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [410] = {
         ["Name_lang"] = "Dragon Soul",
@@ -6446,6 +7250,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [411] = {
         ["Name_lang"] = "Dragon Soul",
@@ -6462,6 +7268,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [412] = {
         ["Name_lang"] = "Dragon Soul",
@@ -6478,6 +7286,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [413] = {
         ["Name_lang"] = "Dragon Soul",
@@ -6494,6 +7304,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [414] = {
         ["Name_lang"] = "Dragon Soul",
@@ -6510,6 +7322,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [415] = {
         ["Name_lang"] = "Dragon Soul",
@@ -6526,6 +7340,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [416] = {
         ["Name_lang"] = "Dustwallow Marsh",
@@ -6542,6 +7358,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [417] = {
         ["Name_lang"] = "Temple of Kotmogu",
@@ -6558,6 +7376,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [418] = {
         ["Name_lang"] = "Krasarang Wilds",
@@ -6574,6 +7394,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "59",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [419] = {
         ["Name_lang"] = "Ruins of Ogudei",
@@ -6590,6 +7412,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [420] = {
         ["Name_lang"] = "Ruins of Ogudei",
@@ -6606,6 +7430,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [421] = {
         ["Name_lang"] = "Ruins of Ogudei",
@@ -6622,6 +7448,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [422] = {
         ["Name_lang"] = "Dread Wastes",
@@ -6638,6 +7466,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "62",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [423] = {
         ["Name_lang"] = "Silvershard Mines",
@@ -6654,6 +7484,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [424] = {
         ["Name_lang"] = "Pandaria",
@@ -6670,6 +7502,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "657",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [425] = {
         ["Name_lang"] = "Northshire",
@@ -6686,6 +7520,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [426] = {
         ["Name_lang"] = "Echo Ridge Mine",
@@ -6702,6 +7538,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [427] = {
         ["Name_lang"] = "Coldridge Valley",
@@ -6718,6 +7556,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [428] = {
         ["Name_lang"] = "Frostmane Hovel",
@@ -6734,6 +7574,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [429] = {
         ["Name_lang"] = "Temple of the Jade Serpent",
@@ -6750,6 +7592,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [430] = {
         ["Name_lang"] = "Temple of the Jade Serpent",
@@ -6766,6 +7610,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [431] = {
         ["Name_lang"] = "Scarlet Halls",
@@ -6782,6 +7628,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [432] = {
         ["Name_lang"] = "Scarlet Halls",
@@ -6798,6 +7646,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [433] = {
         ["Name_lang"] = "The Veiled Stair",
@@ -6814,6 +7664,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "975",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [434] = {
         ["Name_lang"] = "The Ancient Passage",
@@ -6830,6 +7682,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [435] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -6846,6 +7700,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [436] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -6862,6 +7718,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [437] = {
         ["Name_lang"] = "Gate of the Setting Sun",
@@ -6878,6 +7736,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [438] = {
         ["Name_lang"] = "Gate of the Setting Sun",
@@ -6894,6 +7754,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [439] = {
         ["Name_lang"] = "Stormstout Brewery",
@@ -6910,6 +7772,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [440] = {
         ["Name_lang"] = "Stormstout Brewery",
@@ -6926,6 +7790,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [441] = {
         ["Name_lang"] = "Stormstout Brewery",
@@ -6942,6 +7808,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [442] = {
         ["Name_lang"] = "Stormstout Brewery",
@@ -6958,6 +7826,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [443] = {
         ["Name_lang"] = "Shado-Pan Monastery",
@@ -6974,6 +7844,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [444] = {
         ["Name_lang"] = "Shado-Pan Monastery",
@@ -6990,6 +7862,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [445] = {
         ["Name_lang"] = "Shado-Pan Monastery",
@@ -7006,6 +7880,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [446] = {
         ["Name_lang"] = "Shado-Pan Monastery",
@@ -7022,6 +7898,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [447] = {
         ["Name_lang"] = "A Brewing Storm",
@@ -7038,6 +7916,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [448] = {
         ["Name_lang"] = "The Jade Forest",
@@ -7054,6 +7934,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [449] = {
         ["Name_lang"] = "Temple of Kotmogu",
@@ -7070,6 +7952,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [450] = {
         ["Name_lang"] = "Unga Ingoo",
@@ -7086,6 +7970,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [451] = {
         ["Name_lang"] = "Assault on Zan'vess",
@@ -7102,6 +7988,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [452] = {
         ["Name_lang"] = "Brewmoon Festival",
@@ -7118,6 +8006,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [453] = {
         ["Name_lang"] = "Mogu'shan Palace",
@@ -7134,6 +8024,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [454] = {
         ["Name_lang"] = "Mogu'shan Palace",
@@ -7150,6 +8042,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [455] = {
         ["Name_lang"] = "Mogu'shan Palace",
@@ -7166,6 +8060,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [456] = {
         ["Name_lang"] = "Terrace of Endless Spring",
@@ -7182,6 +8078,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [457] = {
         ["Name_lang"] = "Siege of Niuzao Temple",
@@ -7198,6 +8096,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [458] = {
         ["Name_lang"] = "Siege of Niuzao Temple",
@@ -7214,6 +8114,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [459] = {
         ["Name_lang"] = "Siege of Niuzao Temple",
@@ -7230,6 +8132,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [460] = {
         ["Name_lang"] = "Shadowglen",
@@ -7246,6 +8150,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [461] = {
         ["Name_lang"] = "Valley of Trials",
@@ -7262,6 +8168,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [462] = {
         ["Name_lang"] = "Camp Narache",
@@ -7278,6 +8186,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [463] = {
         ["Name_lang"] = "Echo Isles",
@@ -7294,6 +8204,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [464] = {
         ["Name_lang"] = "Spitescale Cavern",
@@ -7310,6 +8222,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [465] = {
         ["Name_lang"] = "Deathknell",
@@ -7326,6 +8240,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [466] = {
         ["Name_lang"] = "Night Web's Hollow",
@@ -7342,6 +8258,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [467] = {
         ["Name_lang"] = "Sunstrider Isle",
@@ -7358,6 +8276,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [468] = {
         ["Name_lang"] = "Ammen Vale",
@@ -7374,6 +8294,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [469] = {
         ["Name_lang"] = "New Tinkertown",
@@ -7390,6 +8312,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [470] = {
         ["Name_lang"] = "Frostmane Hold",
@@ -7406,6 +8330,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [471] = {
         ["Name_lang"] = "Mogu'shan Vaults",
@@ -7422,6 +8348,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [472] = {
         ["Name_lang"] = "Mogu'shan Vaults",
@@ -7438,6 +8366,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [473] = {
         ["Name_lang"] = "Mogu'shan Vaults",
@@ -7454,6 +8384,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [474] = {
         ["Name_lang"] = "Heart of Fear",
@@ -7470,6 +8402,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [475] = {
         ["Name_lang"] = "Heart of Fear",
@@ -7486,6 +8420,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [476] = {
         ["Name_lang"] = "Scholomance",
@@ -7502,6 +8438,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [477] = {
         ["Name_lang"] = "Scholomance",
@@ -7518,6 +8456,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [478] = {
         ["Name_lang"] = "Scholomance",
@@ -7534,6 +8474,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [479] = {
         ["Name_lang"] = "Scholomance",
@@ -7550,6 +8492,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [480] = {
         ["Name_lang"] = "Proving Grounds",
@@ -7566,6 +8510,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [481] = {
         ["Name_lang"] = "Crypt of Forgotten Kings",
@@ -7582,6 +8528,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [482] = {
         ["Name_lang"] = "Crypt of Forgotten Kings",
@@ -7598,6 +8546,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [483] = {
         ["Name_lang"] = "Dustwallow Marsh",
@@ -7614,6 +8564,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [486] = {
         ["Name_lang"] = "Krasarang Wilds",
@@ -7630,6 +8582,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [487] = {
         ["Name_lang"] = "A Little Patience",
@@ -7646,6 +8600,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [488] = {
         ["Name_lang"] = "Dagger in the Dark",
@@ -7662,6 +8618,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [489] = {
         ["Name_lang"] = "Dagger in the Dark",
@@ -7678,6 +8636,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [490] = {
         ["Name_lang"] = "Black Temple",
@@ -7694,6 +8654,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [491] = {
         ["Name_lang"] = "Black Temple",
@@ -7710,6 +8672,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [492] = {
         ["Name_lang"] = "Black Temple",
@@ -7726,6 +8690,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [493] = {
         ["Name_lang"] = "Black Temple",
@@ -7742,6 +8708,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [494] = {
         ["Name_lang"] = "Black Temple",
@@ -7758,6 +8726,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [495] = {
         ["Name_lang"] = "Black Temple",
@@ -7774,6 +8744,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [496] = {
         ["Name_lang"] = "Black Temple",
@@ -7790,6 +8762,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [497] = {
         ["Name_lang"] = "Black Temple",
@@ -7806,6 +8780,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [498] = {
         ["Name_lang"] = "Krasarang Wilds",
@@ -7822,6 +8798,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [499] = {
         ["Name_lang"] = "Deeprun Tram",
@@ -7838,6 +8816,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [500] = {
         ["Name_lang"] = "Deeprun Tram",
@@ -7854,6 +8834,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [501] = {
         ["Name_lang"] = "Dalaran",
@@ -7870,6 +8852,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [502] = {
         ["Name_lang"] = "Dalaran",
@@ -7886,6 +8870,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [503] = {
         ["Name_lang"] = "Brawl'gar Arena",
@@ -7902,6 +8888,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [504] = {
         ["Name_lang"] = "Isle of Thunder",
@@ -7918,6 +8906,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "167",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [505] = {
         ["Name_lang"] = "Lightning Vein Mine",
@@ -7934,6 +8924,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [506] = {
         ["Name_lang"] = "The Swollen Vault",
@@ -7950,6 +8942,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [507] = {
         ["Name_lang"] = "Isle of Giants",
@@ -7966,6 +8960,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "168",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [508] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -7982,6 +8978,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [509] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -7998,6 +8996,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [510] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -8014,6 +9014,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [511] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -8030,6 +9032,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [512] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -8046,6 +9050,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [513] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -8062,6 +9068,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [514] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -8078,6 +9086,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [515] = {
         ["Name_lang"] = "Throne of Thunder",
@@ -8094,6 +9104,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [516] = {
         ["Name_lang"] = "Isle of Thunder",
@@ -8110,6 +9122,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [517] = {
         ["Name_lang"] = "Lightning Vein Mine",
@@ -8126,6 +9140,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [518] = {
         ["Name_lang"] = "Thunder King's Citadel",
@@ -8142,6 +9158,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [519] = {
         ["Name_lang"] = "Deepwind Gorge",
@@ -8158,6 +9176,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [520] = {
         ["Name_lang"] = "Vale of Eternal Blossoms",
@@ -8174,6 +9194,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [521] = {
         ["Name_lang"] = "Vale of Eternal Blossoms",
@@ -8190,6 +9212,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [522] = {
         ["Name_lang"] = "The Secrets of Ragefire",
@@ -8206,6 +9230,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [523] = {
         ["Name_lang"] = "Dun Morogh",
@@ -8222,6 +9248,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [524] = {
         ["Name_lang"] = "Battle on the High Seas",
@@ -8238,6 +9266,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [525] = {
         ["Name_lang"] = "Frostfire Ridge",
@@ -8254,6 +9284,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "64",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [526] = {
         ["Name_lang"] = "Turgall's Den",
@@ -8270,6 +9302,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [527] = {
         ["Name_lang"] = "Turgall's Den",
@@ -8286,6 +9320,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [528] = {
         ["Name_lang"] = "Turgall's Den",
@@ -8302,6 +9338,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [529] = {
         ["Name_lang"] = "Turgall's Den",
@@ -8318,6 +9356,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [530] = {
         ["Name_lang"] = "Grom'gar",
@@ -8334,6 +9374,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [531] = {
         ["Name_lang"] = "Grulloc's Grotto",
@@ -8350,6 +9392,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [532] = {
         ["Name_lang"] = "Grulloc's Grotto",
@@ -8366,6 +9410,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [533] = {
         ["Name_lang"] = "Snowfall Alcove",
@@ -8382,6 +9428,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [534] = {
         ["Name_lang"] = "Tanaan Jungle",
@@ -8398,6 +9446,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "176",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [535] = {
         ["Name_lang"] = "Talador",
@@ -8414,6 +9464,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "66",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [536] = {
         ["Name_lang"] = "Tomb of Lights",
@@ -8430,6 +9482,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [537] = {
         ["Name_lang"] = "Tomb of Souls",
@@ -8446,6 +9500,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [538] = {
         ["Name_lang"] = "The Breached Ossuary",
@@ -8462,6 +9518,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [539] = {
         ["Name_lang"] = "Shadowmoon Valley",
@@ -8478,6 +9536,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "63",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [540] = {
         ["Name_lang"] = "Bloodthorn Cave",
@@ -8494,6 +9554,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [541] = {
         ["Name_lang"] = "Den of Secrets",
@@ -8510,6 +9572,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [542] = {
         ["Name_lang"] = "Spires of Arak",
@@ -8526,6 +9590,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "67",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [543] = {
         ["Name_lang"] = "Gorgrond",
@@ -8542,6 +9608,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "65",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [544] = {
         ["Name_lang"] = "Moira's Reach",
@@ -8558,6 +9626,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [545] = {
         ["Name_lang"] = "Moira's Reach",
@@ -8574,6 +9644,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [546] = {
         ["Name_lang"] = "Fissure of Fury",
@@ -8590,6 +9662,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [547] = {
         ["Name_lang"] = "Fissure of Fury",
@@ -8606,6 +9680,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [548] = {
         ["Name_lang"] = "Cragplume Cauldron",
@@ -8622,6 +9698,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [549] = {
         ["Name_lang"] = "Cragplume Cauldron",
@@ -8638,6 +9716,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [550] = {
         ["Name_lang"] = "Nagrand",
@@ -8654,6 +9734,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "68",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [551] = {
         ["Name_lang"] = "The Masters' Cavern",
@@ -8670,6 +9752,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [552] = {
         ["Name_lang"] = "Stonecrag Gorge",
@@ -8686,6 +9770,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [553] = {
         ["Name_lang"] = "Oshu'gun",
@@ -8702,6 +9788,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [554] = {
         ["Name_lang"] = "Timeless Isle",
@@ -8718,6 +9806,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "169",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [555] = {
         ["Name_lang"] = "Cavern of Lost Spirits",
@@ -8734,6 +9824,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [556] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8750,6 +9842,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [557] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8766,6 +9860,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [558] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8782,6 +9878,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [559] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8798,6 +9896,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [560] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8814,6 +9914,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [561] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8830,6 +9932,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [562] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8846,6 +9950,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [563] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8862,6 +9968,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [564] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8878,6 +9986,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [565] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8894,6 +10004,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [566] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8910,6 +10022,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [567] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8926,6 +10040,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [568] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8942,6 +10058,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [569] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8958,6 +10076,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [570] = {
         ["Name_lang"] = "Siege of Orgrimmar",
@@ -8974,6 +10094,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [571] = {
         ["Name_lang"] = "Celestial Tournament",
@@ -8990,6 +10112,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [572] = {
         ["Name_lang"] = "Draenor",
@@ -9006,6 +10130,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "828",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [573] = {
         ["Name_lang"] = "Bloodmaul Slag Mines",
@@ -9022,6 +10148,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [574] = {
         ["Name_lang"] = "Shadowmoon Burial Grounds",
@@ -9038,6 +10166,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [575] = {
         ["Name_lang"] = "Shadowmoon Burial Grounds",
@@ -9054,6 +10184,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [576] = {
         ["Name_lang"] = "Shadowmoon Burial Grounds",
@@ -9070,6 +10202,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [577] = {
         ["Name_lang"] = "Tanaan Jungle",
@@ -9086,6 +10220,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [578] = {
         ["Name_lang"] = "Umbral Halls",
@@ -9102,6 +10238,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [579] = {
         ["Name_lang"] = "Lunarfall Excavation",
@@ -9118,6 +10256,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [580] = {
         ["Name_lang"] = "Lunarfall Excavation",
@@ -9134,6 +10274,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [581] = {
         ["Name_lang"] = "Lunarfall Excavation",
@@ -9150,6 +10292,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [582] = {
         ["Name_lang"] = "Lunarfall",
@@ -9166,6 +10310,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [585] = {
         ["Name_lang"] = "Frostwall Mine",
@@ -9182,6 +10328,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [586] = {
         ["Name_lang"] = "Frostwall Mine",
@@ -9198,6 +10346,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [587] = {
         ["Name_lang"] = "Frostwall Mine",
@@ -9214,6 +10364,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [588] = {
         ["Name_lang"] = "Ashran",
@@ -9230,6 +10382,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [589] = {
         ["Name_lang"] = "Ashran Mine",
@@ -9246,6 +10400,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [590] = {
         ["Name_lang"] = "Frostwall",
@@ -9262,6 +10418,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [593] = {
         ["Name_lang"] = "Auchindoun",
@@ -9278,6 +10436,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [594] = {
         ["Name_lang"] = "Shattrath City",
@@ -9294,6 +10454,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [595] = {
         ["Name_lang"] = "Iron Docks",
@@ -9310,6 +10472,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [596] = {
         ["Name_lang"] = "Blackrock Foundry",
@@ -9326,6 +10490,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [597] = {
         ["Name_lang"] = "Blackrock Foundry",
@@ -9342,6 +10508,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [598] = {
         ["Name_lang"] = "Blackrock Foundry",
@@ -9358,6 +10526,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [599] = {
         ["Name_lang"] = "Blackrock Foundry",
@@ -9374,6 +10544,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [600] = {
         ["Name_lang"] = "Blackrock Foundry",
@@ -9390,6 +10562,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [601] = {
         ["Name_lang"] = "Skyreach",
@@ -9406,6 +10580,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [602] = {
         ["Name_lang"] = "Skyreach",
@@ -9422,6 +10598,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [606] = {
         ["Name_lang"] = "Grimrail Depot",
@@ -9438,6 +10616,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [607] = {
         ["Name_lang"] = "Grimrail Depot",
@@ -9454,6 +10634,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [608] = {
         ["Name_lang"] = "Grimrail Depot",
@@ -9470,6 +10652,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [609] = {
         ["Name_lang"] = "Grimrail Depot",
@@ -9486,6 +10670,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [610] = {
         ["Name_lang"] = "Highmaul",
@@ -9502,6 +10688,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [611] = {
         ["Name_lang"] = "Highmaul",
@@ -9518,6 +10706,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [612] = {
         ["Name_lang"] = "Highmaul",
@@ -9534,6 +10724,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [613] = {
         ["Name_lang"] = "Highmaul",
@@ -9550,6 +10742,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [614] = {
         ["Name_lang"] = "Highmaul",
@@ -9566,6 +10760,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [615] = {
         ["Name_lang"] = "Highmaul",
@@ -9582,6 +10778,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [616] = {
         ["Name_lang"] = "Upper Blackrock Spire",
@@ -9598,6 +10796,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [617] = {
         ["Name_lang"] = "Upper Blackrock Spire",
@@ -9614,6 +10814,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [618] = {
         ["Name_lang"] = "Upper Blackrock Spire",
@@ -9630,6 +10832,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [619] = {
         ["Name_lang"] = "Broken Isles",
@@ -9646,6 +10850,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "829",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [620] = {
         ["Name_lang"] = "The Everbloom",
@@ -9662,6 +10868,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [621] = {
         ["Name_lang"] = "The Everbloom",
@@ -9678,6 +10886,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [622] = {
         ["Name_lang"] = "Stormshield",
@@ -9694,6 +10904,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [623] = {
         ["Name_lang"] = "Hillsbrad Foothills (Southshore vs. Tarren Mill)",
@@ -9710,6 +10922,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [624] = {
         ["Name_lang"] = "Warspear",
@@ -9726,6 +10940,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [626] = {
         ["Name_lang"] = "Dalaran",
@@ -9742,6 +10958,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [627] = {
         ["Name_lang"] = "Dalaran",
@@ -9758,6 +10976,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [628] = {
         ["Name_lang"] = "Dalaran",
@@ -9774,6 +10994,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [629] = {
         ["Name_lang"] = "Dalaran",
@@ -9790,6 +11012,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [630] = {
         ["Name_lang"] = "Azsuna",
@@ -9806,6 +11030,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "331",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [631] = {
         ["Name_lang"] = "Nar'thalas Academy",
@@ -9822,6 +11048,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [632] = {
         ["Name_lang"] = "Oceanus Cove",
@@ -9838,6 +11066,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [633] = {
         ["Name_lang"] = "Temple of a Thousand Lights",
@@ -9854,6 +11084,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [634] = {
         ["Name_lang"] = "Stormheim",
@@ -9870,6 +11102,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "334",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [635] = {
         ["Name_lang"] = "Shield's Rest",
@@ -9886,6 +11120,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [636] = {
         ["Name_lang"] = "Stormscale Cavern",
@@ -9902,6 +11138,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [637] = {
         ["Name_lang"] = "Thorignir Refuge",
@@ -9918,6 +11156,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [638] = {
         ["Name_lang"] = "Thorignir Refuge",
@@ -9934,6 +11174,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [639] = {
         ["Name_lang"] = "Aggramar's Vault",
@@ -9950,6 +11192,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [640] = {
         ["Name_lang"] = "Vault of Eyir",
@@ -9966,6 +11210,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [641] = {
         ["Name_lang"] = "Val'sharah",
@@ -9982,6 +11228,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "332",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [642] = {
         ["Name_lang"] = "Darkpens",
@@ -9998,6 +11246,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [643] = {
         ["Name_lang"] = "Sleeper's Barrow",
@@ -10014,6 +11264,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [644] = {
         ["Name_lang"] = "Sleeper's Barrow",
@@ -10030,6 +11282,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [645] = {
         ["Name_lang"] = "Twisting Nether",
@@ -10046,6 +11300,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [646] = {
         ["Name_lang"] = "Broken Shore",
@@ -10062,6 +11318,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "336",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [647] = {
         ["Name_lang"] = "Acherus: The Ebon Hold",
@@ -10078,6 +11336,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [648] = {
         ["Name_lang"] = "Acherus: The Ebon Hold",
@@ -10094,6 +11354,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [649] = {
         ["Name_lang"] = "Helheim",
@@ -10110,6 +11372,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [650] = {
         ["Name_lang"] = "Highmountain",
@@ -10126,6 +11390,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "333",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [651] = {
         ["Name_lang"] = "Bitestone Enclave",
@@ -10142,6 +11408,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [652] = {
         ["Name_lang"] = "Thunder Totem",
@@ -10158,6 +11426,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [653] = {
         ["Name_lang"] = "Cave of the Blood Trial",
@@ -10174,6 +11444,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [654] = {
         ["Name_lang"] = "Mucksnout Den",
@@ -10190,6 +11462,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [655] = {
         ["Name_lang"] = "Lifespring Cavern",
@@ -10206,6 +11480,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [656] = {
         ["Name_lang"] = "Lifespring Cavern",
@@ -10222,6 +11498,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [657] = {
         ["Name_lang"] = "Path of Huln",
@@ -10238,6 +11516,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [658] = {
         ["Name_lang"] = "Path of Huln",
@@ -10254,6 +11534,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [659] = {
         ["Name_lang"] = "Stonedark Grotto",
@@ -10270,6 +11552,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [660] = {
         ["Name_lang"] = "Feltotem Caverns",
@@ -10286,6 +11570,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [661] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10302,6 +11588,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [662] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10318,6 +11606,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [663] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10334,6 +11624,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [664] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10350,6 +11642,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [665] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10366,6 +11660,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [666] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10382,6 +11678,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [667] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10398,6 +11696,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [668] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10414,6 +11714,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [669] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10430,6 +11732,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [670] = {
         ["Name_lang"] = "Hellfire Citadel",
@@ -10446,6 +11750,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [671] = {
         ["Name_lang"] = "The Cove of Nashal",
@@ -10462,6 +11768,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [672] = {
         ["Name_lang"] = "Mardum, the Shattered Abyss",
@@ -10478,6 +11786,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "699",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [673] = {
         ["Name_lang"] = "Cryptic Hollow",
@@ -10494,6 +11804,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [674] = {
         ["Name_lang"] = "Soul Engine",
@@ -10510,6 +11822,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [675] = {
         ["Name_lang"] = "Soul Engine",
@@ -10526,6 +11840,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [676] = {
         ["Name_lang"] = "Broken Shore",
@@ -10542,6 +11858,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [677] = {
         ["Name_lang"] = "Vault of the Wardens",
@@ -10558,6 +11876,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [678] = {
         ["Name_lang"] = "Vault of the Wardens",
@@ -10574,6 +11894,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [679] = {
         ["Name_lang"] = "Vault of the Wardens",
@@ -10590,6 +11912,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [680] = {
         ["Name_lang"] = "Suramar",
@@ -10606,6 +11930,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "335",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [681] = {
         ["Name_lang"] = "The Arcway Vaults",
@@ -10622,6 +11948,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [682] = {
         ["Name_lang"] = "Felsoul Hold",
@@ -10638,6 +11966,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [683] = {
         ["Name_lang"] = "The Arcway Vaults",
@@ -10654,6 +11984,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [684] = {
         ["Name_lang"] = "Shattered Locus",
@@ -10670,6 +12002,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [685] = {
         ["Name_lang"] = "Shattered Locus",
@@ -10686,6 +12020,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [686] = {
         ["Name_lang"] = "Elor'shan",
@@ -10702,6 +12038,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [687] = {
         ["Name_lang"] = "Kel'balor",
@@ -10718,6 +12056,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [688] = {
         ["Name_lang"] = "Ley Station Anora",
@@ -10734,6 +12074,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [689] = {
         ["Name_lang"] = "Ley Station Moonfall",
@@ -10750,6 +12092,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [690] = {
         ["Name_lang"] = "Ley Station Aethenar",
@@ -10766,6 +12110,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [691] = {
         ["Name_lang"] = "Nyell's Workshop",
@@ -10782,6 +12128,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [692] = {
         ["Name_lang"] = "Falanaar Arcway",
@@ -10798,6 +12146,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [693] = {
         ["Name_lang"] = "Falanaar Arcway",
@@ -10814,6 +12164,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [694] = {
         ["Name_lang"] = "Helmouth Shallows",
@@ -10830,6 +12182,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [695] = {
         ["Name_lang"] = "Skyhold",
@@ -10846,6 +12200,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [696] = {
         ["Name_lang"] = "Stormheim",
@@ -10862,6 +12218,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "334",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [697] = {
         ["Name_lang"] = "Azshara",
@@ -10878,6 +12236,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [698] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -10894,6 +12254,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [699] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -10910,6 +12272,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [700] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -10926,6 +12290,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [701] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -10942,6 +12308,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [702] = {
         ["Name_lang"] = "Netherlight Temple",
@@ -10958,6 +12326,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [703] = {
         ["Name_lang"] = "Halls of Valor",
@@ -10974,6 +12344,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [704] = {
         ["Name_lang"] = "Halls of Valor",
@@ -10990,6 +12362,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [705] = {
         ["Name_lang"] = "Halls of Valor",
@@ -11006,6 +12380,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [706] = {
         ["Name_lang"] = "Helmouth Cliffs",
@@ -11022,6 +12398,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [707] = {
         ["Name_lang"] = "Helmouth Cliffs",
@@ -11038,6 +12416,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [708] = {
         ["Name_lang"] = "Helmouth Cliffs",
@@ -11054,6 +12434,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [709] = {
         ["Name_lang"] = "The Wandering Isle",
@@ -11070,6 +12452,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "80",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [710] = {
         ["Name_lang"] = "Vault of the Wardens",
@@ -11086,6 +12470,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [711] = {
         ["Name_lang"] = "Vault of the Wardens",
@@ -11102,6 +12488,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [712] = {
         ["Name_lang"] = "Vault of the Wardens",
@@ -11118,6 +12506,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [713] = {
         ["Name_lang"] = "Eye of Azshara",
@@ -11134,6 +12524,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [714] = {
         ["Name_lang"] = "Niskara",
@@ -11150,6 +12542,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [715] = {
         ["Name_lang"] = "Emerald Dreamway",
@@ -11166,6 +12560,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [716] = {
         ["Name_lang"] = "Skywall",
@@ -11182,6 +12578,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [717] = {
         ["Name_lang"] = "Dreadscar Rift",
@@ -11198,6 +12596,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [718] = {
         ["Name_lang"] = "Dreadscar Rift",
@@ -11214,6 +12614,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [719] = {
         ["Name_lang"] = "Mardum, the Shattered Abyss",
@@ -11230,6 +12632,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [720] = {
         ["Name_lang"] = "Mardum, the Shattered Abyss",
@@ -11246,6 +12650,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [721] = {
         ["Name_lang"] = "Mardum, the Shattered Abyss",
@@ -11262,6 +12668,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [723] = {
         ["Name_lang"] = "The Violet Hold",
@@ -11278,6 +12686,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [725] = {
         ["Name_lang"] = "The Maelstrom",
@@ -11294,6 +12704,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [726] = {
         ["Name_lang"] = "The Maelstrom",
@@ -11310,6 +12722,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "54",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [728] = {
         ["Name_lang"] = "Terrace of Endless Spring",
@@ -11326,6 +12740,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [729] = {
         ["Name_lang"] = "Crumbling Depths",
@@ -11342,6 +12758,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [731] = {
         ["Name_lang"] = "Neltharion's Lair",
@@ -11358,6 +12776,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [732] = {
         ["Name_lang"] = "Violet Hold",
@@ -11374,6 +12794,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [733] = {
         ["Name_lang"] = "Darkheart Thicket",
@@ -11390,6 +12812,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [734] = {
         ["Name_lang"] = "Hall of the Guardian",
@@ -11406,6 +12830,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [735] = {
         ["Name_lang"] = "Hall of the Guardian",
@@ -11422,6 +12848,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [736] = {
         ["Name_lang"] = "The Beyond",
@@ -11438,6 +12866,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [737] = {
         ["Name_lang"] = "The Vortex Pinnacle",
@@ -11454,6 +12884,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [738] = {
         ["Name_lang"] = "Firelands",
@@ -11470,6 +12902,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [739] = {
         ["Name_lang"] = "Trueshot Lodge",
@@ -11486,6 +12920,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [740] = {
         ["Name_lang"] = "Shadowgore Citadel",
@@ -11502,6 +12938,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [741] = {
         ["Name_lang"] = "Shadowgore Citadel",
@@ -11518,6 +12956,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [742] = {
         ["Name_lang"] = "Abyssal Maw",
@@ -11534,6 +12974,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [743] = {
         ["Name_lang"] = "Abyssal Maw",
@@ -11550,6 +12992,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [744] = {
         ["Name_lang"] = "Ulduar",
@@ -11566,6 +13010,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [745] = {
         ["Name_lang"] = "Ulduar",
@@ -11582,6 +13028,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [746] = {
         ["Name_lang"] = "Ulduar",
@@ -11598,6 +13046,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [747] = {
         ["Name_lang"] = "The Dreamgrove",
@@ -11614,6 +13064,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [748] = {
         ["Name_lang"] = "Niskara",
@@ -11630,6 +13082,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [749] = {
         ["Name_lang"] = "The Arcway",
@@ -11646,6 +13100,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [750] = {
         ["Name_lang"] = "Thunder Totem",
@@ -11662,6 +13118,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [751] = {
         ["Name_lang"] = "Black Rook Hold",
@@ -11678,6 +13136,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [752] = {
         ["Name_lang"] = "Black Rook Hold",
@@ -11694,6 +13154,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [753] = {
         ["Name_lang"] = "Black Rook Hold",
@@ -11710,6 +13172,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [754] = {
         ["Name_lang"] = "Black Rook Hold",
@@ -11726,6 +13190,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [755] = {
         ["Name_lang"] = "Black Rook Hold",
@@ -11742,6 +13208,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [756] = {
         ["Name_lang"] = "Black Rook Hold",
@@ -11758,6 +13226,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [757] = {
         ["Name_lang"] = "Ursoc's Lair",
@@ -11774,6 +13244,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [758] = {
         ["Name_lang"] = "Gloaming Reef",
@@ -11790,6 +13262,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [759] = {
         ["Name_lang"] = "Black Temple",
@@ -11806,6 +13280,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [760] = {
         ["Name_lang"] = "Malorne's Nightmare",
@@ -11822,6 +13298,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [761] = {
         ["Name_lang"] = "Court of Stars",
@@ -11838,6 +13316,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [762] = {
         ["Name_lang"] = "Court of Stars",
@@ -11854,6 +13334,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [763] = {
         ["Name_lang"] = "Court of Stars",
@@ -11870,6 +13352,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [764] = {
         ["Name_lang"] = "The Nighthold",
@@ -11886,6 +13370,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [765] = {
         ["Name_lang"] = "The Nighthold",
@@ -11902,6 +13388,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [766] = {
         ["Name_lang"] = "The Nighthold",
@@ -11918,6 +13406,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [767] = {
         ["Name_lang"] = "The Nighthold",
@@ -11934,6 +13424,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [768] = {
         ["Name_lang"] = "The Nighthold",
@@ -11950,6 +13442,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [769] = {
         ["Name_lang"] = "The Nighthold",
@@ -11966,6 +13460,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [770] = {
         ["Name_lang"] = "The Nighthold",
@@ -11982,6 +13478,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [771] = {
         ["Name_lang"] = "The Nighthold",
@@ -11998,6 +13496,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [772] = {
         ["Name_lang"] = "The Nighthold",
@@ -12014,6 +13514,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [773] = {
         ["Name_lang"] = "Tol Barad",
@@ -12030,6 +13532,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [774] = {
         ["Name_lang"] = "Tol Barad",
@@ -12046,6 +13550,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [775] = {
         ["Name_lang"] = "The Exodar",
@@ -12062,6 +13568,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [776] = {
         ["Name_lang"] = "Azuremyst Isle",
@@ -12078,6 +13586,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [777] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12094,6 +13604,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [778] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12110,6 +13622,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [779] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12126,6 +13640,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [780] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12142,6 +13658,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [781] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12158,6 +13676,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [782] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12174,6 +13694,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [783] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12190,6 +13712,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [784] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12206,6 +13730,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [785] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12222,6 +13748,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [786] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12238,6 +13766,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [787] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12254,6 +13784,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [788] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12270,6 +13802,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [789] = {
         ["Name_lang"] = "The Emerald Nightmare",
@@ -12286,6 +13820,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [790] = {
         ["Name_lang"] = "Eye of Azshara",
@@ -12302,6 +13838,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "484",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [791] = {
         ["Name_lang"] = "Temple of the Jade Serpent",
@@ -12318,6 +13856,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [792] = {
         ["Name_lang"] = "Temple of the Jade Serpent",
@@ -12334,6 +13874,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [793] = {
         ["Name_lang"] = "Black Rook Hold",
@@ -12350,6 +13892,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [794] = {
         ["Name_lang"] = "Karazhan",
@@ -12366,6 +13910,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [795] = {
         ["Name_lang"] = "Karazhan",
@@ -12382,6 +13928,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [796] = {
         ["Name_lang"] = "Karazhan",
@@ -12398,6 +13946,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [797] = {
         ["Name_lang"] = "Karazhan",
@@ -12414,6 +13964,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [798] = {
         ["Name_lang"] = "The Arcway",
@@ -12430,6 +13982,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [799] = {
         ["Name_lang"] = "The Oculus",
@@ -12446,6 +14000,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [800] = {
         ["Name_lang"] = "The Oculus",
@@ -12462,6 +14018,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [801] = {
         ["Name_lang"] = "The Oculus",
@@ -12478,6 +14036,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [802] = {
         ["Name_lang"] = "The Oculus",
@@ -12494,6 +14054,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [803] = {
         ["Name_lang"] = "The Oculus",
@@ -12510,6 +14072,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [804] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -12526,6 +14090,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [805] = {
         ["Name_lang"] = "Scarlet Monastery",
@@ -12542,6 +14108,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [806] = {
         ["Name_lang"] = "Trial of Valor",
@@ -12558,6 +14126,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [807] = {
         ["Name_lang"] = "Trial of Valor",
@@ -12574,6 +14144,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [808] = {
         ["Name_lang"] = "Trial of Valor",
@@ -12590,6 +14162,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [809] = {
         ["Name_lang"] = "Karazhan",
@@ -12606,6 +14180,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [810] = {
         ["Name_lang"] = "Karazhan",
@@ -12622,6 +14198,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [811] = {
         ["Name_lang"] = "Karazhan",
@@ -12638,6 +14216,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [812] = {
         ["Name_lang"] = "Karazhan",
@@ -12654,6 +14234,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [813] = {
         ["Name_lang"] = "Karazhan",
@@ -12670,6 +14252,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [814] = {
         ["Name_lang"] = "Karazhan",
@@ -12686,6 +14270,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [815] = {
         ["Name_lang"] = "Karazhan",
@@ -12702,6 +14288,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [816] = {
         ["Name_lang"] = "Karazhan",
@@ -12718,6 +14306,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [817] = {
         ["Name_lang"] = "Karazhan",
@@ -12734,6 +14324,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [818] = {
         ["Name_lang"] = "Karazhan",
@@ -12750,6 +14342,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [819] = {
         ["Name_lang"] = "Karazhan",
@@ -12766,6 +14360,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [820] = {
         ["Name_lang"] = "Karazhan",
@@ -12782,6 +14378,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [821] = {
         ["Name_lang"] = "Karazhan",
@@ -12798,6 +14396,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [822] = {
         ["Name_lang"] = "Karazhan",
@@ -12814,6 +14414,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [823] = {
         ["Name_lang"] = "Pit of Saron",
@@ -12830,6 +14432,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [824] = {
         ["Name_lang"] = "Islands",
@@ -12846,6 +14450,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [825] = {
         ["Name_lang"] = "Wailing Caverns",
@@ -12862,6 +14468,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [826] = {
         ["Name_lang"] = "Cave of the Bloodtotem",
@@ -12878,6 +14486,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [827] = {
         ["Name_lang"] = "Stratholme",
@@ -12894,6 +14504,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [828] = {
         ["Name_lang"] = "The Eye of Eternity",
@@ -12910,6 +14522,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [829] = {
         ["Name_lang"] = "Halls of Valor",
@@ -12926,6 +14540,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [830] = {
         ["Name_lang"] = "Krokuun",
@@ -12942,6 +14558,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "337",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [831] = {
         ["Name_lang"] = "The Vindicaar",
@@ -12958,6 +14576,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [832] = {
         ["Name_lang"] = "The Vindicaar",
@@ -12974,6 +14594,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [833] = {
         ["Name_lang"] = "Nath'raxas Spire",
@@ -12990,6 +14612,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [834] = {
         ["Name_lang"] = "Coldridge Valley",
@@ -13006,6 +14630,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [835] = {
         ["Name_lang"] = "The Deadmines",
@@ -13022,6 +14648,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [836] = {
         ["Name_lang"] = "The Deadmines",
@@ -13038,6 +14666,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [837] = {
         ["Name_lang"] = "Arathi Basin",
@@ -13054,6 +14684,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [838] = {
         ["Name_lang"] = "Battle for Blackrock Mountain",
@@ -13070,6 +14702,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [839] = {
         ["Name_lang"] = "The Maelstrom",
@@ -13086,6 +14720,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [840] = {
         ["Name_lang"] = "Gnomeregan",
@@ -13102,6 +14738,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [841] = {
         ["Name_lang"] = "Gnomeregan",
@@ -13118,6 +14756,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [842] = {
         ["Name_lang"] = "Gnomeregan",
@@ -13134,6 +14774,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [843] = {
         ["Name_lang"] = "Shado-Pan Showdown",
@@ -13150,6 +14792,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [844] = {
         ["Name_lang"] = "Arathi Basin",
@@ -13166,6 +14810,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [845] = {
         ["Name_lang"] = "Cathedral of Eternal Night",
@@ -13182,6 +14828,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [846] = {
         ["Name_lang"] = "Cathedral of Eternal Night",
@@ -13198,6 +14846,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [847] = {
         ["Name_lang"] = "Cathedral of Eternal Night",
@@ -13214,6 +14864,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [848] = {
         ["Name_lang"] = "Cathedral of Eternal Night",
@@ -13230,6 +14882,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [849] = {
         ["Name_lang"] = "Cathedral of Eternal Night",
@@ -13246,6 +14900,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [850] = {
         ["Name_lang"] = "Tomb of Sargeras",
@@ -13262,6 +14918,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [851] = {
         ["Name_lang"] = "Tomb of Sargeras",
@@ -13278,6 +14936,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [852] = {
         ["Name_lang"] = "Tomb of Sargeras",
@@ -13294,6 +14954,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [853] = {
         ["Name_lang"] = "Tomb of Sargeras",
@@ -13310,6 +14972,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [854] = {
         ["Name_lang"] = "Tomb of Sargeras",
@@ -13326,6 +14990,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [855] = {
         ["Name_lang"] = "Tomb of Sargeras",
@@ -13342,6 +15008,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [856] = {
         ["Name_lang"] = "Tomb of Sargeras",
@@ -13358,6 +15026,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [857] = {
         ["Name_lang"] = "Throne of the Four Winds",
@@ -13374,6 +15044,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [858] = {
         ["Name_lang"] = "Assault on Broken Shore",
@@ -13390,6 +15062,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [859] = {
         ["Name_lang"] = "Warsong Gulch",
@@ -13406,6 +15080,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [860] = {
         ["Name_lang"] = "The Ruby Sanctum",
@@ -13422,6 +15098,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [861] = {
         ["Name_lang"] = "Mardum, the Shattered Abyss",
@@ -13438,6 +15116,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [862] = {
         ["Name_lang"] = "Zuldazar",
@@ -13454,6 +15134,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "189",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [863] = {
         ["Name_lang"] = "Nazmir",
@@ -13470,6 +15152,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "190",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [864] = {
         ["Name_lang"] = "Vol'dun",
@@ -13486,6 +15170,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "191",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [865] = {
         ["Name_lang"] = "Stormheim",
@@ -13502,6 +15188,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [866] = {
         ["Name_lang"] = "Stormheim",
@@ -13518,6 +15206,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [867] = {
         ["Name_lang"] = "Azsuna",
@@ -13534,6 +15224,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [868] = {
         ["Name_lang"] = "Val'sharah",
@@ -13550,6 +15242,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [869] = {
         ["Name_lang"] = "Highmountain",
@@ -13566,6 +15260,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [870] = {
         ["Name_lang"] = "Highmountain",
@@ -13582,6 +15278,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [871] = {
         ["Name_lang"] = "The Lost Glacier",
@@ -13598,6 +15296,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [872] = {
         ["Name_lang"] = "Stormstout Brewery",
@@ -13614,6 +15314,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [873] = {
         ["Name_lang"] = "Stormstout Brewery",
@@ -13630,6 +15332,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [874] = {
         ["Name_lang"] = "Stormstout Brewery",
@@ -13646,6 +15350,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [875] = {
         ["Name_lang"] = "Zandalar",
@@ -13662,6 +15368,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "830",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [876] = {
         ["Name_lang"] = "Kul Tiras",
@@ -13678,6 +15386,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "830",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [877] = {
         ["Name_lang"] = "Fields of the Eternal Hunt",
@@ -13694,6 +15404,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [879] = {
         ["Name_lang"] = "Mardum, the Shattered Abyss",
@@ -13710,6 +15422,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [880] = {
         ["Name_lang"] = "Mardum, the Shattered Abyss",
@@ -13726,6 +15440,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [881] = {
         ["Name_lang"] = "The Eye of Eternity",
@@ -13742,6 +15458,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [882] = {
         ["Name_lang"] = "Eredath",
@@ -13758,6 +15476,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "337",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [883] = {
         ["Name_lang"] = "The Vindicaar",
@@ -13774,6 +15494,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [884] = {
         ["Name_lang"] = "The Vindicaar",
@@ -13790,6 +15512,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [885] = {
         ["Name_lang"] = "Antoran Wastes",
@@ -13806,6 +15530,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "337",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [886] = {
         ["Name_lang"] = "The Vindicaar",
@@ -13822,6 +15548,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [887] = {
         ["Name_lang"] = "The Vindicaar",
@@ -13838,6 +15566,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [888] = {
         ["Name_lang"] = "Hall of Communion",
@@ -13854,6 +15584,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [889] = {
         ["Name_lang"] = "Arcatraz",
@@ -13870,6 +15602,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [890] = {
         ["Name_lang"] = "Arcatraz",
@@ -13886,6 +15620,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [891] = {
         ["Name_lang"] = "Azuremyst Isle",
@@ -13902,6 +15638,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [892] = {
         ["Name_lang"] = "Azuremyst Isle",
@@ -13918,6 +15656,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [893] = {
         ["Name_lang"] = "Azuremyst Isle",
@@ -13934,6 +15674,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [894] = {
         ["Name_lang"] = "Azuremyst Isle",
@@ -13950,6 +15692,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [895] = {
         ["Name_lang"] = "Tiragarde Sound",
@@ -13966,6 +15710,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "186",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [896] = {
         ["Name_lang"] = "Drustvar",
@@ -13982,6 +15728,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "187",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [897] = {
         ["Name_lang"] = "The Deaths of Chromie",
@@ -13998,6 +15746,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [898] = {
         ["Name_lang"] = "The Deaths of Chromie",
@@ -14014,6 +15764,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [899] = {
         ["Name_lang"] = "The Deaths of Chromie",
@@ -14030,6 +15782,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [900] = {
         ["Name_lang"] = "The Deaths of Chromie",
@@ -14046,6 +15800,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [901] = {
         ["Name_lang"] = "The Deaths of Chromie",
@@ -14062,6 +15818,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [902] = {
         ["Name_lang"] = "The Deaths of Chromie",
@@ -14078,6 +15836,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [903] = {
         ["Name_lang"] = "The Seat of the Triumvirate",
@@ -14094,6 +15854,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [904] = {
         ["Name_lang"] = "Silithus Brawl",
@@ -14110,6 +15872,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [905] = {
         ["Name_lang"] = "Argus",
@@ -14126,6 +15890,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "337",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [906] = {
         ["Name_lang"] = "Arathi Highlands",
@@ -14142,6 +15908,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [907] = {
         ["Name_lang"] = "Seething Shore",
@@ -14158,6 +15926,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [908] = {
         ["Name_lang"] = "Ruins of Lordaeron",
@@ -14174,6 +15944,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [909] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14190,6 +15962,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [910] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14206,6 +15980,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [911] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14222,6 +15998,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [912] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14238,6 +16016,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [913] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14254,6 +16034,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [914] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14270,6 +16052,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [915] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14286,6 +16070,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [916] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14302,6 +16088,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [917] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14318,6 +16106,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [918] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14334,6 +16124,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [919] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14350,6 +16142,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [920] = {
         ["Name_lang"] = "Antorus, the Burning Throne",
@@ -14366,6 +16160,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [921] = {
         ["Name_lang"] = "Invasion Point: Aurinor",
@@ -14382,6 +16178,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [922] = {
         ["Name_lang"] = "Invasion Point: Bonich",
@@ -14398,6 +16196,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [923] = {
         ["Name_lang"] = "Invasion Point: Cen'gar",
@@ -14414,6 +16214,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [924] = {
         ["Name_lang"] = "Invasion Point: Naigtal",
@@ -14430,6 +16232,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [925] = {
         ["Name_lang"] = "Invasion Point: Sangua",
@@ -14446,6 +16250,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [926] = {
         ["Name_lang"] = "Invasion Point: Val",
@@ -14462,6 +16268,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [927] = {
         ["Name_lang"] = "Greater Invasion Point: Pit Lord Vilemus",
@@ -14478,6 +16286,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [928] = {
         ["Name_lang"] = "Greater Invasion Point: Mistress Alluradel",
@@ -14494,6 +16304,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [929] = {
         ["Name_lang"] = "Greater Invasion Point: Matron Folnuna",
@@ -14510,6 +16322,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [930] = {
         ["Name_lang"] = "Greater Invasion Point: Inquisitor Meto",
@@ -14526,6 +16340,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [931] = {
         ["Name_lang"] = "Greater Invasion Point: Sotanathor",
@@ -14542,6 +16358,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [932] = {
         ["Name_lang"] = "Greater Invasion Point: Occularus",
@@ -14558,6 +16376,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [933] = {
         ["Name_lang"] = "Forge of Aeons",
@@ -14574,6 +16394,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [934] = {
         ["Name_lang"] = "Atal'Dazar",
@@ -14590,6 +16412,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [935] = {
         ["Name_lang"] = "Atal'Dazar",
@@ -14606,6 +16430,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [936] = {
         ["Name_lang"] = "Freehold",
@@ -14622,6 +16448,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [938] = {
         ["Name_lang"] = "Gilneas Island",
@@ -14638,6 +16466,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [939] = {
         ["Name_lang"] = "Tropical Isle 8.0",
@@ -14654,6 +16484,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [940] = {
         ["Name_lang"] = "The Vindicaar",
@@ -14670,6 +16502,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [941] = {
         ["Name_lang"] = "The Vindicaar",
@@ -14686,6 +16520,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [942] = {
         ["Name_lang"] = "Stormsong Valley",
@@ -14702,6 +16538,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "188",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [943] = {
         ["Name_lang"] = "Arathi Highlands",
@@ -14718,6 +16556,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [946] = {
         ["Name_lang"] = "Cosmic",
@@ -14734,12 +16574,14 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [947] = {
         ["Name_lang"] = "Azeroth",
         ["ID"] = "947",
         ["ParentUiMapID"] = "946",
-        ["Flags"] = "256",
+        ["Flags"] = "4354",
         ["System"] = "0",
         ["Type"] = "1",
         ["BountySetID"] = "0",
@@ -14749,7 +16591,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2844",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [948] = {
         ["Name_lang"] = "The Maelstrom",
@@ -14766,6 +16610,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [971] = {
         ["Name_lang"] = "Telogrus Rift",
@@ -14782,6 +16628,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [972] = {
         ["Name_lang"] = "Telogrus Rift",
@@ -14798,6 +16646,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [973] = {
         ["Name_lang"] = "The Sunwell",
@@ -14814,6 +16664,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [974] = {
         ["Name_lang"] = "Tol Dagor",
@@ -14830,6 +16682,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [975] = {
         ["Name_lang"] = "Tol Dagor",
@@ -14846,6 +16700,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [976] = {
         ["Name_lang"] = "Tol Dagor",
@@ -14862,6 +16718,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [977] = {
         ["Name_lang"] = "Tol Dagor",
@@ -14878,6 +16736,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [978] = {
         ["Name_lang"] = "Tol Dagor",
@@ -14894,6 +16754,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [979] = {
         ["Name_lang"] = "Tol Dagor",
@@ -14910,6 +16772,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [980] = {
         ["Name_lang"] = "Tol Dagor",
@@ -14926,6 +16790,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [981] = {
         ["Name_lang"] = "Un'gol Ruins",
@@ -14942,6 +16808,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [985] = {
         ["Name_lang"] = "Eastern Kingdoms",
@@ -14958,6 +16826,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [986] = {
         ["Name_lang"] = "Kalimdor",
@@ -14974,6 +16844,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [987] = {
         ["Name_lang"] = "Outland",
@@ -14990,6 +16862,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [988] = {
         ["Name_lang"] = "Northrend",
@@ -15006,6 +16880,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [989] = {
         ["Name_lang"] = "Pandaria",
@@ -15022,6 +16898,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [990] = {
         ["Name_lang"] = "Draenor",
@@ -15038,6 +16916,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [991] = {
         ["Name_lang"] = "Zandalar",
@@ -15054,6 +16934,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [992] = {
         ["Name_lang"] = "Kul Tiras",
@@ -15070,6 +16952,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [993] = {
         ["Name_lang"] = "Broken Isles",
@@ -15086,6 +16970,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [994] = {
         ["Name_lang"] = "Argus",
@@ -15102,6 +16988,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [997] = {
         ["Name_lang"] = "Tirisfal Glades",
@@ -15118,6 +17006,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [998] = {
         ["Name_lang"] = "Undercity",
@@ -15134,6 +17024,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1004] = {
         ["Name_lang"] = "Kings' Rest",
@@ -15150,6 +17042,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1009] = {
         ["Name_lang"] = "Atul'Aman",
@@ -15166,6 +17060,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1010] = {
         ["Name_lang"] = "The MOTHERLODE!!",
@@ -15182,6 +17078,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1011] = {
         ["Name_lang"] = "Zandalar",
@@ -15198,6 +17096,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1012] = {
         ["Name_lang"] = "Stormwind City",
@@ -15214,6 +17114,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1013] = {
         ["Name_lang"] = "The Stockade",
@@ -15230,6 +17132,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1014] = {
         ["Name_lang"] = "Kul Tiras",
@@ -15246,6 +17150,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1015] = {
         ["Name_lang"] = "Waycrest Manor",
@@ -15262,6 +17168,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1016] = {
         ["Name_lang"] = "Waycrest Manor",
@@ -15278,6 +17186,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1017] = {
         ["Name_lang"] = "Waycrest Manor",
@@ -15294,6 +17204,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1018] = {
         ["Name_lang"] = "Waycrest Manor",
@@ -15310,6 +17222,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1021] = {
         ["Name_lang"] = "Chamber of Heart",
@@ -15326,6 +17240,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1022] = {
         ["Name_lang"] = "Uncharted Island",
@@ -15342,6 +17258,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1029] = {
         ["Name_lang"] = "Waycrest Manor",
@@ -15358,6 +17276,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1030] = {
         ["Name_lang"] = "Greymane Manor",
@@ -15374,6 +17294,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1031] = {
         ["Name_lang"] = "Greymane Manor",
@@ -15390,6 +17312,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1032] = {
         ["Name_lang"] = "Skittering Hollow",
@@ -15406,6 +17330,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1033] = {
         ["Name_lang"] = "The Rotting Mire",
@@ -15422,6 +17348,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1034] = {
         ["Name_lang"] = "Verdant Wilds",
@@ -15438,6 +17366,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1035] = {
         ["Name_lang"] = "Molten Cay",
@@ -15454,6 +17384,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1036] = {
         ["Name_lang"] = "The Dread Chain",
@@ -15470,6 +17402,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1037] = {
         ["Name_lang"] = "Whispering Reef",
@@ -15486,6 +17420,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1038] = {
         ["Name_lang"] = "Temple of Sethraliss",
@@ -15502,6 +17438,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1039] = {
         ["Name_lang"] = "Shrine of the Storm",
@@ -15518,6 +17456,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1040] = {
         ["Name_lang"] = "Shrine of the Storm",
@@ -15534,6 +17474,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1041] = {
         ["Name_lang"] = "The Underrot",
@@ -15550,6 +17492,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1042] = {
         ["Name_lang"] = "The Underrot",
@@ -15566,6 +17510,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1043] = {
         ["Name_lang"] = "Temple of Sethraliss",
@@ -15582,6 +17528,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1044] = {
         ["Name_lang"] = "Arathi Highlands",
@@ -15598,6 +17546,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "1206",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1045] = {
         ["Name_lang"] = "Thros, The Blighted Lands",
@@ -15614,6 +17564,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1148] = {
         ["Name_lang"] = "Uldir",
@@ -15630,6 +17582,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1149] = {
         ["Name_lang"] = "Uldir",
@@ -15646,6 +17600,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1150] = {
         ["Name_lang"] = "Uldir",
@@ -15662,6 +17618,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1151] = {
         ["Name_lang"] = "Uldir",
@@ -15678,6 +17636,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1152] = {
         ["Name_lang"] = "Uldir",
@@ -15694,6 +17654,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1153] = {
         ["Name_lang"] = "Uldir",
@@ -15710,6 +17672,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1154] = {
         ["Name_lang"] = "Uldir",
@@ -15726,6 +17690,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1155] = {
         ["Name_lang"] = "Uldir",
@@ -15742,6 +17708,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1156] = {
         ["Name_lang"] = "The Great Sea",
@@ -15758,6 +17726,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1157] = {
         ["Name_lang"] = "The Great Sea",
@@ -15774,6 +17744,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1158] = {
         ["Name_lang"] = "Arathi Highlands",
@@ -15790,6 +17762,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1159] = {
         ["Name_lang"] = "Blackrock Depths",
@@ -15806,6 +17780,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1160] = {
         ["Name_lang"] = "Blackrock Depths",
@@ -15822,6 +17798,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1161] = {
         ["Name_lang"] = "Boralus",
@@ -15838,6 +17816,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1162] = {
         ["Name_lang"] = "Siege of Boralus",
@@ -15854,6 +17834,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1163] = {
         ["Name_lang"] = "Dazar'alor",
@@ -15870,6 +17852,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1164] = {
         ["Name_lang"] = "Dazar'alor",
@@ -15886,6 +17870,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1165] = {
         ["Name_lang"] = "Dazar'alor",
@@ -15902,6 +17888,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1166] = {
         ["Name_lang"] = "Zanchul",
@@ -15918,6 +17906,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1167] = {
         ["Name_lang"] = "Zanchul",
@@ -15934,6 +17924,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1169] = {
         ["Name_lang"] = "Tol Dagor",
@@ -15950,6 +17942,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "1227",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1170] = {
         ["Name_lang"] = "Gorgrond - Mag'har Scenario",
@@ -15966,6 +17960,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1171] = {
         ["Name_lang"] = "Gol Thovas",
@@ -15982,6 +17978,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1172] = {
         ["Name_lang"] = "Gol Thovas",
@@ -15998,6 +17996,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1173] = {
         ["Name_lang"] = "Rastakhan's Might",
@@ -16014,6 +18014,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1174] = {
         ["Name_lang"] = "Rastakhan's Might",
@@ -16030,6 +18032,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1176] = {
         ["Name_lang"] = "Breath Of Pa'ku",
@@ -16046,6 +18050,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1177] = {
         ["Name_lang"] = "Breath Of Pa'ku",
@@ -16062,6 +18068,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1179] = {
         ["Name_lang"] = "Abyssal Melody",
@@ -16078,6 +18086,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1180] = {
         ["Name_lang"] = "Abyssal Melody",
@@ -16094,6 +18104,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1181] = {
         ["Name_lang"] = "Zuldazar",
@@ -16110,6 +18122,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "189",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1182] = {
         ["Name_lang"] = "Saltstone Mine",
@@ -16126,6 +18140,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1183] = {
         ["Name_lang"] = "Thornheart",
@@ -16142,6 +18158,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1184] = {
         ["Name_lang"] = "Winterchill Mine",
@@ -16158,6 +18176,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1185] = {
         ["Name_lang"] = "Winterchill Mine",
@@ -16174,6 +18194,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1186] = {
         ["Name_lang"] = "Blackrock Depths",
@@ -16190,6 +18212,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1187] = {
         ["Name_lang"] = "Azsuna",
@@ -16206,6 +18230,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1188] = {
         ["Name_lang"] = "Val'sharah",
@@ -16222,6 +18248,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1189] = {
         ["Name_lang"] = "Highmountain",
@@ -16238,6 +18266,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1190] = {
         ["Name_lang"] = "Stormheim",
@@ -16254,6 +18284,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1191] = {
         ["Name_lang"] = "Suramar",
@@ -16270,6 +18302,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1192] = {
         ["Name_lang"] = "Broken Shore",
@@ -16286,6 +18320,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1193] = {
         ["Name_lang"] = "Zuldazar",
@@ -16302,6 +18338,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1194] = {
         ["Name_lang"] = "Nazmir",
@@ -16318,6 +18356,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1195] = {
         ["Name_lang"] = "Vol'dun",
@@ -16334,6 +18374,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1196] = {
         ["Name_lang"] = "Tiragarde Sound",
@@ -16350,6 +18392,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1197] = {
         ["Name_lang"] = "Drustvar",
@@ -16366,6 +18410,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1198] = {
         ["Name_lang"] = "Stormsong Valley",
@@ -16382,6 +18428,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1203] = {
         ["Name_lang"] = "Darkshore",
@@ -16398,6 +18446,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1208] = {
         ["Name_lang"] = "Eastern Kingdoms",
@@ -16414,6 +18464,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1209] = {
         ["Name_lang"] = "Kalimdor",
@@ -16430,6 +18482,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1244] = {
         ["Name_lang"] = "Arathi Highlands",
@@ -16446,6 +18500,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1245] = {
         ["Name_lang"] = "Badlands",
@@ -16462,6 +18518,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1246] = {
         ["Name_lang"] = "Blasted Lands",
@@ -16478,6 +18536,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1247] = {
         ["Name_lang"] = "Tirisfal Glades",
@@ -16494,6 +18554,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1248] = {
         ["Name_lang"] = "Silverpine Forest",
@@ -16510,6 +18572,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1249] = {
         ["Name_lang"] = "Western Plaguelands",
@@ -16526,6 +18590,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1250] = {
         ["Name_lang"] = "Eastern Plaguelands",
@@ -16542,6 +18608,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1251] = {
         ["Name_lang"] = "Hillsbrad Foothills",
@@ -16558,6 +18626,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1252] = {
         ["Name_lang"] = "The Hinterlands",
@@ -16574,6 +18644,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1253] = {
         ["Name_lang"] = "Dun Morogh",
@@ -16590,6 +18662,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1254] = {
         ["Name_lang"] = "Searing Gorge",
@@ -16606,6 +18680,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1255] = {
         ["Name_lang"] = "Burning Steppes",
@@ -16622,6 +18698,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1256] = {
         ["Name_lang"] = "Elwynn Forest",
@@ -16638,6 +18716,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1257] = {
         ["Name_lang"] = "Deadwind Pass",
@@ -16654,6 +18734,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1258] = {
         ["Name_lang"] = "Duskwood",
@@ -16670,6 +18752,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1259] = {
         ["Name_lang"] = "Loch Modan",
@@ -16686,6 +18770,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1260] = {
         ["Name_lang"] = "Redridge Mountains",
@@ -16702,6 +18788,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1261] = {
         ["Name_lang"] = "Swamp of Sorrows",
@@ -16718,6 +18806,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1262] = {
         ["Name_lang"] = "Westfall",
@@ -16734,6 +18824,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1263] = {
         ["Name_lang"] = "Wetlands",
@@ -16750,6 +18842,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1264] = {
         ["Name_lang"] = "Stormwind City",
@@ -16766,6 +18860,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1265] = {
         ["Name_lang"] = "Ironforge",
@@ -16782,6 +18878,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1266] = {
         ["Name_lang"] = "Undercity",
@@ -16798,6 +18896,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1267] = {
         ["Name_lang"] = "Eversong Woods",
@@ -16814,6 +18914,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1268] = {
         ["Name_lang"] = "Ghostlands",
@@ -16830,6 +18932,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1269] = {
         ["Name_lang"] = "Silvermoon City",
@@ -16846,6 +18950,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1270] = {
         ["Name_lang"] = "Isle of Quel'Danas",
@@ -16862,6 +18968,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1271] = {
         ["Name_lang"] = "Gilneas",
@@ -16878,6 +18986,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1272] = {
         ["Name_lang"] = "Vashj'ir",
@@ -16894,6 +19004,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1273] = {
         ["Name_lang"] = "Ruins of Gilneas",
@@ -16910,6 +19022,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1274] = {
         ["Name_lang"] = "Stranglethorn Vale",
@@ -16926,6 +19040,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1275] = {
         ["Name_lang"] = "Twilight Highlands",
@@ -16942,6 +19058,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1276] = {
         ["Name_lang"] = "Tol Barad",
@@ -16958,6 +19076,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1277] = {
         ["Name_lang"] = "Tol Barad Peninsula",
@@ -16974,6 +19094,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1305] = {
         ["Name_lang"] = "Durotar",
@@ -16990,6 +19112,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1306] = {
         ["Name_lang"] = "Mulgore",
@@ -17006,6 +19130,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1307] = {
         ["Name_lang"] = "Northern Barrens",
@@ -17022,6 +19148,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1308] = {
         ["Name_lang"] = "Teldrassil",
@@ -17038,6 +19166,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1309] = {
         ["Name_lang"] = "Darkshore",
@@ -17054,6 +19184,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1310] = {
         ["Name_lang"] = "Ashenvale",
@@ -17070,6 +19202,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1311] = {
         ["Name_lang"] = "Thousand Needles",
@@ -17086,6 +19220,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1312] = {
         ["Name_lang"] = "Stonetalon Mountains",
@@ -17102,6 +19238,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1313] = {
         ["Name_lang"] = "Desolace",
@@ -17118,6 +19256,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1314] = {
         ["Name_lang"] = "Feralas",
@@ -17134,6 +19274,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1315] = {
         ["Name_lang"] = "Dustwallow Marsh",
@@ -17150,6 +19292,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1316] = {
         ["Name_lang"] = "Tanaris",
@@ -17166,6 +19310,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1317] = {
         ["Name_lang"] = "Azshara",
@@ -17182,6 +19328,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1318] = {
         ["Name_lang"] = "Felwood",
@@ -17198,6 +19346,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1319] = {
         ["Name_lang"] = "Un'Goro Crater",
@@ -17214,6 +19364,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1320] = {
         ["Name_lang"] = "Moonglade",
@@ -17230,6 +19382,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1321] = {
         ["Name_lang"] = "Silithus",
@@ -17246,6 +19400,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1322] = {
         ["Name_lang"] = "Winterspring",
@@ -17262,6 +19418,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1323] = {
         ["Name_lang"] = "Thunder Bluff",
@@ -17278,6 +19436,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1324] = {
         ["Name_lang"] = "Darnassus",
@@ -17294,6 +19454,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1325] = {
         ["Name_lang"] = "Azuremyst Isle",
@@ -17310,6 +19472,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1326] = {
         ["Name_lang"] = "The Exodar",
@@ -17326,6 +19490,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1327] = {
         ["Name_lang"] = "Bloodmyst Isle",
@@ -17342,6 +19508,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1328] = {
         ["Name_lang"] = "Mount Hyjal",
@@ -17358,6 +19526,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1329] = {
         ["Name_lang"] = "Southern Barrens",
@@ -17374,6 +19544,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1330] = {
         ["Name_lang"] = "Uldum",
@@ -17390,6 +19562,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1331] = {
         ["Name_lang"] = "The Exodar",
@@ -17406,6 +19580,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1332] = {
         ["Name_lang"] = "Darkshore",
@@ -17422,6 +19598,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1333] = {
         ["Name_lang"] = "Darkshore",
@@ -17438,6 +19616,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "733",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1334] = {
         ["Name_lang"] = "Wintergrasp",
@@ -17454,6 +19634,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1335] = {
         ["Name_lang"] = "Cooking: Impossible",
@@ -17470,6 +19652,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1336] = {
         ["Name_lang"] = "Havenswood",
@@ -17486,6 +19670,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1337] = {
         ["Name_lang"] = "Jorundall",
@@ -17502,6 +19688,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1338] = {
         ["Name_lang"] = "Darkshore",
@@ -17518,6 +19706,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1339] = {
         ["Name_lang"] = "Warsong Gulch",
@@ -17534,6 +19724,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1343] = {
         ["Name_lang"] = "8.1 Darkshore Outdoor Final Phase",
@@ -17550,6 +19742,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1345] = {
         ["Name_lang"] = "Crucible of Storms",
@@ -17566,6 +19760,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1346] = {
         ["Name_lang"] = "Crucible of Storms",
@@ -17582,6 +19778,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1347] = {
         ["Name_lang"] = "Zandalari Treasury",
@@ -17598,6 +19796,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1348] = {
         ["Name_lang"] = "Zandalari Treasury",
@@ -17614,6 +19814,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1349] = {
         ["Name_lang"] = "Tol Dagor",
@@ -17630,6 +19832,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1350] = {
         ["Name_lang"] = "Tol Dagor",
@@ -17646,6 +19850,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1351] = {
         ["Name_lang"] = "Tol Dagor",
@@ -17662,6 +19868,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1352] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17678,6 +19886,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1353] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17694,6 +19904,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1354] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17710,6 +19922,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1355] = {
         ["Name_lang"] = "Nazjatar",
@@ -17726,6 +19940,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "690",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1356] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17742,6 +19958,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1357] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17758,6 +19976,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1358] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17774,6 +19994,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1359] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -17790,6 +20012,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1360] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -17806,6 +20030,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1361] = {
         ["Name_lang"] = "OldIronforge",
@@ -17822,6 +20048,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1362] = {
         ["Name_lang"] = "Shrine of the Storm",
@@ -17838,6 +20066,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1363] = {
         ["Name_lang"] = "Crucible of Storms",
@@ -17854,6 +20084,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1364] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17870,6 +20102,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1366] = {
         ["Name_lang"] = "Arathi Basin",
@@ -17886,6 +20120,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1367] = {
         ["Name_lang"] = "Battle of Dazar'alor",
@@ -17902,6 +20138,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1371] = {
         ["Name_lang"] = "GnomereganA",
@@ -17918,6 +20156,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1372] = {
         ["Name_lang"] = "GnomereganB",
@@ -17934,6 +20174,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1374] = {
         ["Name_lang"] = "GnomereganD",
@@ -17950,6 +20192,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1375] = {
         ["Name_lang"] = "Halls of Stone",
@@ -17966,6 +20210,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1379] = {
         ["Name_lang"] = "8.3 Visions of N'Zoth - Prototype",
@@ -17982,6 +20228,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1380] = {
         ["Name_lang"] = "GnomereganC",
@@ -17998,6 +20246,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1381] = {
         ["Name_lang"] = "Uldir",
@@ -18014,6 +20264,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1382] = {
         ["Name_lang"] = "Uldir",
@@ -18030,6 +20282,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1383] = {
         ["Name_lang"] = "Arathi Basin",
@@ -18046,6 +20300,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1384] = {
         ["Name_lang"] = "Northrend",
@@ -18062,6 +20318,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1396] = {
         ["Name_lang"] = "Borean Tundra",
@@ -18078,6 +20336,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1397] = {
         ["Name_lang"] = "Dragonblight",
@@ -18094,6 +20354,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1398] = {
         ["Name_lang"] = "Grizzly Hills",
@@ -18110,6 +20372,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1399] = {
         ["Name_lang"] = "Howling Fjord",
@@ -18126,6 +20390,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1400] = {
         ["Name_lang"] = "Icecrown",
@@ -18142,6 +20408,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1401] = {
         ["Name_lang"] = "Sholazar Basin",
@@ -18158,6 +20426,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1402] = {
         ["Name_lang"] = "The Storm Peaks",
@@ -18174,6 +20444,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1403] = {
         ["Name_lang"] = "Zul'Drak",
@@ -18190,6 +20462,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1404] = {
         ["Name_lang"] = "Wintergrasp",
@@ -18206,6 +20480,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1405] = {
         ["Name_lang"] = "Crystalsong Forest",
@@ -18222,6 +20498,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1406] = {
         ["Name_lang"] = "Hrothgar's Landing",
@@ -18238,6 +20516,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1407] = {
         ["Name_lang"] = "Prison of Ink",
@@ -18254,6 +20534,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1408] = {
         ["Name_lang"] = "Ashran",
@@ -18270,6 +20552,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1409] = {
         ["Name_lang"] = "Exile's Reach",
@@ -18286,6 +20570,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1462] = {
         ["Name_lang"] = "Mechagon Island",
@@ -18302,6 +20588,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "713",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1465] = {
         ["Name_lang"] = "Scarlet Halls",
@@ -18318,6 +20606,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1467] = {
         ["Name_lang"] = "Outland",
@@ -18334,6 +20624,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1468] = {
         ["Name_lang"] = "The Dreamgrove",
@@ -18350,6 +20642,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1469] = {
         ["Name_lang"] = "Vision of Orgrimmar",
@@ -18366,6 +20660,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1470] = {
         ["Name_lang"] = "Vision of Stormwind",
@@ -18382,6 +20678,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1471] = {
         ["Name_lang"] = "Emerald Dreamway",
@@ -18398,6 +20696,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1472] = {
         ["Name_lang"] = "The Dragon's Spine",
@@ -18414,6 +20714,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1473] = {
         ["Name_lang"] = "Chamber of Heart",
@@ -18430,6 +20732,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1474] = {
         ["Name_lang"] = "The Maelstrom - Heart of Azeroth",
@@ -18446,6 +20750,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1475] = {
         ["Name_lang"] = "The Emerald Dream",
@@ -18462,6 +20768,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1476] = {
         ["Name_lang"] = "Twilight Highlands",
@@ -18478,6 +20786,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1478] = {
         ["Name_lang"] = "Ashran",
@@ -18494,6 +20804,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1479] = {
         ["Name_lang"] = "Baine Rescue",
@@ -18510,6 +20822,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1490] = {
         ["Name_lang"] = "Mechagon",
@@ -18526,6 +20840,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1491] = {
         ["Name_lang"] = "Mechagon",
@@ -18542,6 +20858,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1493] = {
         ["Name_lang"] = "Mechagon",
@@ -18558,6 +20876,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1494] = {
         ["Name_lang"] = "Mechagon",
@@ -18574,6 +20894,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1497] = {
         ["Name_lang"] = "Mechagon",
@@ -18590,6 +20912,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1499] = {
         ["Name_lang"] = "Zin-Azshari",
@@ -18606,6 +20930,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1500] = {
         ["Name_lang"] = "",
@@ -18622,6 +20948,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1501] = {
         ["Name_lang"] = "Crestfall",
@@ -18638,6 +20966,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1502] = {
         ["Name_lang"] = "Snowblossom Village",
@@ -18654,6 +20984,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1504] = {
         ["Name_lang"] = "Nazjatar",
@@ -18670,6 +21002,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1505] = {
         ["Name_lang"] = "Stratholme",
@@ -18686,6 +21020,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1512] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18702,6 +21038,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1513] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18718,6 +21056,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1514] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18734,6 +21074,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1515] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18750,6 +21092,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1516] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18766,6 +21110,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1517] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18782,6 +21128,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1518] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18798,6 +21146,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1519] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18814,6 +21164,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1520] = {
         ["Name_lang"] = "The Eternal Palace",
@@ -18830,6 +21182,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1521] = {
         ["Name_lang"] = "Karazhan Catacombs",
@@ -18846,6 +21200,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1522] = {
         ["Name_lang"] = "Crumbling Cavern",
@@ -18862,6 +21218,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1523] = {
         ["Name_lang"] = "Solesa Naksu [DNT]",
@@ -18878,6 +21236,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1524] = {
         ["Name_lang"] = "",
@@ -18894,6 +21254,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1525] = {
         ["Name_lang"] = "Revendreth",
@@ -18910,6 +21272,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "746",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1527] = {
         ["Name_lang"] = "Uldum",
@@ -18926,6 +21290,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "1",
         ["ContentTuningID"] = "703",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1528] = {
         ["Name_lang"] = "Nazjatar",
@@ -18942,6 +21308,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1530] = {
         ["Name_lang"] = "Vale of Eternal Blossoms",
@@ -18958,6 +21326,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "2",
         ["ContentTuningID"] = "703",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1531] = {
         ["Name_lang"] = "Crapopolis",
@@ -18974,6 +21344,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1532] = {
         ["Name_lang"] = "Crapopolis",
@@ -18990,6 +21362,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1533] = {
         ["Name_lang"] = "Bastion",
@@ -19006,6 +21380,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "743",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1534] = {
         ["Name_lang"] = "Orgrimmar",
@@ -19022,6 +21398,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1535] = {
         ["Name_lang"] = "Durotar",
@@ -19038,6 +21416,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "70",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1536] = {
         ["Name_lang"] = "Maldraxxus",
@@ -19054,6 +21434,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "745",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1537] = {
         ["Name_lang"] = "Alterac Valley",
@@ -19070,6 +21452,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1538] = {
         ["Name_lang"] = "Blackwing Descent",
@@ -19086,6 +21470,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1539] = {
         ["Name_lang"] = "Blackwing Descent",
@@ -19102,6 +21488,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1540] = {
         ["Name_lang"] = "Halls of Origination",
@@ -19118,6 +21506,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1541] = {
         ["Name_lang"] = "Halls of Origination",
@@ -19134,6 +21524,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1542] = {
         ["Name_lang"] = "Halls of Origination",
@@ -19150,6 +21542,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1543] = {
         ["Name_lang"] = "The Maw",
@@ -19166,6 +21560,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "6",
         ["ContentTuningID"] = "2098",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1544] = {
         ["Name_lang"] = "Mogu'shan Palace",
@@ -19182,6 +21578,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1545] = {
         ["Name_lang"] = "Mogu'shan Palace",
@@ -19198,6 +21596,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1546] = {
         ["Name_lang"] = "Mogu'shan Palace",
@@ -19214,6 +21614,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1547] = {
         ["Name_lang"] = "Mogu'shan Vaults",
@@ -19230,6 +21632,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1548] = {
         ["Name_lang"] = "Mogu'shan Vaults",
@@ -19246,6 +21650,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1549] = {
         ["Name_lang"] = "Mogu'shan Vaults",
@@ -19262,6 +21668,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1550] = {
         ["Name_lang"] = "The Shadowlands",
@@ -19277,7 +21685,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "807",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1552] = {
         ["Name_lang"] = "Caverns of Time",
@@ -19294,6 +21704,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1553] = {
         ["Name_lang"] = "Caverns of Time",
@@ -19310,6 +21722,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1554] = {
         ["Name_lang"] = "Serpentshrine Cavern",
@@ -19326,6 +21740,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1555] = {
         ["Name_lang"] = "Tempest Keep",
@@ -19342,6 +21758,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1556] = {
         ["Name_lang"] = "Hyjal Summit",
@@ -19358,6 +21776,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1557] = {
         ["Name_lang"] = "Naxxramas",
@@ -19374,6 +21794,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1558] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -19390,6 +21812,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1559] = {
         ["Name_lang"] = "The Bastion of Twilight",
@@ -19406,6 +21830,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1560] = {
         ["Name_lang"] = "Blackwing Lair",
@@ -19422,6 +21848,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1561] = {
         ["Name_lang"] = "Firelands",
@@ -19438,6 +21866,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1563] = {
         ["Name_lang"] = "Trial of the Crusader",
@@ -19454,6 +21884,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1565] = {
         ["Name_lang"] = "Ardenweald",
@@ -19470,6 +21902,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "744",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1569] = {
         ["Name_lang"] = "Bastion",
@@ -19486,6 +21920,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1570] = {
         ["Name_lang"] = "Vale of Eternal Blossoms",
@@ -19502,6 +21938,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "4",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1571] = {
         ["Name_lang"] = "Uldum",
@@ -19518,6 +21956,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "3",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1573] = {
         ["Name_lang"] = "Mechagon City",
@@ -19534,6 +21974,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1574] = {
         ["Name_lang"] = "Mechagon City",
@@ -19550,6 +21992,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1576] = {
         ["Name_lang"] = "Deepwind Gorge",
@@ -19566,6 +22010,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1577] = {
         ["Name_lang"] = "Gilneas City",
@@ -19582,6 +22028,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1578] = {
         ["Name_lang"] = "Blackrock Depths",
@@ -19598,6 +22046,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1579] = {
         ["Name_lang"] = "Pools Of Power",
@@ -19614,6 +22064,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1580] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19630,6 +22082,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1581] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19646,6 +22100,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1582] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19662,6 +22118,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1590] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19678,6 +22136,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1591] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19694,6 +22154,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1592] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19710,6 +22172,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1593] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19726,6 +22190,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1594] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19742,6 +22208,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1595] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19758,6 +22226,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1596] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19774,6 +22244,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1597] = {
         ["Name_lang"] = "Ny'alotha",
@@ -19790,6 +22262,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1600] = {
         ["Name_lang"] = "Vault of Y'Shaarj",
@@ -19806,6 +22280,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1602] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -19822,6 +22298,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1603] = {
         ["Name_lang"] = "Ardenweald",
@@ -19838,6 +22316,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1604] = {
         ["Name_lang"] = "Chamber Of Heart",
@@ -19854,6 +22334,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1609] = {
         ["Name_lang"] = "Darkmaul Citadel",
@@ -19870,6 +22352,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1610] = {
         ["Name_lang"] = "Darkmaul Citadel",
@@ -19886,6 +22370,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1611] = {
         ["Name_lang"] = "Dark Citadel",
@@ -19902,6 +22388,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1614] = {
         ["Name_lang"] = "JT_New_A",
@@ -19918,6 +22406,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1615] = {
         ["Name_lang"] = "TG10_Floor [Deprecated]",
@@ -19934,6 +22424,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1616] = {
         ["Name_lang"] = "TG11_Floor [Deprecated]",
@@ -19950,6 +22442,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1617] = {
         ["Name_lang"] = "TG12_Floor [Deprecated]",
@@ -19966,6 +22460,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1618] = {
         ["Name_lang"] = "Torghast",
@@ -19982,6 +22478,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1619] = {
         ["Name_lang"] = "Torghast",
@@ -19998,6 +22496,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1620] = {
         ["Name_lang"] = "Torghast",
@@ -20014,6 +22514,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1621] = {
         ["Name_lang"] = "Torghast",
@@ -20030,6 +22532,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1623] = {
         ["Name_lang"] = "Torghast",
@@ -20046,6 +22550,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1624] = {
         ["Name_lang"] = "Torghast",
@@ -20062,6 +22568,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1627] = {
         ["Name_lang"] = "Torghast",
@@ -20078,6 +22586,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1628] = {
         ["Name_lang"] = "Torghast",
@@ -20094,6 +22604,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1629] = {
         ["Name_lang"] = "Torghast",
@@ -20110,6 +22622,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1630] = {
         ["Name_lang"] = "Torghast",
@@ -20126,6 +22640,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1631] = {
         ["Name_lang"] = "Torghast",
@@ -20142,6 +22658,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1632] = {
         ["Name_lang"] = "Torghast",
@@ -20158,6 +22676,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1635] = {
         ["Name_lang"] = "Torghast",
@@ -20174,6 +22694,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1636] = {
         ["Name_lang"] = "Torghast",
@@ -20190,6 +22712,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1641] = {
         ["Name_lang"] = "Torghast",
@@ -20206,6 +22730,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1642] = {
         ["Name_lang"] = "Val'sharah",
@@ -20222,6 +22748,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "332",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1643] = {
         ["Name_lang"] = "Ardenweald",
@@ -20238,6 +22766,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1644] = {
         ["Name_lang"] = "Ember Court",
@@ -20254,6 +22784,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1645] = {
         ["Name_lang"] = "Torghast",
@@ -20270,6 +22802,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1647] = {
         ["Name_lang"] = "The Shadowlands",
@@ -20286,6 +22820,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1648] = {
         ["Name_lang"] = "The Maw",
@@ -20302,6 +22838,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "742",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1649] = {
         ["Name_lang"] = "Etheric Vault",
@@ -20318,6 +22856,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1650] = {
         ["Name_lang"] = "Sightless Hold",
@@ -20334,6 +22874,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1651] = {
         ["Name_lang"] = "Molten Forge",
@@ -20350,6 +22892,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1652] = {
         ["Name_lang"] = "Vault of Souls",
@@ -20366,6 +22910,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1656] = {
         ["Name_lang"] = "Torghast - Map Floor 10 [Deprecated]",
@@ -20382,6 +22928,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1658] = {
         ["Name_lang"] = "Alpha_TG_R02",
@@ -20398,6 +22946,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1659] = {
         ["Name_lang"] = "Alpha_TG_R03",
@@ -20414,6 +22964,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1661] = {
         ["Name_lang"] = "Alpha_TG_R05",
@@ -20430,6 +22982,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1662] = {
         ["Name_lang"] = "Queen's Conservatory",
@@ -20446,6 +23000,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1663] = {
         ["Name_lang"] = "Halls of Atonement",
@@ -20462,6 +23018,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1664] = {
         ["Name_lang"] = "Halls of Atonement",
@@ -20478,6 +23036,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1665] = {
         ["Name_lang"] = "Halls of Atonement",
@@ -20494,6 +23054,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1666] = {
         ["Name_lang"] = "The Necrotic Wake",
@@ -20510,6 +23072,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1667] = {
         ["Name_lang"] = "The Necrotic Wake",
@@ -20526,6 +23090,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1668] = {
         ["Name_lang"] = "The Necrotic Wake",
@@ -20542,6 +23108,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1669] = {
         ["Name_lang"] = "Mists of Tirna Scithe",
@@ -20558,6 +23126,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1670] = {
         ["Name_lang"] = "Oribos",
@@ -20574,6 +23144,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1671] = {
         ["Name_lang"] = "Oribos",
@@ -20590,6 +23162,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1672] = {
         ["Name_lang"] = "Oribos",
@@ -20606,6 +23180,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1673] = {
         ["Name_lang"] = "Oribos",
@@ -20622,6 +23198,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1674] = {
         ["Name_lang"] = "Plaguefall",
@@ -20638,6 +23216,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1675] = {
         ["Name_lang"] = "Sanguine Depths",
@@ -20654,6 +23234,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1676] = {
         ["Name_lang"] = "Sanguine Depths",
@@ -20670,6 +23252,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1677] = {
         ["Name_lang"] = "De Other Side",
@@ -20686,6 +23270,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1678] = {
         ["Name_lang"] = "De Other Side",
@@ -20702,6 +23288,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1679] = {
         ["Name_lang"] = "De Other Side",
@@ -20718,6 +23306,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1680] = {
         ["Name_lang"] = "De Other Side",
@@ -20734,6 +23324,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1681] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -20750,6 +23342,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1682] = {
         ["Name_lang"] = "Icecrown Citadel",
@@ -20766,6 +23360,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1683] = {
         ["Name_lang"] = "Theater of Pain",
@@ -20782,6 +23378,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1684] = {
         ["Name_lang"] = "Theater of Pain",
@@ -20798,6 +23396,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1685] = {
         ["Name_lang"] = "Theater of Pain",
@@ -20814,6 +23414,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1686] = {
         ["Name_lang"] = "Theater of Pain",
@@ -20830,6 +23432,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1687] = {
         ["Name_lang"] = "Theater of Pain",
@@ -20846,6 +23450,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1688] = {
         ["Name_lang"] = "Revendreth",
@@ -20862,6 +23468,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1689] = {
         ["Name_lang"] = "Maldraxxus",
@@ -20878,6 +23486,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1690] = {
         ["Name_lang"] = "Aspirant's Quarters",
@@ -20894,6 +23504,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1691] = {
         ["Name_lang"] = "Shattered Grove",
@@ -20910,6 +23522,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1692] = {
         ["Name_lang"] = "Spires Of Ascension",
@@ -20926,6 +23540,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1693] = {
         ["Name_lang"] = "Spires Of Ascension",
@@ -20942,6 +23558,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1694] = {
         ["Name_lang"] = "Spires Of Ascension",
@@ -20958,6 +23576,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1695] = {
         ["Name_lang"] = "Spires Of Ascension",
@@ -20974,6 +23594,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1697] = {
         ["Name_lang"] = "Plaguefall",
@@ -20990,6 +23612,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1698] = {
         ["Name_lang"] = "Seat of the Primus",
@@ -21006,6 +23630,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1699] = {
         ["Name_lang"] = "Sinfall",
@@ -21022,6 +23648,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1700] = {
         ["Name_lang"] = "Sinfall",
@@ -21038,6 +23666,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1701] = {
         ["Name_lang"] = "Heart of the Forest",
@@ -21054,6 +23684,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1702] = {
         ["Name_lang"] = "Heart of the Forest",
@@ -21070,6 +23702,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1703] = {
         ["Name_lang"] = "Heart of the Forest",
@@ -21086,6 +23720,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1705] = {
         ["Name_lang"] = "Torghast - Entrance",
@@ -21102,6 +23738,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1707] = {
         ["Name_lang"] = "Elysian Hold",
@@ -21118,6 +23756,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1708] = {
         ["Name_lang"] = "Elysian Hold",
@@ -21134,6 +23774,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1709] = {
         ["Name_lang"] = "Ardenweald",
@@ -21150,6 +23792,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1711] = {
         ["Name_lang"] = "Ascension Coliseum",
@@ -21166,6 +23810,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1712] = {
         ["Name_lang"] = "Torghast",
@@ -21182,6 +23828,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1713] = {
         ["Name_lang"] = "Path of Wisdom",
@@ -21198,6 +23846,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1714] = {
         ["Name_lang"] = "Third Chamber of Kalliope",
@@ -21214,6 +23864,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1715] = {
         ["Name_lang"] = "Vestibule Of Eternity",
@@ -21230,6 +23882,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1716] = {
         ["Name_lang"] = "Torghast - Map Floor 22",
@@ -21246,6 +23900,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1717] = {
         ["Name_lang"] = "Chill's Reach",
@@ -21262,6 +23918,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1720] = {
         ["Name_lang"] = "Covenant_Ard_Torghast",
@@ -21278,6 +23936,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1721] = {
         ["Name_lang"] = "Torghast",
@@ -21294,6 +23954,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1724] = {
         ["Name_lang"] = "Vortrexxis",
@@ -21310,6 +23972,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1726] = {
         ["Name_lang"] = "The North Sea",
@@ -21326,6 +23990,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1727] = {
         ["Name_lang"] = "The North Sea",
@@ -21342,6 +24008,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1728] = {
         ["Name_lang"] = "The Runecarver",
@@ -21358,6 +24026,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1734] = {
         ["Name_lang"] = "Revendreth",
@@ -21374,6 +24044,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1735] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21390,6 +24062,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1736] = {
         ["Name_lang"] = "Torghast",
@@ -21406,6 +24080,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1738] = {
         ["Name_lang"] = "Revendreth",
@@ -21422,6 +24098,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "746",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1739] = {
         ["Name_lang"] = "Ardenweald",
@@ -21438,6 +24116,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "744",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1740] = {
         ["Name_lang"] = "Ardenweald",
@@ -21454,6 +24134,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "744",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1741] = {
         ["Name_lang"] = "Maldraxxus",
@@ -21470,6 +24152,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "745",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1742] = {
         ["Name_lang"] = "Revendreth",
@@ -21486,6 +24170,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1744] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21502,6 +24188,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1745] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21518,6 +24206,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1746] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21534,6 +24224,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1747] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21550,6 +24242,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1748] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21566,6 +24260,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1749] = {
         ["Name_lang"] = "Torghast",
@@ -21582,6 +24278,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1750] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21598,6 +24296,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1751] = {
         ["Name_lang"] = "Torghast",
@@ -21614,6 +24314,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1752] = {
         ["Name_lang"] = "Torghast",
@@ -21630,6 +24332,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1753] = {
         ["Name_lang"] = "Torghast",
@@ -21646,6 +24350,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1754] = {
         ["Name_lang"] = "Torghast",
@@ -21662,6 +24368,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1755] = {
         ["Name_lang"] = "Castle Nathria",
@@ -21678,6 +24386,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1756] = {
         ["Name_lang"] = "Torghast",
@@ -21694,6 +24404,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1757] = {
         ["Name_lang"] = "Torghast",
@@ -21710,6 +24422,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1758] = {
         ["Name_lang"] = "Torghast",
@@ -21726,6 +24440,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1759] = {
         ["Name_lang"] = "Torghast",
@@ -21742,6 +24458,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1760] = {
         ["Name_lang"] = "Torghast",
@@ -21758,6 +24476,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1761] = {
         ["Name_lang"] = "Torghast",
@@ -21774,6 +24494,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1762] = {
         ["Name_lang"] = "Torghast, Tower of the Damned",
@@ -21790,6 +24512,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1763] = {
         ["Name_lang"] = "Torghast",
@@ -21806,6 +24530,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1764] = {
         ["Name_lang"] = "Torghast",
@@ -21822,6 +24548,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1765] = {
         ["Name_lang"] = "Torghast",
@@ -21838,6 +24566,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1766] = {
         ["Name_lang"] = "Torghast",
@@ -21854,6 +24584,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1767] = {
         ["Name_lang"] = "Torghast",
@@ -21870,6 +24602,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1768] = {
         ["Name_lang"] = "Torghast",
@@ -21886,6 +24620,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1769] = {
         ["Name_lang"] = "Torghast",
@@ -21902,6 +24638,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1770] = {
         ["Name_lang"] = "Torghast",
@@ -21918,6 +24656,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1771] = {
         ["Name_lang"] = "Torghast",
@@ -21934,6 +24674,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1772] = {
         ["Name_lang"] = "Torghast",
@@ -21950,6 +24692,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1773] = {
         ["Name_lang"] = "Torghast",
@@ -21966,6 +24710,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1774] = {
         ["Name_lang"] = "Torghast",
@@ -21982,6 +24728,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1776] = {
         ["Name_lang"] = "Torghast",
@@ -21998,6 +24746,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1777] = {
         ["Name_lang"] = "Torghast",
@@ -22014,6 +24764,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1778] = {
         ["Name_lang"] = "Torghast",
@@ -22030,6 +24782,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1779] = {
         ["Name_lang"] = "Torghast",
@@ -22046,6 +24800,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1780] = {
         ["Name_lang"] = "Torghast",
@@ -22062,6 +24818,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1781] = {
         ["Name_lang"] = "Torghast",
@@ -22078,6 +24836,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1782] = {
         ["Name_lang"] = "Torghast",
@@ -22094,6 +24854,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1783] = {
         ["Name_lang"] = "Torghast",
@@ -22110,6 +24872,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1784] = {
         ["Name_lang"] = "Torghast",
@@ -22126,6 +24890,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1785] = {
         ["Name_lang"] = "Torghast",
@@ -22142,6 +24908,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1786] = {
         ["Name_lang"] = "Torghast",
@@ -22158,6 +24926,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1787] = {
         ["Name_lang"] = "Torghast",
@@ -22174,6 +24944,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1788] = {
         ["Name_lang"] = "Torghast",
@@ -22190,6 +24962,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1789] = {
         ["Name_lang"] = "Torghast",
@@ -22206,6 +24980,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1791] = {
         ["Name_lang"] = "Torghast",
@@ -22222,6 +24998,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1792] = {
         ["Name_lang"] = "Torghast",
@@ -22238,6 +25016,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1793] = {
         ["Name_lang"] = "Torghast",
@@ -22254,6 +25034,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1794] = {
         ["Name_lang"] = "Torghast",
@@ -22270,6 +25052,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1795] = {
         ["Name_lang"] = "Torghast",
@@ -22286,6 +25070,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1796] = {
         ["Name_lang"] = "Torghast",
@@ -22302,6 +25088,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1797] = {
         ["Name_lang"] = "Torghast",
@@ -22318,6 +25106,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1798] = {
         ["Name_lang"] = "Torghast",
@@ -22334,6 +25124,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1799] = {
         ["Name_lang"] = "Torghast",
@@ -22350,6 +25142,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1800] = {
         ["Name_lang"] = "Torghast",
@@ -22366,6 +25160,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1801] = {
         ["Name_lang"] = "Torghast",
@@ -22382,6 +25178,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1802] = {
         ["Name_lang"] = "Torghast",
@@ -22398,6 +25196,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1803] = {
         ["Name_lang"] = "Torghast",
@@ -22414,6 +25214,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1804] = {
         ["Name_lang"] = "Torghast",
@@ -22430,6 +25232,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1805] = {
         ["Name_lang"] = "Torghast",
@@ -22446,6 +25250,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1806] = {
         ["Name_lang"] = "Torghast",
@@ -22462,6 +25268,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1807] = {
         ["Name_lang"] = "Torghast",
@@ -22478,6 +25286,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1808] = {
         ["Name_lang"] = "Torghast",
@@ -22494,6 +25304,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1809] = {
         ["Name_lang"] = "Torghast",
@@ -22510,6 +25322,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1810] = {
         ["Name_lang"] = "Torghast",
@@ -22526,6 +25340,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1811] = {
         ["Name_lang"] = "Torghast",
@@ -22542,6 +25358,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1812] = {
         ["Name_lang"] = "Torghast",
@@ -22558,6 +25376,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1813] = {
         ["Name_lang"] = "Bastion",
@@ -22574,6 +25394,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "743",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1814] = {
         ["Name_lang"] = "Maldraxxus",
@@ -22590,6 +25412,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "745",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1816] = {
         ["Name_lang"] = "Claw's Edge",
@@ -22606,6 +25430,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1818] = {
         ["Name_lang"] = "Tirna Vaal",
@@ -22622,6 +25448,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1819] = {
         ["Name_lang"] = "Fungal Terminus",
@@ -22638,6 +25466,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1820] = {
         ["Name_lang"] = "Pit of Anguish",
@@ -22654,6 +25484,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1821] = {
         ["Name_lang"] = "Pit of Anguish",
@@ -22670,6 +25502,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1822] = {
         ["Name_lang"] = "Extractor's Sanatorium",
@@ -22686,6 +25520,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1823] = {
         ["Name_lang"] = "Altar of Domination",
@@ -22702,6 +25538,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1824] = {
         ["Name_lang"] = "Matriarch's Den",
@@ -22718,6 +25556,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1825] = {
         ["Name_lang"] = "The Root Cellar",
@@ -22734,6 +25574,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1826] = {
         ["Name_lang"] = "The Root Cellar",
@@ -22750,6 +25592,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1827] = {
         ["Name_lang"] = "The Root Cellar",
@@ -22766,6 +25610,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1829] = {
         ["Name_lang"] = "",
@@ -22782,6 +25628,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1833] = {
         ["Name_lang"] = "Torghast",
@@ -22798,6 +25646,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1834] = {
         ["Name_lang"] = "Torghast - Map Floor 24",
@@ -22814,6 +25664,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1835] = {
         ["Name_lang"] = "Torghast - Map Floor 25",
@@ -22830,6 +25682,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1836] = {
         ["Name_lang"] = "Torghast - Map Floor 26",
@@ -22846,6 +25700,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1837] = {
         ["Name_lang"] = "Torghast - Map Floor 27",
@@ -22862,6 +25718,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1838] = {
         ["Name_lang"] = "Torghast - Map Floor 41",
@@ -22878,6 +25736,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1839] = {
         ["Name_lang"] = "Torghast - Map Floor 28",
@@ -22894,6 +25754,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1840] = {
         ["Name_lang"] = "Torghast - Map Floor 40",
@@ -22910,6 +25772,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1841] = {
         ["Name_lang"] = "Torghast - Map Floor 39",
@@ -22926,6 +25790,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1842] = {
         ["Name_lang"] = "Torghast - Map Floor 29",
@@ -22942,6 +25808,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1843] = {
         ["Name_lang"] = "Torghast - Map Floor 38",
@@ -22958,6 +25826,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1844] = {
         ["Name_lang"] = "Torghast - Map Floor 32",
@@ -22974,6 +25844,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1845] = {
         ["Name_lang"] = "Torghast - Map Floor 31",
@@ -22990,6 +25862,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1846] = {
         ["Name_lang"] = "Torghast - Map Floor 33",
@@ -23006,6 +25880,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1847] = {
         ["Name_lang"] = "Torghast - Map Floor 34",
@@ -23022,6 +25898,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1848] = {
         ["Name_lang"] = "Torghast - Map Floor 14",
@@ -23038,6 +25916,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1849] = {
         ["Name_lang"] = "Torghast - Map Floor 16",
@@ -23054,6 +25934,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1850] = {
         ["Name_lang"] = "Torghast - Map Floor 18",
@@ -23070,6 +25952,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1851] = {
         ["Name_lang"] = "Torghast - Map Floor 42",
@@ -23086,6 +25970,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1852] = {
         ["Name_lang"] = "Torghast - Map Floor 44",
@@ -23102,6 +25988,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1853] = {
         ["Name_lang"] = "Torghast - Map Floor 46",
@@ -23118,6 +26006,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1854] = {
         ["Name_lang"] = "Torghast - Map Floor 48",
@@ -23134,6 +26024,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1855] = {
         ["Name_lang"] = "Torghast - Map Floor 49",
@@ -23150,6 +26042,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1856] = {
         ["Name_lang"] = "Torghast - Map Floor 50",
@@ -23166,6 +26060,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1857] = {
         ["Name_lang"] = "Torghast - Map Floor 51",
@@ -23182,6 +26078,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1858] = {
         ["Name_lang"] = "Torghast - Map Floor 52",
@@ -23198,6 +26096,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1859] = {
         ["Name_lang"] = "Torghast - Map Floor 53",
@@ -23214,6 +26114,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1860] = {
         ["Name_lang"] = "Torghast - Map Floor 54",
@@ -23230,6 +26132,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1861] = {
         ["Name_lang"] = "Torghast - Map Floor 57",
@@ -23246,6 +26150,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1862] = {
         ["Name_lang"] = "Torghast - Map Floor 59",
@@ -23262,6 +26168,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1863] = {
         ["Name_lang"] = "Torghast - Map Floor 61",
@@ -23278,6 +26186,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1864] = {
         ["Name_lang"] = "Torghast - Map Floor 63",
@@ -23294,6 +26204,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1865] = {
         ["Name_lang"] = "Torghast - Map Floor 64",
@@ -23310,6 +26222,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1867] = {
         ["Name_lang"] = "Torghast - Map Floor 66",
@@ -23326,6 +26240,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1868] = {
         ["Name_lang"] = "Torghast - Map Floor 67",
@@ -23342,6 +26258,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1869] = {
         ["Name_lang"] = "Torghast - Map Floor 68",
@@ -23358,6 +26276,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1870] = {
         ["Name_lang"] = "Torghast - Map Floor 69",
@@ -23374,6 +26294,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1871] = {
         ["Name_lang"] = "Torghast - Map Floor 70",
@@ -23390,6 +26312,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1872] = {
         ["Name_lang"] = "Torghast - Map Floor 71",
@@ -23406,6 +26330,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1873] = {
         ["Name_lang"] = "Torghast - Map Floor 74",
@@ -23422,6 +26348,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1874] = {
         ["Name_lang"] = "Torghast - Map Floor 75",
@@ -23438,6 +26366,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1875] = {
         ["Name_lang"] = "Torghast - Map Floor 76",
@@ -23454,6 +26384,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1876] = {
         ["Name_lang"] = "Torghast - Map Floor 77",
@@ -23470,6 +26402,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1877] = {
         ["Name_lang"] = "Torghast - Map Floor 78",
@@ -23486,6 +26420,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1878] = {
         ["Name_lang"] = "Torghast - Map Floor 80",
@@ -23502,6 +26438,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1879] = {
         ["Name_lang"] = "Torghast - Map Floor 81",
@@ -23518,6 +26456,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1880] = {
         ["Name_lang"] = "Torghast - Map Floor 83",
@@ -23534,6 +26474,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1881] = {
         ["Name_lang"] = "Torghast - Map Floor 84",
@@ -23550,6 +26492,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1882] = {
         ["Name_lang"] = "Torghast - Map Floor 86",
@@ -23566,6 +26510,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1883] = {
         ["Name_lang"] = "Torghast - Map Floor 87",
@@ -23582,6 +26528,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1884] = {
         ["Name_lang"] = "Torghast - Map Floor 88",
@@ -23598,6 +26546,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1885] = {
         ["Name_lang"] = "Torghast - Map Floor 89",
@@ -23614,6 +26564,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1886] = {
         ["Name_lang"] = "Torghast - Map Floor 92",
@@ -23630,6 +26582,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1887] = {
         ["Name_lang"] = "Torghast - Map Floor 93",
@@ -23646,6 +26600,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1888] = {
         ["Name_lang"] = "Torghast - Map Floor 94",
@@ -23662,6 +26618,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1889] = {
         ["Name_lang"] = "Torghast - Map Floor 95",
@@ -23678,6 +26636,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1890] = {
         ["Name_lang"] = "Torghast - Map Floor 97",
@@ -23694,6 +26654,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1891] = {
         ["Name_lang"] = "Torghast - Map Floor 98",
@@ -23710,6 +26672,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1892] = {
         ["Name_lang"] = "Torghast - Map Floor 99",
@@ -23726,6 +26690,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1893] = {
         ["Name_lang"] = "Torghast - Map Floor 100",
@@ -23742,6 +26708,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1894] = {
         ["Name_lang"] = "Torghast - Map Floor 23",
@@ -23758,6 +26726,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1895] = {
         ["Name_lang"] = "Torghast - Map Floor 35",
@@ -23774,6 +26744,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1896] = {
         ["Name_lang"] = "Torghast - Map Floor 56",
@@ -23790,6 +26762,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1897] = {
         ["Name_lang"] = "Torghast - Map Floor 62",
@@ -23806,6 +26780,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1898] = {
         ["Name_lang"] = "Torghast - Map Floor 82",
@@ -23822,6 +26798,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1899] = {
         ["Name_lang"] = "Torghast - Map Floor 101",
@@ -23838,6 +26816,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1900] = {
         ["Name_lang"] = "Torghast - Map Floor 58",
@@ -23854,6 +26834,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1901] = {
         ["Name_lang"] = "Torghast - Map Floor 73",
@@ -23870,6 +26852,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1902] = {
         ["Name_lang"] = "Torghast - Map Floor 79",
@@ -23886,6 +26870,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1903] = {
         ["Name_lang"] = "Torghast - Map Floor 85",
@@ -23902,6 +26888,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1904] = {
         ["Name_lang"] = "Torghast - Map Floor 90",
@@ -23918,6 +26906,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1905] = {
         ["Name_lang"] = "Torghast - Map Floor 96",
@@ -23934,6 +26924,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1907] = {
         ["Name_lang"] = "Torghast - Map Floor 102",
@@ -23950,6 +26942,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1908] = {
         ["Name_lang"] = "Torghast - Map Floor 60",
@@ -23966,6 +26960,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1909] = {
         ["Name_lang"] = "Torghast - Map Floor 21",
@@ -23982,6 +26978,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1910] = {
         ["Name_lang"] = "Torghast - Map Floor 91",
@@ -23998,6 +26996,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1911] = {
         ["Name_lang"] = "Torghast - Entrance",
@@ -24014,6 +27014,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1912] = {
         ["Name_lang"] = "The Runecarver's Oubliette",
@@ -24030,6 +27032,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1913] = {
         ["Name_lang"] = "Torghast",
@@ -24046,6 +27050,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1914] = {
         ["Name_lang"] = "Torghast",
@@ -24062,6 +27068,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1917] = {
         ["Name_lang"] = "De Other Side",
@@ -24078,6 +27086,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1920] = {
         ["Name_lang"] = "Torghast",
@@ -24094,6 +27104,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1921] = {
         ["Name_lang"] = "Torghast",
@@ -24110,6 +27122,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1922] = {
         ["Name_lang"] = "Draenor",
@@ -24126,6 +27140,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1923] = {
         ["Name_lang"] = "Pandaria",
@@ -24142,6 +27158,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1958] = {
         ["Name_lang"] = "Firelands",
@@ -24158,6 +27176,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1959] = {
         ["Name_lang"] = "Firelands",
@@ -24174,6 +27194,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1960] = {
         ["Name_lang"] = "The Maw",
@@ -24190,6 +27212,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "6",
         ["ContentTuningID"] = "742",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1961] = {
         ["Name_lang"] = "Korthia",
@@ -24206,6 +27230,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1962] = {
         ["Name_lang"] = "Torghast",
@@ -24222,6 +27248,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1963] = {
         ["Name_lang"] = "Torghast",
@@ -24238,6 +27266,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1964] = {
         ["Name_lang"] = "Torghast",
@@ -24254,6 +27284,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1965] = {
         ["Name_lang"] = "Torghast",
@@ -24270,6 +27302,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1966] = {
         ["Name_lang"] = "Torghast",
@@ -24286,6 +27320,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1967] = {
         ["Name_lang"] = "Torghast",
@@ -24302,6 +27338,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1968] = {
         ["Name_lang"] = "Torghast",
@@ -24318,6 +27356,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1969] = {
         ["Name_lang"] = "Torghast",
@@ -24334,6 +27374,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1970] = {
         ["Name_lang"] = "Zereth Mortis",
@@ -24350,6 +27392,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "2057",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1971] = {
         ["Name_lang"] = "Skyhold",
@@ -24366,6 +27410,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1974] = {
         ["Name_lang"] = "Torghast",
@@ -24382,6 +27428,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1975] = {
         ["Name_lang"] = "Torghast",
@@ -24398,6 +27446,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1976] = {
         ["Name_lang"] = "Torghast",
@@ -24414,6 +27464,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1977] = {
         ["Name_lang"] = "Torghast",
@@ -24430,6 +27482,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1978] = {
         ["Name_lang"] = "Dragon Isles",
@@ -24445,7 +27499,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2424",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1979] = {
         ["Name_lang"] = "Torghast",
@@ -24462,6 +27518,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1980] = {
         ["Name_lang"] = "Torghast",
@@ -24478,6 +27536,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1981] = {
         ["Name_lang"] = "Torghast",
@@ -24494,6 +27554,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1982] = {
         ["Name_lang"] = "Torghast",
@@ -24510,6 +27572,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1983] = {
         ["Name_lang"] = "Torghast",
@@ -24526,6 +27590,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1984] = {
         ["Name_lang"] = "Torghast",
@@ -24542,6 +27608,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1985] = {
         ["Name_lang"] = "Torghast",
@@ -24558,6 +27626,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1986] = {
         ["Name_lang"] = "Torghast",
@@ -24574,6 +27644,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1987] = {
         ["Name_lang"] = "Torghast",
@@ -24590,6 +27662,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1988] = {
         ["Name_lang"] = "Torghast",
@@ -24606,6 +27680,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1989] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24622,6 +27698,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1990] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24638,6 +27716,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1991] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24654,6 +27734,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1992] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24670,6 +27752,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1993] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24686,6 +27770,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1995] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24702,6 +27788,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1996] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24718,6 +27806,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1997] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24734,6 +27824,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1998] = {
         ["Name_lang"] = "Sanctum of Domination",
@@ -24750,6 +27842,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [1999] = {
         ["Name_lang"] = "Sanctum of Domination",
@@ -24766,6 +27860,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2000] = {
         ["Name_lang"] = "Sanctum of Domination",
@@ -24782,6 +27878,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2001] = {
         ["Name_lang"] = "Sanctum of Domination",
@@ -24798,6 +27896,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2002] = {
         ["Name_lang"] = "Sanctum of Domination",
@@ -24814,6 +27914,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2003] = {
         ["Name_lang"] = "Sanctum of Domination",
@@ -24830,6 +27932,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2004] = {
         ["Name_lang"] = "Sanctum of Domination",
@@ -24846,6 +27950,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2005] = {
         ["Name_lang"] = "Ardenweald",
@@ -24862,6 +27968,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2006] = {
         ["Name_lang"] = "Cavern of Contemplation",
@@ -24878,6 +27986,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2007] = {
         ["Name_lang"] = "Gromit Hollow",
@@ -24894,6 +28004,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2008] = {
         ["Name_lang"] = "Chamber of the Sigil",
@@ -24910,6 +28022,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2009] = {
         ["Name_lang"] = "TG106_Floor_MM",
@@ -24926,6 +28040,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2010] = {
         ["Name_lang"] = "Torghast",
@@ -24942,6 +28058,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2011] = {
         ["Name_lang"] = "Torghast",
@@ -24958,6 +28076,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2012] = {
         ["Name_lang"] = "Torghast",
@@ -24974,6 +28094,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2016] = {
         ["Name_lang"] = "Tazavesh, the Veiled Market",
@@ -24990,6 +28112,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2017] = {
         ["Name_lang"] = "Spires of Ascension",
@@ -25006,6 +28130,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2018] = {
         ["Name_lang"] = "Spires of Ascension",
@@ -25022,6 +28148,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2019] = {
         ["Name_lang"] = "Torghast",
@@ -25038,6 +28166,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2022] = {
         ["Name_lang"] = "The Waking Shores",
@@ -25053,7 +28183,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2466",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2023] = {
         ["Name_lang"] = "Ohn'ahran Plains",
@@ -25069,7 +28201,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2469",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2024] = {
         ["Name_lang"] = "The Azure Span",
@@ -25085,7 +28219,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2468",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2025] = {
         ["Name_lang"] = "Thaldraszus",
@@ -25101,7 +28237,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "10",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2541",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2026] = {
         ["Name_lang"] = "The Forbidden Reach Deprecated",
@@ -25118,6 +28256,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2027] = {
         ["Name_lang"] = "Blooming Foundry",
@@ -25134,6 +28274,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2028] = {
         ["Name_lang"] = "Locrian Esper",
@@ -25150,6 +28292,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2029] = {
         ["Name_lang"] = "Gravid Repose",
@@ -25166,6 +28310,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2030] = {
         ["Name_lang"] = "Nexus of Actualization",
@@ -25182,6 +28328,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2031] = {
         ["Name_lang"] = "Crypts of the Eternal",
@@ -25198,6 +28346,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2042] = {
         ["Name_lang"] = "The Crucible",
@@ -25214,6 +28364,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2046] = {
         ["Name_lang"] = "Zereth Mortis",
@@ -25230,6 +28382,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2047] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25246,6 +28400,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2048] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25262,6 +28418,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2049] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25278,6 +28436,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2050] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25294,6 +28454,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2051] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25310,6 +28472,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2052] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25326,6 +28490,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2055] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25342,6 +28508,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2057] = {
         ["Name_lang"] = "Dragon Isles",
@@ -25352,12 +28520,14 @@ _G['MapInfo'] = {
         ["Type"] = "2",
         ["BountySetID"] = "0",
         ["BountyDisplayLocation"] = "0",
-        ["TempVisibilityPlayerConditionID"] = "115842",
+        ["TempVisibilityPlayerConditionID"] = "0",
         ["VisibilityPlayerConditionID"] = "0",
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "5468",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2059] = {
         ["Name_lang"] = "Resonant Peaks",
@@ -25374,6 +28544,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2061] = {
         ["Name_lang"] = "Sepulcher of the First Ones",
@@ -25390,6 +28562,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2063] = {
         ["Name_lang"] = "Dragon Isles",
@@ -25406,6 +28580,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2066] = {
         ["Name_lang"] = "Catalyst Wards",
@@ -25422,6 +28598,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2070] = {
         ["Name_lang"] = "Tirisfal Glades",
@@ -25438,6 +28616,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "2172",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2071] = {
         ["Name_lang"] = "Uldaman: Legacy of Tyr",
@@ -25454,6 +28634,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2072] = {
         ["Name_lang"] = "Uldaman: Legacy of Tyr",
@@ -25470,6 +28652,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2073] = {
         ["Name_lang"] = "The Azure Vault",
@@ -25486,6 +28670,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2074] = {
         ["Name_lang"] = "The Azure Vault",
@@ -25502,6 +28688,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2075] = {
         ["Name_lang"] = "The Azure Vault",
@@ -25518,6 +28706,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2076] = {
         ["Name_lang"] = "The Azure Vault",
@@ -25534,6 +28724,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2077] = {
         ["Name_lang"] = "The Azure Vault",
@@ -25550,6 +28742,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2080] = {
         ["Name_lang"] = "Neltharus",
@@ -25566,6 +28760,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2081] = {
         ["Name_lang"] = "Neltharus",
@@ -25582,6 +28778,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2082] = {
         ["Name_lang"] = "Halls Of Infusion",
@@ -25598,6 +28796,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2083] = {
         ["Name_lang"] = "Halls Of Infusion",
@@ -25614,6 +28814,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2084] = {
         ["Name_lang"] = "The Emerald Dreamway",
@@ -25630,6 +28832,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2085] = {
         ["Name_lang"] = "The Primalist Future",
@@ -25646,6 +28850,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2088] = {
         ["Name_lang"] = "Pandaren Revolution",
@@ -25662,6 +28868,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2089] = {
         ["Name_lang"] = "The Black Empire",
@@ -25678,6 +28886,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2090] = {
         ["Name_lang"] = "The Gnoll War",
@@ -25694,6 +28904,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2091] = {
         ["Name_lang"] = "War of the Shifting Sands",
@@ -25710,6 +28922,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2092] = {
         ["Name_lang"] = "Azmerloth",
@@ -25726,6 +28940,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2093] = {
         ["Name_lang"] = "The Nokhud Offensive",
@@ -25742,6 +28958,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2094] = {
         ["Name_lang"] = "Ruby Life Pools",
@@ -25758,6 +28976,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2095] = {
         ["Name_lang"] = "Ruby Life Pools",
@@ -25774,6 +28994,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2096] = {
         ["Name_lang"] = "Brackenhide Hollow",
@@ -25790,6 +29012,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2097] = {
         ["Name_lang"] = "Algeth'ar Academy",
@@ -25806,6 +29030,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2098] = {
         ["Name_lang"] = "Algeth'ar Academy",
@@ -25822,6 +29048,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2099] = {
         ["Name_lang"] = "Algeth'ar Academy",
@@ -25838,6 +29066,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2100] = {
         ["Name_lang"] = "The Siege Creche",
@@ -25854,6 +29084,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2101] = {
         ["Name_lang"] = "The Support Creche",
@@ -25870,6 +29102,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2102] = {
         ["Name_lang"] = "The War Creche",
@@ -25886,6 +29120,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2106] = {
         ["Name_lang"] = "Brackenhide Hollow",
@@ -25902,6 +29138,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2107] = {
         ["Name_lang"] = "The Forbidden Reach",
@@ -25918,6 +29156,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2109] = {
         ["Name_lang"] = "The War Creche",
@@ -25934,6 +29174,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2110] = {
         ["Name_lang"] = "The Support Creche",
@@ -25950,6 +29192,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2111] = {
         ["Name_lang"] = "The Siege Creche",
@@ -25966,12 +29210,14 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2112] = {
         ["Name_lang"] = "Valdrakken",
         ["ID"] = "2112",
         ["ParentUiMapID"] = "2025",
-        ["Flags"] = "4",
+        ["Flags"] = "1048580",
         ["System"] = "0",
         ["Type"] = "3",
         ["BountySetID"] = "119",
@@ -25982,6 +29228,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2118] = {
         ["Name_lang"] = "The Forbidden Reach",
@@ -25998,6 +29246,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "8",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2119] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26014,6 +29264,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2120] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26030,6 +29282,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2121] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26046,6 +29300,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2122] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26062,6 +29318,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2123] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26078,6 +29336,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2124] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26094,6 +29354,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2125] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26110,6 +29372,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2126] = {
         ["Name_lang"] = "Vault of the Incarnates",
@@ -26126,6 +29390,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2127] = {
         ["Name_lang"] = "The Waking Shores",
@@ -26142,6 +29408,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2128] = {
         ["Name_lang"] = "The Azure Span",
@@ -26158,6 +29426,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2129] = {
         ["Name_lang"] = "Ohn'ahran Plains",
@@ -26174,6 +29444,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2130] = {
         ["Name_lang"] = "Thaldraszus",
@@ -26190,6 +29462,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2131] = {
         ["Name_lang"] = "The Forbidden Reach",
@@ -26206,6 +29480,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "8",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2132] = {
         ["Name_lang"] = "The Azure Span",
@@ -26222,6 +29498,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2133] = {
         ["Name_lang"] = "Zaralek Cavern",
@@ -26237,7 +29515,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2627",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2134] = {
         ["Name_lang"] = "Valdrakken",
@@ -26254,6 +29534,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2135] = {
         ["Name_lang"] = "Valdrakken",
@@ -26270,6 +29552,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2146] = {
         ["Name_lang"] = "The Eastern Glades",
@@ -26286,6 +29570,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2147] = {
         ["Name_lang"] = "Azeroth",
@@ -26302,6 +29588,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "5468",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2149] = {
         ["Name_lang"] = "Ohn'ahran Plains",
@@ -26318,6 +29606,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2150] = {
         ["Name_lang"] = "Dragonskull Island",
@@ -26334,6 +29624,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2151] = {
         ["Name_lang"] = "The Forbidden Reach",
@@ -26349,7 +29641,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2589",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2154] = {
         ["Name_lang"] = "Froststone Vault",
@@ -26366,6 +29660,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2162] = {
         ["Name_lang"] = "Alterac Valley",
@@ -26382,6 +29678,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2165] = {
         ["Name_lang"] = "The Throughway",
@@ -26398,6 +29696,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2166] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26414,6 +29714,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2167] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26430,6 +29732,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2168] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26446,6 +29750,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2169] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26462,6 +29768,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2170] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26478,6 +29786,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2171] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26494,6 +29804,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2172] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26510,6 +29822,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2173] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26526,6 +29840,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2174] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26542,6 +29858,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2175] = {
         ["Name_lang"] = "Zaralek Cavern",
@@ -26558,6 +29876,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2176] = {
         ["Name_lang"] = "The Maelstrom",
@@ -26574,6 +29894,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2183] = {
         ["Name_lang"] = "The Azure Vault",
@@ -26590,6 +29912,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2184] = {
         ["Name_lang"] = "Zaralek Cavern",
@@ -26606,6 +29930,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2190] = {
         ["Name_lang"] = "Sanctum of Chronology",
@@ -26622,6 +29948,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2191] = {
         ["Name_lang"] = "Millennia's Threshold",
@@ -26638,6 +29966,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2192] = {
         ["Name_lang"] = "Locus of Eternity",
@@ -26654,6 +29984,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2193] = {
         ["Name_lang"] = "Spoke of Endless Winter",
@@ -26670,6 +30002,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2194] = {
         ["Name_lang"] = "Crossroads of Fate",
@@ -26686,6 +30020,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2195] = {
         ["Name_lang"] = "Infinite Conflux",
@@ -26702,6 +30038,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2196] = {
         ["Name_lang"] = "Twisting Approach",
@@ -26718,6 +30056,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2197] = {
         ["Name_lang"] = "Immemorial Battlefield",
@@ -26734,6 +30074,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2198] = {
         ["Name_lang"] = "Dawn of the Infinite",
@@ -26750,6 +30092,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2199] = {
         ["Name_lang"] = "Tyrhold Reservoir",
@@ -26766,6 +30110,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "10",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2200] = {
         ["Name_lang"] = "Emerald Dream",
@@ -26781,7 +30127,9 @@ _G['MapInfo'] = {
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2699",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2201] = {
         ["Name_lang"] = "Azq'roth",
@@ -26798,6 +30146,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2202] = {
         ["Name_lang"] = "Azewrath",
@@ -26814,6 +30164,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2203] = {
         ["Name_lang"] = "Azmourne",
@@ -26830,6 +30182,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2204] = {
         ["Name_lang"] = "Azmerloth",
@@ -26846,6 +30200,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2205] = {
         ["Name_lang"] = "Ulderoth",
@@ -26862,6 +30218,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2206] = {
         ["Name_lang"] = "A.Z.E.R.O.T.H.",
@@ -26878,6 +30236,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2207] = {
         ["Name_lang"] = "The Warlands",
@@ -26894,6 +30254,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2211] = {
         ["Name_lang"] = "Aberrus, the Shadowed Crucible",
@@ -26910,6 +30272,80 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2213] = {
+        ["Name_lang"] = "City of Threads",
+        ["ID"] = "2213",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "4",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2214] = {
+        ["Name_lang"] = "The Ringing Deeps",
+        ["ID"] = "2214",
+        ["ParentUiMapID"] = "2274",
+        ["Flags"] = "6",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "120",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "2798",
+        ["AdventureMapTextureKitID"] = "5586",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2215] = {
+        ["Name_lang"] = "Hallowfall",
+        ["ID"] = "2215",
+        ["ParentUiMapID"] = "2274",
+        ["Flags"] = "6",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "120",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "2799",
+        ["AdventureMapTextureKitID"] = "5586",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2216] = {
+        ["Name_lang"] = "City of Threads - Lower",
+        ["ID"] = "2216",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "4",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2220] = {
         ["Name_lang"] = "The Nighthold",
@@ -26926,6 +30362,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2221] = {
         ["Name_lang"] = "The Nighthold",
@@ -26942,6 +30380,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2228] = {
         ["Name_lang"] = "The Black Empire",
@@ -26958,6 +30398,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2230] = {
         ["Name_lang"] = "Halls Of Valor",
@@ -26974,6 +30416,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2231] = {
         ["Name_lang"] = "Halls Of Valor",
@@ -26990,6 +30434,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2232] = {
         ["Name_lang"] = "Amirdrassil",
@@ -27006,6 +30452,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2233] = {
         ["Name_lang"] = "Amirdrassil",
@@ -27022,6 +30470,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2234] = {
         ["Name_lang"] = "Amirdrassil",
@@ -27038,9 +30488,11 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2235] = {
-        ["Name_lang"] = "Amirdrassil",
+        ["Name_lang"] = "The Northern Boughs",
         ["ID"] = "2235",
         ["ParentUiMapID"] = "2234",
         ["Flags"] = "0",
@@ -27054,9 +30506,11 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2236] = {
-        ["Name_lang"] = "Amirdrassil",
+        ["Name_lang"] = "The Eastern Boughs",
         ["ID"] = "2236",
         ["ParentUiMapID"] = "2234",
         ["Flags"] = "0",
@@ -27070,9 +30524,11 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2237] = {
-        ["Name_lang"] = "Amirdrassil",
+        ["Name_lang"] = "The Southern Boughs",
         ["ID"] = "2237",
         ["ParentUiMapID"] = "2234",
         ["Flags"] = "0",
@@ -27086,6 +30542,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2238] = {
         ["Name_lang"] = "Amirdrassil",
@@ -27102,6 +30560,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2239] = {
         ["Name_lang"] = "Amirdrassil",
@@ -27112,12 +30572,14 @@ _G['MapInfo'] = {
         ["Type"] = "3",
         ["BountySetID"] = "0",
         ["BountyDisplayLocation"] = "0",
-        ["TempVisibilityPlayerConditionID"] = "115838",
+        ["TempVisibilityPlayerConditionID"] = "0",
         ["VisibilityPlayerConditionID"] = "0",
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
-        ["ContentTuningID"] = "0",
+        ["ContentTuningID"] = "2699",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2240] = {
         ["Name_lang"] = "Amirdrassil",
@@ -27134,6 +30596,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2241] = {
         ["Name_lang"] = "Emerald Dream",
@@ -27150,6 +30614,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2244] = {
         ["Name_lang"] = "Amirdrassil",
@@ -27166,6 +30632,80 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2248] = {
+        ["Name_lang"] = "Isle of Dorn",
+        ["ID"] = "2248",
+        ["ParentUiMapID"] = "2274",
+        ["Flags"] = "6",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "120",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "2797",
+        ["AdventureMapTextureKitID"] = "5586",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2249] = {
+        ["Name_lang"] = "Fungal Folly",
+        ["ID"] = "2249",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2250] = {
+        ["Name_lang"] = "Kriegval's Rest",
+        ["ID"] = "2250",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2251] = {
+        ["Name_lang"] = "The Waterworks",
+        ["ID"] = "2251",
+        ["ParentUiMapID"] = "2214",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2252] = {
         ["Name_lang"] = "Dragon Isles",
@@ -27176,12 +30716,14 @@ _G['MapInfo'] = {
         ["Type"] = "2",
         ["BountySetID"] = "0",
         ["BountyDisplayLocation"] = "0",
-        ["TempVisibilityPlayerConditionID"] = "115838",
+        ["TempVisibilityPlayerConditionID"] = "5793",
         ["VisibilityPlayerConditionID"] = "0",
         ["HelpTextPosition"] = "0",
         ["BkgAtlasID"] = "5350",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2253] = {
         ["Name_lang"] = "Sor'theril Barrow Den",
@@ -27198,6 +30740,8 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
     [2254] = {
         ["Name_lang"] = "Barrows of Reverie",
@@ -27214,5 +30758,1123 @@ _G['MapInfo'] = {
         ["BkgAtlasID"] = "0",
         ["AlternateUiMapGroup"] = "0",
         ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2255] = {
+        ["Name_lang"] = "Azj-Kahet",
+        ["ID"] = "2255",
+        ["ParentUiMapID"] = "2274",
+        ["Flags"] = "6",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "120",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "2762",
+        ["AdventureMapTextureKitID"] = "5586",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2256] = {
+        ["Name_lang"] = "Azj-Kahet - Lower",
+        ["ID"] = "2256",
+        ["ParentUiMapID"] = "2274",
+        ["Flags"] = "6",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "2762",
+        ["AdventureMapTextureKitID"] = "5586",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2257] = {
+        ["Name_lang"] = "Arathi Highlands",
+        ["ID"] = "2257",
+        ["ParentUiMapID"] = "0",
+        ["Flags"] = "524288",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "2814",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2259] = {
+        ["Name_lang"] = "Tak-Rethan Abyss",
+        ["ID"] = "2259",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2262] = {
+        ["Name_lang"] = "Traitor's Rest",
+        ["ID"] = "2262",
+        ["ParentUiMapID"] = "2024",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "6",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "116949",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2266] = {
+        ["Name_lang"] = "Millenia's Threshold",
+        ["ID"] = "2266",
+        ["ParentUiMapID"] = "2025",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2268] = {
+        ["Name_lang"] = "Amirdrassil",
+        ["ID"] = "2268",
+        ["ParentUiMapID"] = "2057",
+        ["Flags"] = "4",
+        ["System"] = "2",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2269] = {
+        ["Name_lang"] = "Earthcrawl Mines",
+        ["ID"] = "2269",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2270] = {
+        ["Name_lang"] = "Azj' Kahet",
+        ["ID"] = "2270",
+        ["ParentUiMapID"] = "2276",
+        ["Flags"] = "524324",
+        ["System"] = "2",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2271] = {
+        ["Name_lang"] = "Isle of Dorn",
+        ["ID"] = "2271",
+        ["ParentUiMapID"] = "2276",
+        ["Flags"] = "524324",
+        ["System"] = "2",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2272] = {
+        ["Name_lang"] = "The Ringing Deeps",
+        ["ID"] = "2272",
+        ["ParentUiMapID"] = "2276",
+        ["Flags"] = "524324",
+        ["System"] = "2",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2273] = {
+        ["Name_lang"] = "Hallowfall",
+        ["ID"] = "2273",
+        ["ParentUiMapID"] = "2276",
+        ["Flags"] = "524292",
+        ["System"] = "2",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2274] = {
+        ["Name_lang"] = "Khaz Algar",
+        ["ID"] = "2274",
+        ["ParentUiMapID"] = "947",
+        ["Flags"] = "2097152",
+        ["System"] = "0",
+        ["Type"] = "2",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2275] = {
+        ["Name_lang"] = "11.0 - Underground [Deprecated]",
+        ["ID"] = "2275",
+        ["ParentUiMapID"] = "0",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "6",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2276] = {
+        ["Name_lang"] = "Khaz Algar",
+        ["ID"] = "2276",
+        ["ParentUiMapID"] = "0",
+        ["Flags"] = "655364",
+        ["System"] = "2",
+        ["Type"] = "2",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "5350",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "2838",
+        ["AdventureMapTextureKitID"] = "5586",
+        ["MapArtZoneTextPosition"] = "3",
+    },
+    [2277] = {
+        ["Name_lang"] = "Nightfall Sanctum",
+        ["ID"] = "2277",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2291] = {
+        ["Name_lang"] = "Nerub-ar Palace",
+        ["ID"] = "2291",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "68",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2292] = {
+        ["Name_lang"] = "Nerub-ar Palace",
+        ["ID"] = "2292",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "70",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2293] = {
+        ["Name_lang"] = "Nerub-ar Palace",
+        ["ID"] = "2293",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "68",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2294] = {
+        ["Name_lang"] = "Nerub-ar Palace",
+        ["ID"] = "2294",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2295] = {
+        ["Name_lang"] = "Nerub-ar Palace",
+        ["ID"] = "2295",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2296] = {
+        ["Name_lang"] = "Nerub-ar Palace",
+        ["ID"] = "2296",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2298] = {
+        ["Name_lang"] = "Nerub-ar Palace",
+        ["ID"] = "2298",
+        ["ParentUiMapID"] = "0",
+        ["Flags"] = "131076",
+        ["System"] = "2",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "5350",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2299] = {
+        ["Name_lang"] = "The Underkeep",
+        ["ID"] = "2299",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2300] = {
+        ["Name_lang"] = "The Sinkhole",
+        ["ID"] = "2300",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2301] = {
+        ["Name_lang"] = "The Sinkhole",
+        ["ID"] = "2301",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2302] = {
+        ["Name_lang"] = "The Dread Pit",
+        ["ID"] = "2302",
+        ["ParentUiMapID"] = "2214",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2303] = {
+        ["Name_lang"] = "Darkflame Cleft",
+        ["ID"] = "2303",
+        ["ParentUiMapID"] = "2214",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2304] = {
+        ["Name_lang"] = "DarkFlame Cleft",
+        ["ID"] = "2304",
+        ["ParentUiMapID"] = "2214",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2305] = {
+        ["Name_lang"] = "Dalaran",
+        ["ID"] = "2305",
+        ["ParentUiMapID"] = "947",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2306] = {
+        ["Name_lang"] = "Dalaran",
+        ["ID"] = "2306",
+        ["ParentUiMapID"] = "947",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2307] = {
+        ["Name_lang"] = "Dalaran",
+        ["ID"] = "2307",
+        ["ParentUiMapID"] = "947",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2308] = {
+        ["Name_lang"] = "Priory of the Sacred Flame",
+        ["ID"] = "2308",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2309] = {
+        ["Name_lang"] = "Priory of the Sacred Flame",
+        ["ID"] = "2309",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2310] = {
+        ["Name_lang"] = "Skittering Breach",
+        ["ID"] = "2310",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2311] = {
+        ["Name_lang"] = "11.0 -  Hallowfall - [Spreading the Light]- Disabled",
+        ["ID"] = "2311",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "524292",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2312] = {
+        ["Name_lang"] = "Mycomancer Cavern",
+        ["ID"] = "2312",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2313] = {
+        ["Name_lang"] = "The Spiral Weave",
+        ["ID"] = "2313",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2314] = {
+        ["Name_lang"] = "Tak-Rethan Abyss",
+        ["ID"] = "2314",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2315] = {
+        ["Name_lang"] = "The Rookery",
+        ["ID"] = "2315",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2316] = {
+        ["Name_lang"] = "The Rookery",
+        ["ID"] = "2316",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2317] = {
+        ["Name_lang"] = "The Rookery",
+        ["ID"] = "2317",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2318] = {
+        ["Name_lang"] = "The Rookery",
+        ["ID"] = "2318",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2319] = {
+        ["Name_lang"] = "The Rookery",
+        ["ID"] = "2319",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2320] = {
+        ["Name_lang"] = "The Rookery",
+        ["ID"] = "2320",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2321] = {
+        ["Name_lang"] = "Chamber of Heart",
+        ["ID"] = "2321",
+        ["ParentUiMapID"] = "81",
+        ["Flags"] = "64",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2322] = {
+        ["Name_lang"] = "Hall of Awakening",
+        ["ID"] = "2322",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2328] = {
+        ["Name_lang"] = "The Proscenium",
+        ["ID"] = "2328",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "524292",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "119602",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2330] = {
+        ["Name_lang"] = "Priory of the Sacred Flame",
+        ["ID"] = "2330",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "6",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2335] = {
+        ["Name_lang"] = "Cinderbrew Meadery",
+        ["ID"] = "2335",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2339] = {
+        ["Name_lang"] = "Dornogal",
+        ["ID"] = "2339",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "1048580",
+        ["System"] = "0",
+        ["Type"] = "3",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2341] = {
+        ["Name_lang"] = "The Stonevault",
+        ["ID"] = "2341",
+        ["ParentUiMapID"] = "2214",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2343] = {
+        ["Name_lang"] = "City of Threads",
+        ["ID"] = "2343",
+        ["ParentUiMapID"] = "2213",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2344] = {
+        ["Name_lang"] = "City of Threads",
+        ["ID"] = "2344",
+        ["ParentUiMapID"] = "2213",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2345] = {
+        ["Name_lang"] = "Deephaul Ravine",
+        ["ID"] = "2345",
+        ["ParentUiMapID"] = "2214",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "6",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2347] = {
+        ["Name_lang"] = "The Spiral Weave",
+        ["ID"] = "2347",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2348] = {
+        ["Name_lang"] = "Zekvir's Lair",
+        ["ID"] = "2348",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2357] = {
+        ["Name_lang"] = "City of Echos",
+        ["ID"] = "2357",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2358] = {
+        ["Name_lang"] = "City of Echos",
+        ["ID"] = "2358",
+        ["ParentUiMapID"] = "2255",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2359] = {
+        ["Name_lang"] = "The Dawnbreaker",
+        ["ID"] = "2359",
+        ["ParentUiMapID"] = "2215",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2367] = {
+        ["Name_lang"] = "Vault of Memory",
+        ["ID"] = "2367",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "524288",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
+    },
+    [2368] = {
+        ["Name_lang"] = "Hall of Awakening",
+        ["ID"] = "2368",
+        ["ParentUiMapID"] = "2248",
+        ["Flags"] = "0",
+        ["System"] = "0",
+        ["Type"] = "4",
+        ["BountySetID"] = "0",
+        ["BountyDisplayLocation"] = "0",
+        ["TempVisibilityPlayerConditionID"] = "0",
+        ["VisibilityPlayerConditionID"] = "0",
+        ["HelpTextPosition"] = "0",
+        ["BkgAtlasID"] = "0",
+        ["AlternateUiMapGroup"] = "0",
+        ["ContentTuningID"] = "0",
+        ["AdventureMapTextureKitID"] = "0",
+        ["MapArtZoneTextPosition"] = "0",
     },
 }
