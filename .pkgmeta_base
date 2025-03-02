@@ -8,10 +8,10 @@ externals:
     tag: latest
   libs/AceConfig-3.0:
     url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceConfig-3.0
-    tag: Release-r1281
+    tag: Release-r1349
   libs/AceGUI-3.0:
     url: svn://svn.wowace.com/wow/ace3/mainline/trunk/AceGUI-3.0
-    tag: Release-r1281
+    tag: Release-r1349
   libs/HereBeDragons-2.0:
     url: https://repos.wowace.com/wow/herebedragons
   libs/LibQTip-1.0:
