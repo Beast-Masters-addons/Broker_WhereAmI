@@ -38,6 +38,11 @@ jobs:
           sudo luarocks install luaunit
           sudo luarocks install luacov
 
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get -y install zip subversion
+
       - name: Build YAML and move toc
         run: |
           python files/yaml_merge.py
@@ -102,7 +107,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
 
@@ -137,6 +142,11 @@ jobs:
           git rm -rf files
         env:
           GAME_VERSION: ${{ matrix.game_version }}
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get -y install zip subversion
 
       - name: WoW Packager
         uses: BigWigsMods/packager@v2.3.1
