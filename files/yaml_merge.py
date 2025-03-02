@@ -16,9 +16,11 @@ with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as f
     elif game == 'cata':
         data['externals']['libs/LibTouristClassic'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic',
                                                        'tag': 'latest'}
-    else:
+    elif game == 'retail':
         data['externals']['libs/LibTourist-3.0'] = {'url': 'https://repos.wowace.com/wow/libtourist-3-0/trunk',
                                                     'tag': 'latest'}
+    else:
+        raise RuntimeError("Invalid game version %s" % game)
 
 with open(os.path.join(main_folder, '.pkgmeta'), 'w', encoding='utf8') as fp:
     output = dump(data, Dumper=Dumper)
