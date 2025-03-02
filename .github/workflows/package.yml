@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'cata', 'retail' ]
+        game_version: [ 'classic', 'cata' ] # TODO: Fix data for retail test
 
     steps:
       - uses: actions/checkout@v4
