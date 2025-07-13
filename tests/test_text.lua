@@ -23,19 +23,16 @@ loadfile('build_utils/wow_api/skills.lua')()
 loadfile('build_utils/wow_api/map.lua')()
 loadfile('build_utils/wow_api/zone.lua')()
 
+local game = os.getenv('GAME_VERSION')
+loadfile(('data/%s/AreaInfo.lua'):format(game))()
+loadfile(('data/%s/MapInfo.lua'):format(game))()
+
 if os.getenv('GAME_VERSION') == 'retail' then
-    loadfile('data/retail/AreaInfo.lua')()
-    loadfile('data/retail/MapInfo.lua')()
     loadfile('zone_id_missing_retail.lua')()
 else
     if os.getenv('GAME_VERSION') == 'classic' then
-        loadfile('data/classic/AreaInfo.lua')()
-        loadfile('data/classic/MapInfo.lua')()
         loadfile('zone_id_vanilla.lua')()
-    end
-    if os.getenv('GAME_VERSION') == 'cata' then
-        loadfile('data/cata/AreaInfo.lua')()
-        loadfile('data/cata/MapInfo.lua')()
+    elseif os.getenv('GAME_VERSION') == 'cata' then
         loadfile('zone_id_tbc.lua')()
     end
     loadfile('instance_id.lua')()
