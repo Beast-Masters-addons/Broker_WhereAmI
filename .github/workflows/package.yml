@@ -51,7 +51,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Build the addon
-        uses: BigWigsMods/packager@v2.3.1
+        uses: BigWigsMods/packager@v2.4.3
         with:
           args: -z -d -g ${{ matrix.game_version }}
 
