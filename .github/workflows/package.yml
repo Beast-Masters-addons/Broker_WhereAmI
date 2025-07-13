@@ -62,7 +62,7 @@ jobs:
           mv .release/Broker_WhereAmI/embeds.xml .
 
       - name: Strip invalid characters from LibTouristClassic-1.0.lua
-        if: matrix.game_version == 'cata'
+        if: matrix.game_version == 'cata' || matrix.game_version == 'mists'
         run: sed -i '1s/^\xEF\xBB\xBF//' libs/LibTouristClassic/LibTouristClassic-1.0.lua
 
       - name: Patch typo in LibTouristClassic-1.0.lua
