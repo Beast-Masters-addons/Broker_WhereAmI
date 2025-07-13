@@ -91,6 +91,14 @@ jobs:
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
+          ref: '4.4.2'
+
+      - name: Download Mists UI source
+        if: matrix.game_version == 'mists'
+        uses: actions/checkout@v4
+        with:
+          repository: Gethe/wow-ui-source
+          path: tests/wow-ui-source
           ref: 'classic'
 
       - name: Download retail UI source
@@ -116,7 +124,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'cata', 'retail' ]
+        game_version: [ 'classic', 'mists', 'retail' ]
 
     needs:
       - test
@@ -149,7 +157,7 @@ jobs:
           sudo apt-get -y install zip subversion
 
       - name: WoW Packager
-        uses: BigWigsMods/packager@v2.3.1
+        uses: BigWigsMods/packager@v2.4.3
         with:
           args: -o -g ${{ matrix.game_version }}
 

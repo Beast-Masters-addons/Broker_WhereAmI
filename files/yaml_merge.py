@@ -5,6 +5,7 @@ from yaml import load, dump
 from yaml import Loader, Dumper
 
 game = os.getenv('GAME_VERSION')
+print('Building for', game)
 main_folder = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 
 with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as fp:
@@ -13,7 +14,12 @@ with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as f
     if game == 'classic':
         data['externals']['libs/LibTouristClassicEra'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic-era',
                                                           'tag': 'latest'}
+    elif game == 'wrath':
+        data['externals']['libs/LibTourist-3.0'] = {'url': 'https://repos.wowace.com/wow/libtourist-3-0/trunk',
+                                                    'tag': 'r100'}
     elif game == 'cata':
+        data['externals']['libs/LibTouristClassic'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic',                                                 'tag': 'WoW-4.4.2-release1'}
+    elif game == 'mists':
         data['externals']['libs/LibTouristClassic'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic',
                                                        'tag': 'latest'}
     elif game == 'retail':
