@@ -48,7 +48,7 @@ local test = _G['test']
 local addon = _G.BrokerWhereAmI
 
 function _G.GetZoneText()
-    if addon.is_classic then
+    if addon.wow_major < 4 then
         return 'Stranglethorn Vale'
     else
         return 'The Cape of Stranglethorn'
@@ -79,7 +79,7 @@ function test:test_GetAreaStatus()
 end
 
 function test:test_GetZoneName()
-    if addon.is_classic then
+    if addon.wow_major < 4 then
         lu.assertEquals(addon.text:GetZoneName(true, true), 'Stranglethorn Vale')
     else
         lu.assertEquals(addon.text:GetZoneName(true, true), 'The Cape of Stranglethorn')
@@ -103,7 +103,7 @@ function test:test_GetCoordinateText()
 end
 
 function test:test_GetChatText()
-    if addon.is_classic then
+    if addon.wow_major < 4 then
         lu.assertEquals(addon.text:GetChatText(), 'Stranglethorn Vale (55, 55)')
     else
         lu.assertEquals(addon.text:GetChatText(), 'The Cape of Stranglethorn (55, 55)')
