@@ -89,7 +89,7 @@ end
 function test:test_GetLevelRangeText()
     if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
         lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30-45', 0xff, 0xc3, 0x00))
-    elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CATACLYSM_CLASSIC then
+    elseif addon.wow_major < 4 then
         lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('25-55', 0xff, 0xcc, 0x00))
     elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
         lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
@@ -115,7 +115,7 @@ function test:test_GetLDBText()
     local text = addon.text:GetLDBText()
     if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
         lu.assertEquals(text, '|cffffff00Stranglethorn Vale (55, 55) |cffffc300[30-45]|r|r')
-    elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CATACLYSM_CLASSIC then
+    elseif addon.wow_major < 4 then
         lu.assertEquals(text, '|cffffff00Stranglethorn Vale (55, 55) |cffffcc00[25-55]|r|r')
     elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
         lu.assertEquals(text, '|cffffff00The Cape of Stranglethorn (55, 55) |cff7f7f7f[30 (10-30)]|r|r')
