@@ -67,8 +67,7 @@ function test:test_GetFishingSkillText()
         local minFish = addon.tourist:GetFishingLevel(addon.zoneInfo:current().mapId)
 
         lu.assertEquals(minFish, 130)
-        local expected_text = addon.utils:colorize(minFish, 255, 0, 0)
-        lu.assertEquals(addon.text:GetFishingSkillText(), expected_text)
+        lu.assertEquals(addon.text:GetFishingSkillText(), "|cffff0000130-225|r")
     else
         lu.assertEquals(addon.text:GetFishingSkillText(), 'Classic Fishing')
     end
