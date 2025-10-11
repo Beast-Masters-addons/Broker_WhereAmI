@@ -40,9 +40,6 @@ else
     loadfile('instance_id.lua')()
 end
 
-loadfile('../libs/CallbackHandler/CallbackHandler-1.0.lua')()
-loadfile('../libs/HereBeDragons-2.0/HereBeDragons-2.0.lua')()
-
 loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'fonts.lua', 'AceGUI-3.0' })
 
 _G['test'] = {}
