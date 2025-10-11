@@ -12,6 +12,7 @@ loadfile('build_utils/wow_api/constants.lua')()
 loadfile('build_utils/wow_api/functions.lua')()
 loadfile('build_utils/wow_api/frame.lua')()
 loadfile('build_utils/wow_api/mixin.lua')()
+loadfile('build_utils/wow_api/Color.lua')()
 
 loadfile('wow-ui-source/Interface/AddOns/Blizzard_SharedXML/Vector2D.lua')()
 loadfile('wow-ui-source/Interface/AddOns/Blizzard_SharedXML/Vector3D.lua')()
