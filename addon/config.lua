@@ -9,9 +9,7 @@ local AceConfigDialog = _G.LibStub("AceConfigDialog-3.0")
 
 ---Open config window
 function config:ShowConfig()
-    -- call twice to workaround a bug in Blizzard's function
-    _G.InterfaceOptionsFrame_OpenToCategory(self.optionsFrames.general)
-    _G.InterfaceOptionsFrame_OpenToCategory(self.optionsFrames.general)
+    _G.Settings.OpenToCategory(addon.name)
 end
 
 function config.reset()
