@@ -52,6 +52,8 @@ end
 
 -- Return area status: sanctuary, friendly, contested
 function text:GetAreaStatus()
+    local pvpType, _, _ = _G.C_PvP.GetZonePVPInfo()
+
     if (Tourist:IsFriendly(self.zone.mapId)) then
         return text_utils.colorize('Friendly', 25.5, 255, 25.5)
     elseif (Tourist:IsHostile(self.zone.mapId)) then
@@ -60,15 +62,12 @@ function text:GetAreaStatus()
         return text_utils.colorize('Contested', 255, 178.5, 25.5)
     elseif (Tourist:IsInstance(self.zone.mapId)) then
         return text_utils.colorize('Instance', 255, 25.5, 25.5)
-    elseif self.is_classic == false then
-        local pvpType, _, _ = _G.GetZonePVPInfo()
-        if Tourist:IsSanctuary(self.zone.mapId) then
-            return text_utils.colorize('Sanctuary', 104.55, 204, 239, 7)
-        elseif Tourist:IsArena(self.zone.mapId) then
-            return text_utils.colorize('Arena', 255, 25.5, 25.5)
-        elseif (pvpType == "combat") then
-            return text_utils.colorize('Combat', 255, 25.5, 25.5)
-        end
+    elseif Tourist:IsSanctuary(self.zone.mapId) then
+        return text_utils.colorize('Sanctuary', 104.55, 204, 239, 7)
+    elseif Tourist.IsArena and Tourist:IsArena(self.zone.mapId) then
+        return text_utils.colorize('Arena', 255, 25.5, 25.5)
+    elseif (pvpType == "combat") then
+        return text_utils.colorize('Combat', 255, 25.5, 25.5)
     end
     return text_utils.colorize(_G.UNKNOWN or '?', 255, 255, 0)
 end
@@ -77,7 +76,7 @@ end
 function text:UpdateZoneInfo()
     self.zone = addon.zoneInfo:current()
 
-    if not addon.is_classic then
+    if Tourist.GetUniqueZoneNameForLookup then
         self.touristZoneText = Tourist:GetUniqueZoneNameForLookup(self.zone.zoneText, self.zone.mapId)
     else
         self.touristZoneText = self.zone.zoneText
