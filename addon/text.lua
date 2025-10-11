@@ -15,6 +15,8 @@ text.is_classic = addon.is_classic
 text.config = addon.config
 
 local Tourist = addon.tourist
+---@type BMUtilsText
+local text_utils = _G.LibStub("BMUtilsText")
 
 ---Create fish skill text
 ---@return string
@@ -25,11 +27,11 @@ function text:GetFishingSkillText()
         if fishSkill ~= nil and minFish ~= nil then
             local skillRank = fishSkill[4]
             if minFish < skillRank then
-                return addon.utils:colorize(minFish, 0, 255, 0)
+                return text_utils.colorize(minFish, 0, 255, 0)
             elseif minFish == skillRank then
-                return addon.utils:colorize(minFish, 255, 255, 0)
+                return text_utils.colorize(minFish, 255, 255, 0)
             else
-                return addon.utils:colorize(minFish, 255, 0, 0)
+                return text_utils.colorize(minFish, 255, 0, 0)
             end
         end
     else
@@ -52,24 +54,24 @@ end
 -- Return area status: sanctuary, friendly, contested
 function text:GetAreaStatus()
     if (Tourist:IsFriendly(self.zone.mapId)) then
-        return addon.utils:colorize('Friendly', 25.5, 255, 25.5)
+        return text_utils.colorize('Friendly', 25.5, 255, 25.5)
     elseif (Tourist:IsHostile(self.zone.mapId)) then
-        return addon.utils:colorize('Hostile', 255, 25.5, 25.5)
+        return text_utils.colorize('Hostile', 255, 25.5, 25.5)
     elseif (Tourist:IsContested(self.zone.mapId)) then
-        return addon.utils:colorize('Contested', 255, 178.5, 25.5)
+        return text_utils.colorize('Contested', 255, 178.5, 25.5)
     elseif (Tourist:IsInstance(self.zone.mapId)) then
-        return addon.utils:colorize('Instance', 255, 25.5, 25.5)
+        return text_utils.colorize('Instance', 255, 25.5, 25.5)
     elseif self.is_classic == false then
         local pvpType, _, _ = _G.GetZonePVPInfo()
         if Tourist:IsSanctuary(self.zone.mapId) then
-            return addon.utils:colorize('Sanctuary', 104.55, 204, 239, 7)
+            return text_utils.colorize('Sanctuary', 104.55, 204, 239, 7)
         elseif Tourist:IsArena(self.zone.mapId) then
-            return addon.utils:colorize('Arena', 255, 25.5, 25.5)
+            return text_utils.colorize('Arena', 255, 25.5, 25.5)
         elseif (pvpType == "combat") then
-            return addon.utils:colorize('Combat', 255, 25.5, 25.5)
+            return text_utils.colorize('Combat', 255, 25.5, 25.5)
         end
     end
-    return addon.utils:colorize(_G.UNKNOWN or '?', 255, 255, 0)
+    return text_utils.colorize(_G.UNKNOWN or '?', 255, 255, 0)
 end
 
 ---Save current zone
@@ -103,7 +105,7 @@ function text:GetZoneName(show_main, show_sub)
     -- zone and sub zone
     if show_main then
         if show_sub then
-            return addon.utils:sprintf('%s: %s', self.zone.zoneText, self.zone.subZoneText)
+            return (('%s: %s'):format(self.zone.zoneText, self.zone.subZoneText))
         else
             return self.zone.zoneText
         end
@@ -121,10 +123,10 @@ function text:GetLevelRangeText(wrap)
     local level_string = self.zone.levelString
 
     if wrap == true then
-        level_string = addon.utils:sprintf('[%s]', level_string)
+        level_string = (('[%s]'):format(level_string))
     end
-    local r, g, b = Tourist:GetLevelColor(self.zone.mapId)
-    return addon.utils:colorize(level_string, addon.utils:ColorToRGB(r, g, b))
+    local color = _G.CreateColor(Tourist:GetLevelColor(self.zone.mapId))
+    return color:WrapTextInColorCode(level_string)
 end
 
 function text:GetCoordinateText(precision)
@@ -136,8 +138,7 @@ function text:GetCoordinateText(precision)
         return ''
     end
     local x, y = mapPosObject:GetXY()
-
-    return addon.utils:sprintf("(%." .. precision .. "f, %." .. precision .. "f)", x * 100, y * 100)
+    return string.format("(%." .. precision .. "f, %." .. precision .. "f)", x * 100, y * 100)
 end
 
 ---Create location text for chat
@@ -168,7 +169,7 @@ function text:GetLDBText()
         ldb_text = ldb_text .. " " .. level_string
     end
 
-    ldb_text = addon.utils:colorize(ldb_text, self.zone.factionColor)
+    ldb_text = text_utils.colorize(ldb_text, self.zone.factionColor)
     return ldb_text
 end
 
@@ -184,18 +185,18 @@ end
 
 function text:zone_info(zone)
     local zone_obj = addon.zoneInfo:fromZoneName(zone)
-    local zone_string = addon.utils:colorize(zone, zone_obj.factionColor)
+    local zone_string = text_utils.colorize(zone, zone_obj.factionColor)
 
     local level_string
     if zone_obj.levelString ~= nil then
-        level_string = addon.utils:colorize(zone_obj.levelString, zone_obj.factionColor)
+        level_string = text_utils.colorize(zone_obj.levelString, zone_obj.factionColor)
     end
 
     local continent_string
     if self.zone.continent == zone_obj.continent then
-        continent_string = addon.utils:colorize(zone_obj.continent, 'ff00ff00') --green
+        continent_string = text_utils.colorize(zone_obj.continent, 'ff00ff00') --green
     else
-        continent_string = addon.utils:colorize(zone_obj.continent, 'ffffff00') --yellow
+        continent_string = text_utils.colorize(zone_obj.continent, 'ffffff00') --yellow
     end
 
     return zone_string, level_string, continent_string, zone_obj

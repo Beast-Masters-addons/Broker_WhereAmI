@@ -161,12 +161,12 @@ function tooltip_class:AddPathTooltip(destination_zone)
 
     tooltip:AddSeparator()
     local line = tooltip:AddLine()
-    tooltip:SetCell(line, 1, addon.utils:sprintf("    Walk path from %s to %s:",
+    tooltip:SetCell(line, 1, ("    Walk path from %s to %s:"):format(
             text.zone.touristZoneText, destination_zone), "LEFT", 0)
 
     local found = false
     --@debug@
-    addon.utils:printf('Get path from %s to %s', text.zone.touristZoneText, destination_zone)
+    print(('Get path from %s to %s'):format(text.zone.touristZoneText, destination_zone))
     --@end-debug@
     for z in Tourist:IteratePath(text.zone.mapId, destination_zone) do
         found = true
@@ -186,7 +186,7 @@ function tooltip_class:instance_line(instance)
     local groupSize = Tourist:GetInstanceGroupSize(instance)
     local groupSize_string
     if groupSize > 0 then
-        groupSize_string = addon.utils:sprintf("%d-man", groupSize)
+        groupSize_string = (("%d-man"):format(groupSize))
     else
         groupSize_string = ''
     end

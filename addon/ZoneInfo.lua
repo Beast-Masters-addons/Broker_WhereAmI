@@ -7,7 +7,7 @@ local Zone = addon.zoneInfo
 
 local is_classic = addon.is_classic
 local Tourist = addon.tourist
-local utils = addon.utils
+local CreateColor = _G.CreateColor
 
 ---Get information about the current Zone
 ---@return WhereAmIZoneInfo
@@ -67,7 +67,8 @@ function Zone:construct(mapId)
         o.levelString = nil
     end
 
-    o.factionColor = utils:GenerateHexColor(utils:ColorToRGB(Tourist:GetFactionColor(o.mapId)))
+    local color = CreateColor(Tourist:GetFactionColor(o.mapId))
+    o.factionColor = color:GenerateHexColor()
 
     --local low, high = Tourist:GetLevel(zone)
     --local r1, g1, b1 = Tourist:GetFactionColor(zone)

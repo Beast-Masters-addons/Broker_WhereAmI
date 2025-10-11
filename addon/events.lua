@@ -5,22 +5,18 @@ end
 ---@class WhereAmIEvents
 local events = addon.events
 local text = addon.text
-local utils = addon.utils
 
 local frame = _G.CreateFrame("Frame")
 frame:RegisterEvent("ADDON_LOADED")
 frame:SetScript("OnEvent", function(self, event, ...)
     if events[event] == nil then
-        error(utils:sprintf('No event handler for %s', event))
+        error((('No event handler for %s'):format(event)))
     end
     events[event](self, ...)
 end)
 
 function events:ADDON_LOADED(addonName)
     if addonName == 'Broker_WhereAmI' then
-        --@debug@
-        utils:printf("%s loaded", addonName)
-        --@end-debug@
         self:RegisterEvent("ZONE_CHANGED")
         self:RegisterEvent("ZONE_CHANGED_INDOORS")
         self:RegisterEvent("ZONE_CHANGED_NEW_AREA")
