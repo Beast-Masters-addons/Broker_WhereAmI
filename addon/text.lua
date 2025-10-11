@@ -5,8 +5,10 @@ if not addon then
 end
 ---@class WhereAmIText Text utils
 local text = addon.text
+local CreateColor = _G.CreateColor
 
 text.professions = _G['LibProfessions']
+---Used to get current fishing skill
 ---@type LibProfessions
 text.professions = _G['LibStub']('LibProfessions-0')
 ---@type boolean
@@ -21,26 +23,26 @@ local text_utils = _G.LibStub("BMUtilsText")
 ---Create fish skill text
 ---@return string
 function text:GetFishingSkillText()
-    if addon.is_classic then
-        local minFish = Tourist:GetFishingLevel(self.zone.mapId)
+    if self.zone.mapId == nil then
+        return
+    end
+    if Tourist.GetFishingLevel then
+        --Classic
         local fishSkill = self.professions:GetAllSkills()["Fishing"]
-        if fishSkill ~= nil and minFish ~= nil then
-            local skillRank = fishSkill[4]
-            if minFish < skillRank then
-                return text_utils.colorize(minFish, 0, 255, 0)
-            elseif minFish == skillRank then
-                return text_utils.colorize(minFish, 255, 255, 0)
-            else
-                return text_utils.colorize(minFish, 255, 0, 0)
-            end
+        local currentLevel = fishSkill[4]
+        local low, high = Tourist:GetFishingLevel(self.zone.mapId)
+        if low and high then
+            local color = CreateColor(Tourist:CalculateLevelColor(low, high, currentLevel))
+            return color:WrapTextInColorCode(Tourist:GetFishingLevelString(self.zone.mapId))
         end
-    else
+    elseif Tourist.GetFishingSkillInfo then
+        --Retail
         Tourist:GetZoneMapID(self.touristZoneText) --LibTourist has no error handling for invalid zones
         if self.zone.mapId ~= nil then
             local skillEnabled
             local skillName, _, _, _ = Tourist:GetFishingSkillInfo(self.zone.mapId)
             if not skillName then
-                Tourist:LoadFishingSkills()
+                Tourist:InitializeProfessionSkills()
                 skillName, _, _, skillEnabled = Tourist:GetFishingSkillInfo(self.zone.mapId)
                 if skillEnabled == false then
                     return
