@@ -7,14 +7,11 @@ end
 local text = addon.text
 local CreateColor = _G.CreateColor
 
-text.professions = _G['LibProfessions']
 ---Used to get current fishing skill
 ---@type LibProfessions
-text.professions = _G['LibStub']('LibProfessions-0')
----@type boolean
-text.is_classic = addon.is_classic
+local professions = _G.LibStub('LibProfessions-0')
 ---@type WhereAmIConfig
-text.config = addon.config
+local config = addon.config
 
 local Tourist = addon.tourist
 ---@type BMUtilsText
@@ -28,7 +25,7 @@ function text:GetFishingSkillText()
     end
     if Tourist.GetFishingLevel then
         --Classic
-        local fishSkill = self.professions:GetAllSkills()["Fishing"]
+        local fishSkill = professions:GetAllSkills()["Fishing"]
         local currentLevel = fishSkill[4]
         local low, high = Tourist:GetFishingLevel(self.zone.mapId)
         if low and high then
@@ -152,11 +149,11 @@ end
 
 ---Create LDB display text
 function text:GetLDBText()
-    local show_main = self.config.get('show_main_zone')
-    local show_sub = self.config.get('show_sub_zone')
-    local show_coords = self.config.get('show_coords')
-    local show_level = self.config.get('show_zone_level')
-    local precision = self.config.get('cords_decimal_precision')
+    local show_main = config.get('show_main_zone')
+    local show_sub = config.get('show_sub_zone')
+    local show_coords = config.get('show_coords')
+    local show_level = config.get('show_zone_level')
+    local precision = config.get('cords_decimal_precision')
 
     local ldb_text = ''
     ldb_text = ldb_text .. self:GetZoneName(show_main, show_sub)
