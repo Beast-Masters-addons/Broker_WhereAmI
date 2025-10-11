@@ -8,6 +8,7 @@
     <Script file="libs\HereBeDragons-2.0\HereBeDragons-2.0.lua"/>
     <Include file="libs\LibQTip-1.0\lib.xml"/>
     <Include file="libs\BM-utils\lib.xml"/>
+    <Include file="libs\BM-utils-1\lib.xml"/>
     <Include file="libs\LibProfessions\lib.xml"/>
     <Script file="libs\LibDataBroker\LibDataBroker-1.1.lua"/>
 </Ui>
