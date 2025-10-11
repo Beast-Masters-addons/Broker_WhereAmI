@@ -48,6 +48,8 @@ loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'fonts.lua', 'Ac
 _G['test'] = {}
 local test = _G['test']
 local addon = _G.BrokerWhereAmI
+---@type BMUtilsText
+local text_utils = _G.LibStub('BMUtilsText')
 
 function _G.GetZoneText()
     if addon.wow_major < 4 then
@@ -63,7 +65,9 @@ end
 
 function test:test_GetFishingSkillText()
     if addon.is_classic then
-        local fishSkill = addon.text.professions:GetAllSkills()["Fishing"]
+        ---@type LibProfessionsCommon
+        local professions = _G.LibStub('LibProfessions-0')
+        local fishSkill = professions:GetAllSkills()["Fishing"]
         lu.assertEquals(fishSkill[4], 8)
         local minFish = addon.tourist:GetFishingLevel(addon.zoneInfo:current().mapId)
 
@@ -76,7 +80,7 @@ end
 
 function test:test_GetAreaStatus()
     lu.assertTrue(addon.tourist:IsContested(addon.text.zone.mapId))
-    lu.assertEquals(addon.text:GetAreaStatus(), addon.utils:colorize('Contested', 255, 178.5, 25.5))
+    lu.assertEquals(addon.text:GetAreaStatus(), text_utils.colorize('Contested', 255, 178.5, 25.5))
 end
 
 function test:test_GetZoneName()
