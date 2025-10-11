@@ -65,7 +65,7 @@ function addon.obj.OnClick(_, button)
         end
     end
     if button == "RightButton" then
-        addon.config:ShowConfig()
+        addon.config.ShowConfig()
     end
 end
 

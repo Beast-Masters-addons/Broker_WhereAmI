@@ -8,7 +8,7 @@ local AceConfig = _G.LibStub("AceConfig-3.0")
 local AceConfigDialog = _G.LibStub("AceConfigDialog-3.0")
 
 ---Open config window
-function config:ShowConfig()
+function config.ShowConfig()
     _G.Settings.OpenToCategory(addon.name)
 end
 
