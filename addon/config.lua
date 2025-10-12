@@ -1,15 +1,21 @@
+local addonName = ...
 local addon = _G.BrokerWhereAmI
 if not addon then
     return
 end
+
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+
 ---@class WhereAmIConfig
-local config = addon.config
+local config = ace_addon:NewModule("WhereAmIConfig")
+addon.config = config
+
 local AceConfig = _G.LibStub("AceConfig-3.0")
 local AceConfigDialog = _G.LibStub("AceConfigDialog-3.0")
 
 ---Open config window
 function config.ShowConfig()
-    _G.Settings.OpenToCategory(addon.name)
+    _G.Settings.OpenToCategory(addonName)
 end
 
 function config.reset()
@@ -29,23 +35,25 @@ end
 ---Initialize options panel and configuration parameters
 ---
 ---Called at event ADDON_LOADED
-function config:init()
-    AceConfig:RegisterOptionsTable(addon.name, addon.optionsTable, nil)
+function config:OnInitialize()
     self.optionsFrames = {}
-    self.optionsFrames.general = AceConfigDialog:AddToBlizOptions(addon.name, nil, nil, "general")
-
     if _G['WhereAmIOptions'] == nil then
         self.reset()
     end
 end
 
+function config:OnEnable()
+    ---@type WhereAmIOptionsTable
+    local options = ace_addon:GetModule("WhereAmIOptionsTable")
+    -- Register the config
+    AceConfig:RegisterOptionsTable(addonName, options.optionsTable, nil)
+    self.optionsFrames.general = AceConfigDialog:AddToBlizOptions(addonName, nil, nil, "general")
+end
+
 function config.handler_hide_minimap_location(key, value)
-    print('show_minimap', key, 'value', value)
     if value then
-        print('Hide')
         addon.hideMiniMapZone()
     else
-        print('Show')
         addon.showMiniMapZone()
     end
     return key

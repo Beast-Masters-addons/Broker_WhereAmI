@@ -6,6 +6,8 @@ local ldb = _G.LibStub:GetLibrary("LibDataBroker-1.1")
 local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
 ---@type WhereAmIText
 local text = ace_addon:GetModule("WhereAmIText")
+---@type WhereAmIConfig
+local config = ace_addon:GetModule("WhereAmIConfig")
 
 local icon
 if not addon.is_classic then
@@ -68,7 +70,7 @@ function addon.obj.OnClick(_, button)
         end
     end
     if button == "RightButton" then
-        addon.config.ShowConfig()
+        config.ShowConfig()
     end
 end
 

@@ -3,6 +3,7 @@ local addon = _G.BrokerWhereAmI
 if not addon then
     return
 end
+---@type BrokerWhereAmI_ace
 local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
 
 ---@class WhereAmIText Text utils
@@ -13,7 +14,7 @@ local CreateColor = _G.CreateColor
 ---@type LibProfessions
 local professions = _G.LibStub('LibProfessions-0')
 ---@type WhereAmIConfig
-local config = addon.config
+local config = ace_addon:GetModule("WhereAmIConfig")
 
 local Tourist = addon.tourist
 ---@type BMUtilsText

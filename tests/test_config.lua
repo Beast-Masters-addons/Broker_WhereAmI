@@ -20,18 +20,22 @@ loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'LibTouristClass
 
 _G['test'] = {}
 local test = _G['test']
-local addon = _G.BrokerWhereAmI
+
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+---@type WhereAmIConfig
+local config = ace_addon:GetModule("WhereAmIConfig")
 
 function test:test_reset()
     _G['WhereAmIOptions'] = {}
     lu.assertEquals({}, _G['WhereAmIOptions'])
-    addon.config.reset()
+    config.reset()
     lu.assertEquals(true, _G['WhereAmIOptions'].show_main_zone)
 end
 
 function test:test_init()
-    addon.config:init()
-    lu.assertNotNil(addon.config.optionsFrames.general)
+    config:OnInitialize()
+    config:OnEnable()
+    lu.assertNotNil(config.optionsFrames.general)
 end
 
 os.exit(lu.LuaUnit.run())

@@ -1,5 +1,6 @@
 local GetAddOnInfo = _G.GetAddOnInfo or (_G.C_AddOns and _G.C_AddOns.GetAddOnInfo)
 local _, addonTitle = GetAddOnInfo(...)
+---@class BrokerWhereAmI_ace
 local ace_addon = _G.LibStub("AceAddon-3.0"):NewAddon("Broker_WhereAmI")
 
 ---@class BrokerWhereAmI

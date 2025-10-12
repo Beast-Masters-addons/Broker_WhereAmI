@@ -2,8 +2,14 @@ local addon = _G.BrokerWhereAmI
 if not addon then
     return
 end
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+
+---@type WhereAmIConfig
+local config = ace_addon:GetModule("WhereAmIConfig")
 ---@class WhereAmIOptionsTable Options table for AceConfig
-addon.optionsTable = {
+local options = ace_addon:NewModule("WhereAmIOptionsTable")
+
+options.optionsTable = {
     type = "group",
     name = addon.name,
     args = {
@@ -75,6 +81,7 @@ addon.optionsTable = {
                     width = "full",
                     name = "Hide location above minimap.",
                     desc = "Toggle to show the text displayed above the minimap.",
+                    set = config.handler_hide_minimap_location
                 },
                 separator2 = {
                     order = 10,
