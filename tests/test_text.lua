@@ -93,11 +93,11 @@ end
 
 function test:test_GetLevelRangeText()
     if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
-        lu.assertEquals(text:GetLevelRangeText(), text.colorize('30-45', 0xff, 0xc3, 0x00))
+        lu.assertEquals(text:GetLevelRangeText(), text_utils.colorize('30-45', 0xff, 0xc3, 0x00))
     elseif addon.wow_major < 4 then
-        lu.assertEquals(text:GetLevelRangeText(), text.colorize('25-55', 0xff, 0xcc, 0x00))
+        lu.assertEquals(text:GetLevelRangeText(), text_utils.colorize('25-55', 0xff, 0xcc, 0x00))
     elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
-        lu.assertEquals(text:GetLevelRangeText(), text.colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
+        lu.assertEquals(text:GetLevelRangeText(), text_utils.colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
     end
 end
 
