@@ -3,8 +3,10 @@ local addon = _G.BrokerWhereAmI
 if not addon then
     return
 end
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+
 ---@class WhereAmIText Text utils
-local text = addon.text
+local text = ace_addon:NewModule("WhereAmIText")
 local CreateColor = _G.CreateColor
 
 ---Used to get current fishing skill
@@ -16,6 +18,10 @@ local config = addon.config
 local Tourist = addon.tourist
 ---@type BMUtilsText
 local text_utils = _G.LibStub("BMUtilsText")
+
+function text:OnInitialize()
+    Tourist:InitializeProfessionSkills()
+end
 
 ---Create fish skill text
 ---@return string
@@ -36,15 +42,7 @@ function text:GetFishingSkillText()
         --Retail
         Tourist:GetZoneMapID(self.touristZoneText) --LibTourist has no error handling for invalid zones
         if self.zone.mapId ~= nil then
-            local skillEnabled
             local skillName, _, _, _ = Tourist:GetFishingSkillInfo(self.zone.mapId)
-            if not skillName then
-                Tourist:InitializeProfessionSkills()
-                skillName, _, _, skillEnabled = Tourist:GetFishingSkillInfo(self.zone.mapId)
-                if skillEnabled == false then
-                    return
-                end
-            end
             return skillName
         end
     end

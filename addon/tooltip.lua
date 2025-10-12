@@ -5,8 +5,11 @@ end
 ---@class WhereAmITooltip
 local tooltip_class = addon.tooltip
 local Tourist = addon.tourist
-local text = addon.text
----Font definitions
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+---@type WhereAmIText
+local text = ace_addon:GetModule("WhereAmIText")
+--Font definitions
+---@type WhereAmIFonts
 local fonts = addon.fonts
 
 local LibQTip = _G.LibStub('LibQTip-1.0')

@@ -47,6 +47,9 @@ local test = _G['test']
 local addon = _G.BrokerWhereAmI
 ---@type BMUtilsText
 local text_utils = _G.LibStub('BMUtilsText')
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+---@type WhereAmIText
+local text = ace_addon:GetModule("WhereAmIText")
 
 function _G.GetZoneText()
     if addon.wow_major < 4 then
@@ -57,7 +60,7 @@ function _G.GetZoneText()
 end
 
 function test:setUp()
-    addon.text:UpdateZoneInfo()
+    text:UpdateZoneInfo()
 end
 
 function test:test_GetFishingSkillText()
@@ -69,58 +72,58 @@ function test:test_GetFishingSkillText()
         local minFish = addon.tourist:GetFishingLevel(addon.zoneInfo:current().mapId)
 
         lu.assertEquals(minFish, 130)
-        lu.assertEquals(addon.text:GetFishingSkillText(), "|cffff0000130-225|r")
+        lu.assertEquals(text:GetFishingSkillText(), "|cffff0000130-225|r")
     else
-        lu.assertEquals(addon.text:GetFishingSkillText(), 'Classic Fishing')
+        lu.assertEquals(text:GetFishingSkillText(), 'Classic Fishing')
     end
 end
 
 function test:test_GetAreaStatus()
-    lu.assertTrue(addon.tourist:IsContested(addon.text.zone.mapId))
-    lu.assertEquals(addon.text:GetAreaStatus(), text_utils.colorize('Contested', 255, 178.5, 25.5))
+    lu.assertTrue(addon.tourist:IsContested(text.zone.mapId))
+    lu.assertEquals(text:GetAreaStatus(), text_utils.colorize('Contested', 255, 178.5, 25.5))
 end
 
 function test:test_GetZoneName()
     if addon.wow_major < 4 then
-        lu.assertEquals(addon.text:GetZoneName(true, true), 'Stranglethorn Vale')
+        lu.assertEquals(text:GetZoneName(true, true), 'Stranglethorn Vale')
     else
-        lu.assertEquals(addon.text:GetZoneName(true, true), 'The Cape of Stranglethorn')
+        lu.assertEquals(text:GetZoneName(true, true), 'The Cape of Stranglethorn')
     end
 end
 
 function test:test_GetLevelRangeText()
     if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
-        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30-45', 0xff, 0xc3, 0x00))
+        lu.assertEquals(text:GetLevelRangeText(), text.colorize('30-45', 0xff, 0xc3, 0x00))
     elseif addon.wow_major < 4 then
-        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('25-55', 0xff, 0xcc, 0x00))
+        lu.assertEquals(text:GetLevelRangeText(), text.colorize('25-55', 0xff, 0xcc, 0x00))
     elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
-        lu.assertEquals(addon.text:GetLevelRangeText(), addon.utils:colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
+        lu.assertEquals(text:GetLevelRangeText(), text.colorize('30 (10-30)', 0x7f, 0x7f, 0x7f))
     end
 end
 
 function test:test_GetCoordinateText()
-    lu.assertEquals(addon.text:GetCoordinateText(0), '(55, 55)')
-    lu.assertEquals(addon.text:GetCoordinateText(1), '(54.8, 54.9)')
-    lu.assertEquals(addon.text:GetCoordinateText(2), '(54.77, 54.86)')
+    lu.assertEquals(text:GetCoordinateText(0), '(55, 55)')
+    lu.assertEquals(text:GetCoordinateText(1), '(54.8, 54.9)')
+    lu.assertEquals(text:GetCoordinateText(2), '(54.77, 54.86)')
 end
 
 function test:test_GetChatText()
     if addon.wow_major < 4 then
-        lu.assertEquals(addon.text:GetChatText(), 'Stranglethorn Vale (55, 55)')
+        lu.assertEquals(text:GetChatText(), 'Stranglethorn Vale (55, 55)')
     else
-        lu.assertEquals(addon.text:GetChatText(), 'The Cape of Stranglethorn (55, 55)')
+        lu.assertEquals(text:GetChatText(), 'The Cape of Stranglethorn (55, 55)')
     end
 end
 
 function test:test_GetLDBText()
     addon.config:init()
-    local text = addon.text:GetLDBText()
+    local ldb_text = text:GetLDBText()
     if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
-        lu.assertEquals(text, '|cffffff00Stranglethorn Vale (55, 55) |cffffc300[30-45]|r|r')
+        lu.assertEquals(ldb_text, '|cffffff00Stranglethorn Vale (55, 55) |cffffc300[30-45]|r|r')
     elseif addon.wow_major < 4 then
-        lu.assertEquals(text, '|cffffff00Stranglethorn Vale (55, 55) |cffffcc00[25-55]|r|r')
+        lu.assertEquals(ldb_text, '|cffffff00Stranglethorn Vale (55, 55) |cffffcc00[25-55]|r|r')
     elseif _G.WOW_PROJECT_ID == _G.WOW_PROJECT_MAINLINE then
-        lu.assertEquals(text, '|cffffff00The Cape of Stranglethorn (55, 55) |cff7f7f7f[30 (10-30)]|r|r')
+        lu.assertEquals(ldb_text, '|cffffff00The Cape of Stranglethorn (55, 55) |cff7f7f7f[30 (10-30)]|r|r')
     end
 end
 

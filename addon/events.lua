@@ -4,7 +4,9 @@ if not addon then
 end
 ---@class WhereAmIEvents
 local events = addon.events
-local text = addon.text
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+---@type WhereAmIText
+local text = ace_addon:GetModule("WhereAmIText")
 
 local frame = _G.CreateFrame("Frame")
 frame:RegisterEvent("ADDON_LOADED")

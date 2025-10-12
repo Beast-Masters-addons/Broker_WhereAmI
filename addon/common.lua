@@ -1,5 +1,7 @@
 local GetAddOnInfo = _G.GetAddOnInfo or (_G.C_AddOns and _G.C_AddOns.GetAddOnInfo)
 local _, addonTitle = GetAddOnInfo(...)
+local ace_addon = _G.LibStub("AceAddon-3.0"):NewAddon("Broker_WhereAmI")
+
 ---@class BrokerWhereAmI
 local addon = {
     version = '@project-version@',
@@ -14,8 +16,6 @@ local addon = {
     config = {},
     ---@type WhereAmIOptionsTable
     optionsTable = {},
-    ---@type WhereAmIText
-    text = {},
     ---@type WhereAmIEvents
     events = {},
     ---@type WhereAmITooltip
@@ -23,6 +23,7 @@ local addon = {
 }
 addon.is_classic = _G.WOW_PROJECT_ID ~= _G.WOW_PROJECT_MAINLINE
 addon.wow_major = math.floor(tonumber(select(4, _G.GetBuildInfo()) / 10000))
+ace_addon.wow_major = math.floor(tonumber(select(4, _G.GetBuildInfo()) / 10000))
 
 if addon.wow_major == 1 then
     addon.tourist = _G.LibStub("LibTouristClassicEra")

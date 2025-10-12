@@ -3,6 +3,9 @@ if not addon then
     return
 end
 local ldb = _G.LibStub:GetLibrary("LibDataBroker-1.1")
+local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+---@type WhereAmIText
+local text = ace_addon:GetModule("WhereAmIText")
 
 local icon
 if not addon.is_classic then
@@ -21,7 +24,7 @@ addon.obj = ldb:NewDataObject(addon.name, {
 
 ---Main update function
 function addon:MainUpdate()
-    self.obj.text = addon.text:GetLDBText()
+    self.obj.text = text:GetLDBText()
 end
 
 function addon.show_map()
@@ -59,7 +62,7 @@ function addon.obj.OnClick(_, button)
         if _G.IsShiftKeyDown() then
             local edit_box = _G.ChatEdit_ChooseBoxForSend()
             _G.ChatEdit_ActivateChat(edit_box)
-            edit_box:Insert(addon.text:GetChatText())
+            edit_box:Insert(text:GetChatText())
         else
             addon.show_map()
         end
