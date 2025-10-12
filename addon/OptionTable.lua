@@ -12,8 +12,15 @@ addon.optionsTable = {
             type = "group",
             name = "General Settings",
             cmdInline = true,
-            get = addon.config.option_get,
-            set = addon.config.option_set,
+            get = function(info)
+                local key = info[#info]
+                return _G['WhereAmIOptions'][key]
+            end,
+            set = function(info, value)
+                local key = info[#info]
+                _G['WhereAmIOptions'][key] = value
+                addon:MainUpdate()
+            end,
             args = {
                 confdesc = {
                     order = 1,

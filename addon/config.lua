@@ -51,24 +51,8 @@ function config.handler_hide_minimap_location(key, value)
     return key
 end
 
-function config.option_set(info, value)
-    local key = info[#info]
-    --print("The " .. info[#info] .. " was set to: " .. tostring(value))
-    _G['WhereAmIOptions'][key] = value
-    if config['handler_' .. key] ~= nil then
-        config['handler_' .. key](key, value)
-    end
-    addon:MainUpdate()
-end
-
 ---Get configuration parameter
 function config.get(key)
-    return _G['WhereAmIOptions'][key]
-end
-
-function config.option_get(info)
-    local key = info[#info]
-    --print("Get " .. info[#info])
     return _G['WhereAmIOptions'][key]
 end
 
