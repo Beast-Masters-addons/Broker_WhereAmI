@@ -19,7 +19,7 @@ local Tourist = addon.tourist
 ---@type BMUtilsText
 local text_utils = _G.LibStub("BMUtilsText")
 
-function text:OnInitialize()
+function text.OnInitialize()
     Tourist:InitializeProfessionSkills()
 end
 
