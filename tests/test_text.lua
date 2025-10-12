@@ -50,6 +50,8 @@ local text_utils = _G.LibStub('BMUtilsText')
 local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
 ---@type WhereAmIText
 local text = ace_addon:GetModule("WhereAmIText")
+---@type WhereAmIConfig
+local config = ace_addon:GetModule("WhereAmIConfig")
 
 function _G.GetZoneText()
     if addon.wow_major < 4 then
@@ -116,7 +118,8 @@ function test:test_GetChatText()
 end
 
 function test:test_GetLDBText()
-    addon.config:init()
+    config:OnInitialize()
+    config:OnEnable()
     local ldb_text = text:GetLDBText()
     if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
         lu.assertEquals(ldb_text, '|cffffff00Stranglethorn Vale (55, 55) |cffffc300[30-45]|r|r')
