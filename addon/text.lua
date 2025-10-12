@@ -32,7 +32,7 @@ function text:GetFishingSkillText()
     end
     if Tourist.GetFishingLevel then
         --Classic
-        local fishSkill = professions:GetAllSkills()["Fishing"]
+        local fishSkill = professions:GetAllSkills()[_G.PROFESSIONS_FISHING]
         local currentLevel = fishSkill[4]
         local low, high = Tourist:GetFishingLevel(self.zone.mapId)
         if low and high then
