@@ -5,6 +5,7 @@ if not addon then
 end
 ---@type BrokerWhereAmI_ace
 local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+local L = ace_addon.locale
 
 ---@class WhereAmIText Text utils
 local text = ace_addon:NewModule("WhereAmIText")
@@ -56,19 +57,19 @@ function text:GetAreaStatus()
     local pvpType, _, _ = _G.C_PvP.GetZonePVPInfo()
 
     if (Tourist:IsFriendly(self.zone.mapId)) then
-        return text_utils.colorize('Friendly', 25.5, 255, 25.5)
+        return text_utils.colorize(L['Friendly'], 25.5, 255, 25.5)
     elseif (Tourist:IsHostile(self.zone.mapId)) then
-        return text_utils.colorize('Hostile', 255, 25.5, 25.5)
+        return text_utils.colorize(L['Hostile'], 255, 25.5, 25.5)
     elseif (Tourist:IsContested(self.zone.mapId)) then
-        return text_utils.colorize('Contested', 255, 178.5, 25.5)
+        return text_utils.colorize(L['Contested'], 255, 178.5, 25.5)
     elseif (Tourist:IsInstance(self.zone.mapId)) then
-        return text_utils.colorize('Instance', 255, 25.5, 25.5)
+        return text_utils.colorize(L['Instance'], 255, 25.5, 25.5)
     elseif Tourist:IsSanctuary(self.zone.mapId) then
-        return text_utils.colorize('Sanctuary', 104.55, 204, 239, 7)
+        return text_utils.colorize(L['Sanctuary'], 104.55, 204, 239, 7)
     elseif Tourist.IsArena and Tourist:IsArena(self.zone.mapId) then
-        return text_utils.colorize('Arena', 255, 25.5, 25.5)
+        return text_utils.colorize(L['Arena'], 255, 25.5, 25.5)
     elseif (pvpType == "combat") then
-        return text_utils.colorize('Combat', 255, 25.5, 25.5)
+        return text_utils.colorize(L['Combat'], 255, 25.5, 25.5)
     end
     return text_utils.colorize(_G.UNKNOWN or '?', 255, 255, 0)
 end

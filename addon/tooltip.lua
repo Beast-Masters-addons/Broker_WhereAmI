@@ -5,7 +5,9 @@ end
 ---@class WhereAmITooltip
 local tooltip_class = addon.tooltip
 local Tourist = addon.tourist
+---@type BrokerWhereAmI_ace
 local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+local L = ace_addon.locale
 ---@type WhereAmIText
 local text = ace_addon:GetModule("WhereAmIText")
 --Font definitions
@@ -49,7 +51,9 @@ function tooltip_class:add_text(destination)
     self:general(text.zone)
 
     --Instances
-    self:zone_instances(text.zone.mapId)
+    if text.zone and text.zone.mapId then
+        self:zone_instances(text.zone.mapId)
+    end
 
     if addon.config.get('show_recommended') then
         self:recommended_zones(destination)
@@ -61,18 +65,18 @@ function tooltip_class:add_text(destination)
     -- shortcut hints
     self.tooltip:AddLine(" ")
     line = self.tooltip:AddLine()
-    self.tooltip:SetCell(line, 1, "|cffeda55fClick|r to open map.", "LEFT", 0)
+    self.tooltip:SetCell(line, 1, L["|cffeda55fClick|r to open map"], "LEFT", 0)
     line = self.tooltip:AddLine()
-    self.tooltip:SetCell(line, 1, "|cffeda55fRight-Click|r to open the options menu.", "LEFT", 0)
+    self.tooltip:SetCell(line, 1, L["|cffeda55fRight-Click|r to open the options menu"], "LEFT", 0)
     line = self.tooltip:AddLine()
-    self.tooltip:SetCell(line, 1, "|cffeda55fShift-Click|r to insert position into chat edit box.", "LEFT", 0)
+    self.tooltip:SetCell(line, 1, L["|cffeda55fShift-Click|r to insert position into chat edit box"], "LEFT", 0)
     if _G['WhereAmIOptions']['show_recommended'] then
         line = self.tooltip:AddLine()
-        self.tooltip:SetCell(line, 1, "|cffeda55fClick on recommended item|r to see walk path to it.", "LEFT", 0)
+        self.tooltip:SetCell(line, 1, L["|cffeda55fClick on recommended item|r to see walk path to it"], "LEFT", 0)
     end
     if _G['WhereAmIOptions']['show_atlas_on_ctrl'] and _G.Atlas_Toggle ~= nil then
         line = self.tooltip:AddLine()
-        self.tooltip:SetCell(line, 1, "|cffeda55fControl-Click|r to open Atlas.", "LEFT", 0)
+        self.tooltip:SetCell(line, 1, L["|cffeda55fCtrl-Click|r to open Atlas"], "LEFT", 0)
     end
 
     self.tooltip:Show()
@@ -114,7 +118,7 @@ function tooltip_class:general(zone)
     local line = tooltip:AddLine(_G.ZONE_COLON)
     tooltip:SetCell(line, 2, zone.zoneText, "LEFT", 3)
     if text.zone.subZoneText ~= nil then
-        line = tooltip:AddLine("Subzone:")
+        line = tooltip:AddLine(L["Subzone"] .. ":")
         tooltip:SetCell(line, 2, zone.subZoneText, "LEFT", 3)
     end
 
@@ -124,17 +128,16 @@ function tooltip_class:general(zone)
         tooltip:SetCell(line, 2, status, "LEFT", 3)
     end
 
-    line = tooltip:AddLine("Coordinates:")
+    line = tooltip:AddLine(L["Coordinates"] .. ":")
     local coords_string = text:GetCoordinateText(2):sub(2, -2)
     tooltip:SetCell(line, 2, coords_string, "LEFT", 3)
 
-    --touristContinentText = Tourist:GetContinent(text.touristZoneText)
     line = tooltip:AddLine(_G.CONTINENT .. ':')
     tooltip:SetCell(line, 2, zone.continent, "LEFT", 3)
 
     local level = text:GetLevelRangeText()
     if level then
-        line = tooltip:AddLine("Level range:")
+        line = tooltip:AddLine(_G.BATTLEFIELD_LEVEL)
         tooltip:SetCell(line, 2, level, "LEFT", 3)
     end
 
@@ -147,7 +150,7 @@ function tooltip_class:general(zone)
     if Tourist['GetBattlePetLevelString'] ~= nil then
         local pet_levels = Tourist:GetBattlePetLevelString(text.zone.mapId)
         if pet_levels then
-            line = tooltip:AddLine("Battle Pet levels:")
+            line = tooltip:AddLine(L["Battle Pet levels"] .. ":")
             tooltip:SetCell(line, 2, pet_levels, "LEFT", 3)
         end
     end
@@ -164,7 +167,7 @@ function tooltip_class:AddPathTooltip(destination_zone)
 
     tooltip:AddSeparator()
     local line = tooltip:AddLine()
-    tooltip:SetCell(line, 1, ("    Walk path from %s to %s:"):format(
+    tooltip:SetCell(line, 1, ("    " .. L["Walk path from %s to %s"] .. ":"):format(
             text.zone.touristZoneText, destination_zone), "LEFT", 0)
 
     local found = false
@@ -178,7 +181,7 @@ function tooltip_class:AddPathTooltip(destination_zone)
     end
     if not found then
         line = tooltip:AddLine()
-        tooltip:SetCell(line, 1, "    No path found.", "LEFT", 0)
+        tooltip:SetCell(line, 1, "    " .. L["No path found."], "LEFT", 0)
     end
     tooltip:AddSeparator()
 end
@@ -189,7 +192,7 @@ function tooltip_class:instance_line(instance)
     local groupSize = Tourist:GetInstanceGroupSize(instance)
     local groupSize_string
     if groupSize > 0 then
-        groupSize_string = (("%d-man"):format(groupSize))
+        groupSize_string = ((L["%d-man"]):format(groupSize))
     else
         groupSize_string = ''
     end
@@ -202,7 +205,7 @@ end
 function tooltip_class:recommended_zones(destination_zone)
     self.tooltip:AddLine(" ")
     local line = self.tooltip:AddHeader()
-    self.tooltip:SetCell(line, 1, "Recommended zones:", "LEFT", 0)
+    self.tooltip:SetCell(line, 1, L["Recommended zones"] .. ":", "LEFT", 0)
 
     self.tooltip:AddSeparator()
     for zone in Tourist:IterateRecommendedZones() do
@@ -224,7 +227,7 @@ function tooltip_class:recommended_instances(destination_instance)
     if Tourist:HasRecommendedInstances() then
         tooltip:AddLine(" ")
         local line = tooltip:AddHeader()
-        tooltip:SetCell(line, 1, "Recommended instances:", "LEFT", 0)
+        tooltip:SetCell(line, 1, L["Recommended instances"] .. ":", "LEFT", 0)
 
         tooltip:AddSeparator()
         for instance in Tourist:IterateRecommendedInstances() do
@@ -245,7 +248,7 @@ function tooltip_class:zone_instances(mapId)
     if Tourist:DoesZoneHaveInstances(mapId) then
         tooltip:AddLine(" ")
         local line = tooltip:AddHeader()
-        tooltip:SetCell(line, 1, "Instances:", "LEFT", 0)
+        tooltip:SetCell(line, 1, L["Instances"] .. ":", "LEFT", 0)
 
         tooltip:AddSeparator()
         for instance in Tourist:IterateZoneInstances(mapId) do

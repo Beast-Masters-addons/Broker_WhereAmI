@@ -25,6 +25,11 @@ local addon = {
 addon.is_classic = _G.WOW_PROJECT_ID ~= _G.WOW_PROJECT_MAINLINE
 addon.wow_major = math.floor(tonumber(select(4, _G.GetBuildInfo()) / 10000))
 ace_addon.wow_major = math.floor(tonumber(select(4, _G.GetBuildInfo()) / 10000))
+---AceLocale instance
+ace_addon.locale = _G.LibStub("AceLocale-3.0"):GetLocale("Broker_WhereAmI")
+---@type string
+---Addon display name from toc
+ace_addon.title = addonTitle
 
 if addon.wow_major == 1 then
     addon.tourist = _G.LibStub("LibTouristClassicEra")

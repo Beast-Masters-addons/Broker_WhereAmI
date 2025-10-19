@@ -2,7 +2,9 @@ local addon = _G.BrokerWhereAmI
 if not addon then
     return
 end
+---@type BrokerWhereAmI_ace
 local ace_addon = _G.LibStub("AceAddon-3.0"):GetAddon("Broker_WhereAmI")
+local L = ace_addon.locale
 
 ---@type WhereAmIConfig
 local config = ace_addon:GetModule("WhereAmIConfig")
@@ -16,7 +18,7 @@ options.optionsTable = {
         general = {
             order = 1,
             type = "group",
-            name = "General Settings",
+            name = _G.SETTINGS,
             cmdInline = true,
             get = function(info)
                 local key = info[#info]
@@ -31,38 +33,38 @@ options.optionsTable = {
                 confdesc = {
                     order = 1,
                     type = "description",
-                    name = "LDB plugin that shows recommended zones and zone info.",
+                    name = L["A LDB plugin that shows where you are and where you should go"],
                 },
                 separator1 = {
                     order = 2,
                     type = "header",
-                    name = "Display Options",
+                    name = _G.DISPLAY,
                 },
                 show_main_zone = {
                     order = 3,
                     type = "toggle",
                     width = "full",
-                    name = "Show main zone name",
-                    desc = "Toggle to show the main zone name.",
+                    name = L["Show main zone name"],
+                    desc = L["Enable to show the main zone name"],
                 },
                 show_sub_zone = {
                     order = 4,
                     type = "toggle",
                     width = "full",
-                    name = "Show sub zone name",
-                    desc = "Toggle to show the sub zone name.",
+                    name = L["Show sub zone name"],
+                    desc = L["Enable to show the sub zone name"],
                 },
                 show_coords = {
                     order = 5,
                     type = 'toggle',
-                    name = "Show coordinates",
-                    desc = "Toggle to show coordinates.",
+                    name = L["Show coordinates"],
+                    desc = L["Enable to show coordinates"],
                 },
                 cords_decimal_precision = {
                     order = 6,
                     type = "range",
-                    name = "Coordinates decimal precision",
-                    desc = "Set the number of visible decimals.",
+                    name = L["Coordinates decimal precision"],
+                    desc = L["Set the number of visible decimals"],
                     min = 0, max = 2, step = 1,
                     disabled = function()
                         return not addon.config.get('show_coords')
@@ -72,35 +74,35 @@ options.optionsTable = {
                     order = 7,
                     type = 'toggle',
                     width = "full",
-                    name = "Show zone level",
-                    desc = "Toggle to show the zone level.",
+                    name = L["Show zone level"],
+                    desc = L["Enable to show the zone level"],
                 },
                 hide_minimap_location = {
                     order = 8,
                     type = 'toggle',
                     width = "full",
-                    name = "Hide location above minimap.",
-                    desc = "Toggle to show the text displayed above the minimap.",
+                    name = L["Hide location above minimap."],
+                    desc = L["Enable to show the text displayed above the minimap"],
                     set = config.handler_hide_minimap_location
                 },
                 separator2 = {
                     order = 10,
                     type = "header",
-                    name = "Tooltip Options",
+                    name = L["Tooltip"],
                 },
                 show_recommended = {
                     order = 11,
                     type = 'toggle',
                     width = "full",
-                    name = "Show recommended zones/instances",
-                    desc = "Toggle to show the recommended zones/instances.",
+                    name = L["Show recommended zones/instances"],
+                    desc = L["Enable to show the recommended zones/instances"],
                 },
                 show_atlas_on_ctrl = {
                     order = 12,
                     type = 'toggle',
                     width = "full",
-                    name = "Show Atlas on Control+Click",
-                    desc = "Toggle to show Atlas instead of default map when Control Clicking.",
+                    name = L["Show Atlas on Ctrl+Click"],
+                    desc = L["Enable to show Atlas instead of default map when Control Clicking"],
                     hidden = function()
                         return _G['Atlas'] == nil
                     end
@@ -109,8 +111,8 @@ options.optionsTable = {
                     order = 13,
                     type = 'toggle',
                     width = "full",
-                    name = "Show UiMapID",
-                    desc = "Toggle to show the UiMapID.",
+                    name = L["Show UiMapID"],
+                    desc = L["Enable to show UiMapID in tooltip"],
                 },
             }
         }
