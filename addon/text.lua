@@ -21,7 +21,9 @@ local Tourist = addon.tourist
 local text_utils = _G.LibStub("BMUtilsText")
 
 function text.OnInitialize()
-    Tourist:InitializeProfessionSkills()
+    --if Tourist.InitializeProfessionSkills then
+    --    Tourist:InitializeProfessionSkills()
+    --end
 end
 
 ---Create fish skill text
