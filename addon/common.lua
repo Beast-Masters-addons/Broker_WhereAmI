@@ -7,8 +7,6 @@ local ace_addon = _G.LibStub("AceAddon-3.0"):NewAddon("Broker_WhereAmI")
 local addon = {
     version = '@project-version@',
     name = addonTitle,
-    ---@type BMUtils
-    utils = _G.LibStub("BM-utils-1"),
     ---@type WhereAmIFonts
     fonts = {},
     ---@type WhereAmIZoneInfo
