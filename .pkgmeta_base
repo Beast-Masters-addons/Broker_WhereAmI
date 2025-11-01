@@ -7,9 +7,6 @@ externals:
     url: https://repos.wowace.com/wow/herebedragons
   libs/LibQTip-1.0:
     url: https://repos.curseforge.com/wow/libqtip-1-0
-  libs/BM-utils-1:
-    url: https://github.com/Beast-Masters-addons/BM-utils.git
-    tag: v1.11
   libs/BM-utils:
     url: https://github.com/Beast-Masters-addons/BM-utils.git
     tag: latest
