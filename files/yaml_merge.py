@@ -29,8 +29,17 @@ with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as f
     else:
         raise RuntimeError("Invalid game version %s" % game)
 
+
+# Workaround to get proper indentation
+# https://stackoverflow.com/questions/25108581/python-yaml-dump-bad-indentation
+class MyDumper(Dumper):
+
+    def increase_indent(self, flow=False, indentless=False):
+        return super(MyDumper, self).increase_indent(flow, False)
+
+
 with open(os.path.join(main_folder, '.pkgmeta'), 'w', encoding='utf8') as fp:
-    output = dump(data, Dumper=Dumper)
+    output = dump(data, Dumper=MyDumper, default_flow_style=False)
     fp.write(output)
 
 shutil.copy(os.path.join(main_folder, 'files', game, 'Broker_WhereAmI.toc'),
