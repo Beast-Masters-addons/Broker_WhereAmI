@@ -15,8 +15,11 @@ with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as f
         data['externals']['libs/LibTouristClassicEra'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic-era',
                                                           'tag': 'WoW-1.15.6-release1'}
     elif game == 'wrath':
-        data['externals']['libs/LibTourist-3.0'] = {'url': 'https://repos.wowace.com/wow/libtourist-3-0/trunk',
-                                                    'tag': 'r100'}
+        data['externals']['libs/LibBabbleZone-3.0'] = {'url': 'https://repos.wowace.com/wow/libbabble-zone-3-0/trunk',
+                                                       'type': 'svn'}
+        data['externals']['libs/LibTourist-3.0'] = {'url': 'https://repos.wowace.com/wow/libtourist-3-0@100',
+                                                    'type': 'svn'}
+        data['externals']['libs/Ace3']['tag'] = 'Release-r960'
     elif game == 'cata':
         data['externals']['libs/LibTouristClassic'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic',
                                                        'tag': 'WoW-4.4.2-release1'}

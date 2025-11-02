@@ -80,3 +80,9 @@ function events.onUpdate(_, elapsed)
     end
 end
 
+local build = select(4, _G.GetBuildInfo())
+
+if build == 30300 then
+    --PLAYER_STARTED_MOVING was introduced in patch 6.0.2
+    frame:SetScript("OnUpdate", events.onUpdate)
+end
