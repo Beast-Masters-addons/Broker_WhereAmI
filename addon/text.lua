@@ -36,7 +36,13 @@ function text:GetFishingSkillText()
     if Tourist.GetFishingLevel then
         --Classic
         local fishSkill = professions:GetAllSkills()[_G.PROFESSIONS_FISHING]
-        local currentLevel = fishSkill[4]
+        local currentLevel
+        if not fishSkill then
+            currentLevel = 0
+        else
+            currentLevel = fishSkill[4]
+        end
+
         local low, high = Tourist:GetFishingLevel(self.zone.mapId)
         if low and high then
             local color = CreateColor(Tourist:CalculateLevelColor(low, high, currentLevel))
