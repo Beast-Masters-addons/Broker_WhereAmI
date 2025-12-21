@@ -4,6 +4,7 @@ loadfile('build_utils/wow_api/frame.lua')()
 loadfile('build_utils/wow_api/functions.lua')()
 loadfile('build_utils/wow_api/text.lua')()
 loadfile('build_utils/wow_api/texture.lua')()
+loadfile('build_utils/wow_api/settings.lua')()
 loadfile('common.lua')()
 
 if os.getenv('GAME_VERSION') == 'retail' then
@@ -12,7 +13,7 @@ end
 if os.getenv('GAME_VERSION') == 'cata' or os.getenv('GAME_VERSION') == 'mists' then
     _G.LibStub:NewLibrary('LibTouristClassic-1.0', 1)
 end
-if os.getenv('GAME_VERSION') == 'classic' then
+if os.getenv('GAME_VERSION') == 'classic' or os.getenv('GAME_VERSION') == 'bcc' then
     _G.LibStub:NewLibrary('LibTouristClassicEra', 1)
 end
 
