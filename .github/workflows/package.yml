@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'mists', 'retail' ]
+        game_version: [ 'classic', 'bcc', 'mists', 'retail' ]
 
     steps:
       - uses: actions/checkout@v4
@@ -85,6 +85,14 @@ jobs:
           path: tests/wow-ui-source
           ref: 'classic_era'
 
+      - name: Download Burning Crusade UI source
+        if: matrix.game_version == 'bcc'
+        uses: actions/checkout@v4
+        with:
+          repository: Gethe/wow-ui-source
+          path: tests/wow-ui-source
+          ref: 'classic_era_ptr'
+
       - name: Download WotLK UI source
         if: matrix.game_version == 'cata'
         uses: actions/checkout@v4
@@ -124,7 +132,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'mists', 'retail' ]
+        game_version: [ 'classic', 'bcc', 'mists', 'retail' ]
 
     needs:
       - test
@@ -157,11 +165,12 @@ jobs:
           sudo apt-get -y install zip subversion
 
       - name: WoW Packager
-        uses: BigWigsMods/packager@v2.4.3
+        uses: BigWigsMods/packager@v2.5.1
         with:
           args: -o -g ${{ matrix.game_version }}
 
       - uses: actions/upload-artifact@v4
         with:
-          name: Broker_WhereAmI-${{ matrix.game_version }}
-          path: .release
+          name: Broker_WhereAmI-${{ matrix.game_version }} ${{ github.head_ref || github.ref_name }}
+          path: ${{ github.workspace }}/.release
+          include-hidden-files: true
