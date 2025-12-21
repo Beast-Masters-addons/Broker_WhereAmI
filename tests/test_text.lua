@@ -35,7 +35,7 @@ if os.getenv('GAME_VERSION') == 'retail' then
 else
     if os.getenv('GAME_VERSION') == 'classic' then
         loadfile('zone_id_vanilla.lua')()
-    elseif os.getenv('GAME_VERSION') == 'cata' then
+    elseif os.getenv('GAME_VERSION') == 'bcc' or os.getenv('GAME_VERSION') == 'cata' then
         loadfile('zone_id_tbc.lua')()
     end
     loadfile('instance_id.lua')()
