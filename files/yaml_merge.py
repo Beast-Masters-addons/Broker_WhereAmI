@@ -16,7 +16,7 @@ with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as f
                                                           'tag': 'WoW-1.15.6-release1'}
     elif game == 'bcc':
         data['externals']['libs/LibTouristClassicEra'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic-era',
-                                                          'tag': 'latest'}
+                                                          'tag': 'WoW-1.15.6-release1'}
     elif game == 'wrath':
         data['externals']['libs/LibBabbleZone-3.0'] = {'url': 'https://repos.wowace.com/wow/libbabble-zone-3-0/trunk',
                                                        'type': 'svn'}
