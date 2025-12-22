@@ -13,7 +13,7 @@
 
 #@no-lib-strip@
 embeds.xml
-libs\LibTouristClassic\LibTouristClassic-1.0.lua
+libs\LibTouristClassicEra\LibTouristClassicEra.lua
 #@end-no-lib-strip@
 
 addon.xml
