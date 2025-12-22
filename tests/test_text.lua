@@ -95,7 +95,7 @@ function test:test_GetZoneName()
 end
 
 function test:test_GetLevelRangeText()
-    if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
+    if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC or _G.WOW_PROJECT_ID == _G.WOW_PROJECT_BURNING_CRUSADE_CLASSIC then
         lu.assertEquals(text:GetLevelRangeText(), text_utils.colorize('30-45', 0xff, 0xc3, 0x00))
     elseif addon.wow_major < 4 then
         lu.assertEquals(text:GetLevelRangeText(), text_utils.colorize('25-55', 0xff, 0xcc, 0x00))
@@ -122,7 +122,7 @@ function test:test_GetLDBText()
     config:OnInitialize()
     config:OnEnable()
     local ldb_text = text:GetLDBText()
-    if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC then
+    if _G.WOW_PROJECT_ID == _G.WOW_PROJECT_CLASSIC or _G.WOW_PROJECT_ID == _G.WOW_PROJECT_BURNING_CRUSADE_CLASSIC then
         lu.assertEquals(ldb_text, '|cffffff00Stranglethorn Vale (55, 55) |cffffc300[30-45]|r|r')
     elseif addon.wow_major < 4 then
         lu.assertEquals(ldb_text, '|cffffff00Stranglethorn Vale (55, 55) |cffffcc00[25-55]|r|r')
