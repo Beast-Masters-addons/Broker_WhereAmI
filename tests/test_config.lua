@@ -17,7 +17,7 @@ if os.getenv('GAME_VERSION') == 'classic' or os.getenv('GAME_VERSION') == 'bcc' 
     _G.LibStub:NewLibrary('LibTouristClassicEra', 1)
 end
 
-loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'LibTouristClassicEra.lua', 'LibTouristClassic-1.0.lua', 'LibTourist-3.0.lua', 'HereBeDragons-2.0.lua', 'fonts.lua' })
+loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'LibTouristClassicEra.lua', 'LibTouristClassic-1.0.lua', 'LibTouristClassicBCA.lua', 'LibTourist-3.0.lua', 'HereBeDragons-2.0.lua', 'fonts.lua' })
 
 _G['test'] = {}
 local test = _G['test']
