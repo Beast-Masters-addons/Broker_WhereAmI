@@ -29,8 +29,10 @@ ace_addon.locale = _G.LibStub("AceLocale-3.0"):GetLocale("Broker_WhereAmI")
 ---Addon display name from toc
 ace_addon.title = addonTitle
 
-if addon.wow_major <= 2 then
+if addon.wow_major == 1 then
     addon.tourist = _G.LibStub("LibTouristClassicEra")
+elseif addon.wow_major == 2 then
+    addon.tourist = _G.LibStub("LibTouristClassicBCA")
 elseif addon.wow_major == 3 then
     addon.tourist = _G.LibStub("LibTourist-3.0")
 elseif addon.wow_major < 11 then
