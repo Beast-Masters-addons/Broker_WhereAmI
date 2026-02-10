@@ -13,8 +13,11 @@ end
 if os.getenv('GAME_VERSION') == 'cata' or os.getenv('GAME_VERSION') == 'mists' then
     _G.LibStub:NewLibrary('LibTouristClassic-1.0', 1)
 end
-if os.getenv('GAME_VERSION') == 'classic' or os.getenv('GAME_VERSION') == 'bcc' then
+if os.getenv('GAME_VERSION') == 'classic' then
     _G.LibStub:NewLibrary('LibTouristClassicEra', 1)
+end
+if os.getenv('GAME_VERSION') == 'bcc' then
+    _G.LibStub:NewLibrary('LibTouristClassicBCA', 1)
 end
 
 loadfile('build_utils/utils/load_toc.lua')('../resolved.toc', { 'LibTouristClassicEra.lua', 'LibTouristClassic-1.0.lua', 'LibTouristClassicBCA.lua', 'LibTourist-3.0.lua', 'HereBeDragons-2.0.lua', 'fonts.lua' })
