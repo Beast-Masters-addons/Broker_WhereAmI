@@ -38,7 +38,7 @@ function addon.show_map()
 end
 
 function addon.hideMiniMapZone()
-    _G.MinimapBorderTop:Hide()
+    _G.MinimapCluster.BorderTop:Hide()
     _G.MinimapZoneTextButton:Hide()
     if _G.MinimapToggleButton then
         _G.MinimapToggleButton:Hide()
@@ -46,7 +46,7 @@ function addon.hideMiniMapZone()
 end
 
 function addon.showMiniMapZone()
-    _G.MinimapBorderTop:Show()
+    _G.MinimapCluster.BorderTop:Show()
     _G.MinimapZoneTextButton:Show()
     if _G.MinimapToggleButton then
         _G.MinimapToggleButton:Show()
