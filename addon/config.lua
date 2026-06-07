@@ -57,6 +57,7 @@ function config.handler_hide_minimap_location(key, value)
     else
         addon.showMiniMapZone()
     end
+    _G['WhereAmIOptions']['hide_minimap_location'] = value
     return key
 end
 
