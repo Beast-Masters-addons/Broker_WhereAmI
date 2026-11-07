@@ -114,6 +114,14 @@ jobs:
           path: tests/wow-ui-source
           ref: 'classic'
 
+      - name: Download forever UI source
+        if: matrix.game_version == 'forever'
+        uses: actions/checkout@v6
+        with:
+          repository: Gethe/wow-ui-source
+          path: tests/wow-ui-source
+          ref: 'forever'
+
       - name: Download retail UI source
         if: matrix.game_version == 'retail'
         uses: actions/checkout@v6
@@ -137,7 +145,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'bcc', 'mists', 'retail' ]
+        game_version: [ 'classic', 'bcc', 'mists', 'retail', 'forever' ]
 
     needs:
       - test
