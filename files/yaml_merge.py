@@ -11,7 +11,7 @@ main_folder = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as fp:
     data = load(fp, Loader=Loader)
 
-    if game == 'classic':
+    if game in ['classic', 'forever']:
         data['externals']['libs/LibTouristClassicEra'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic-era',
                                                           'tag': 'WoW-1.15.9-release1'}
     elif game == 'bcc':
