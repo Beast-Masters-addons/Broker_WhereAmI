@@ -55,6 +55,22 @@ local MapIdLookupTable = {
     [1461] = "Arathi Basin",
     [1463] = "Eastern Kingdoms",
     [1464] = "Kalimdor",
+    [2720] = "The Searing Basin",
+    [2784] = "Demon Fall Canyon",
+    [2789] = "The Tainted Scar",
+    [2791] = "Storm Cliffs",
+    [2804] = "The Crystal Vale",
+    [2806] = "Shadow Hold",
+    [2807] = "Burning of Andorhal",
+    [2817] = "Starfall Barrow Den",
+    [2832] = "Nightmare Grove",
+    [2835] = "Karazhan Crypts",
+    [2853] = "Deadwind Pass",
+    [2856] = "Scarlet Enclave",
+    [2868] = "Eastern Plaguelands (Scarlet Raid Phase)",
+    [2875] = "Karazhan Crypts",
+    [2902] = "The Scarab Dais",
+    [2921] = "Naxxramas",
     -- NOTE: The following are InstanceIDs, as Instances do not have a uiMapID in Classic
     [30] = "Alteric Valley",
     [33] = "Shadowfang Keep",
@@ -83,8 +99,8 @@ local MapIdLookupTable = {
     [529] = "Arathi Basin",
     [531] = "Ahn'Qiraj Temple",
     [533] = "Naxxramas",
-    [189] = "Scarlet Monastery", -- 1004 ?
-    [289] = "Scholomance", -- 1007 ?
+    [189] = "Scarlet Monastery",  -- 1004 ?
+    [289] = "Scholomance",   -- 1007 ?
     [309] = "Zul'Gurub",
 }
 
