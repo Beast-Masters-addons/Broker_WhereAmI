@@ -51,7 +51,7 @@ jobs:
           GAME_VERSION: ${{ matrix.game_version }}
 
       - name: Build the addon
-        uses: BigWigsMods/packager@v2.5.1
+        uses: BigWigsMods/packager@v2.7.0
         with:
           args: -z -d -g ${{ matrix.game_version }}
 
@@ -170,7 +170,7 @@ jobs:
           sudo apt-get -y install zip subversion
 
       - name: WoW Packager
-        uses: BigWigsMods/packager@v2.5.1
+        uses: BigWigsMods/packager@v2.7.0
         with:
           args: -o -g ${{ matrix.game_version }}
 
