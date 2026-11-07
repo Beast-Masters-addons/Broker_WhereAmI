@@ -22,6 +22,7 @@
 ## X-WoWI-ID: 26397
 ## X-Wago-ID: 5bGopJN0
 
+forever_level.lua
 #@no-lib-strip@
 embeds.xml
 libs\LibTouristClassicEra\LibTouristClassicEra.lua
