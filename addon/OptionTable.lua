@@ -63,8 +63,8 @@ options.optionsTable = {
                 cords_decimal_precision = {
                     order = 6,
                     type = "range",
-                    name = L["Coordinates decimal precision"],
-                    desc = L["Set the number of visible decimals"],
+                    name = L["Coordinate decimals"],
+                    desc = L["Set the number of visible decimals on the coordinates"],
                     min = 0, max = 2, step = 1,
                     disabled = function()
                         return not addon.config.get('show_coords')
@@ -74,8 +74,8 @@ options.optionsTable = {
                     order = 7,
                     type = 'toggle',
                     width = "full",
-                    name = L["Show zone level"],
-                    desc = L["Enable to show the zone level"],
+                    name = L["Show zone level range"],
+                    desc = L["Enable to show the zone level range"],
                 },
                 hide_minimap_location = {
                     order = 8,
@@ -94,8 +94,8 @@ options.optionsTable = {
                     order = 11,
                     type = 'toggle',
                     width = "full",
-                    name = L["Show recommended zones/instances"],
-                    desc = L["Enable to show the recommended zones/instances"],
+                    name = L["Show recommended zones and instances"],
+                    desc = L["Enable to show the recommended zones and instances"],
                 },
                 show_atlas_on_ctrl = {
                     order = 12,
