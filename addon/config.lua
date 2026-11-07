@@ -15,8 +15,8 @@ local AceConfig = _G.LibStub("AceConfig-3.0")
 local AceConfigDialog = _G.LibStub("AceConfigDialog-3.0")
 
 ---Open config window
-function config.ShowConfig()
-    _G.Settings.OpenToCategory(ace_addon.title)
+function config:ShowConfig()
+    _G.Settings.OpenToCategory(self.options_id)
 end
 
 function config.reset()
@@ -48,7 +48,7 @@ function config:OnEnable()
     local options = ace_addon:GetModule("WhereAmIOptionsTable")
     -- Register the config
     AceConfig:RegisterOptionsTable(ace_addon.title, options.optionsTable, nil)
-    self.optionsFrames.general = AceConfigDialog:AddToBlizOptions(ace_addon.title, nil, nil, "general")
+    self.optionsFrames.general, self.options_id = AceConfigDialog:AddToBlizOptions(ace_addon.title, nil, nil, "general")
 end
 
 function config.handler_hide_minimap_location(key, value)

@@ -70,7 +70,7 @@ function addon.obj.OnClick(_, button)
         end
     end
     if button == "RightButton" then
-        config.ShowConfig()
+        config:ShowConfig()
     end
 end
 
