@@ -13,7 +13,7 @@ with open(os.path.join(main_folder, '.pkgmeta_base'), 'r', encoding='utf8') as f
 
     if game == 'classic':
         data['externals']['libs/LibTouristClassicEra'] = {'url': 'https://repos.wowace.com/wow/libtourist-classic-era',
-                                                          'tag': 'WoW-1.15.6-release1'}
+                                                          'tag': 'WoW-1.15.9-release1'}
     elif game == 'bcc':
         data['externals']['libs/LibTouristClassicBca'] = {'url': 'https://repos.curseforge.com/wow/libtourist-classic-bca',
                                                           'tag': 'WoW-2.5.5-release1'}
