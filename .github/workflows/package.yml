@@ -23,7 +23,7 @@ jobs:
         game_version: [ 'classic', 'bcc', 'mists', 'retail', 'forever' ]
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           submodules: true
 
@@ -84,7 +84,7 @@ jobs:
 
       - name: Download classic UI source
         if: matrix.game_version == 'classic'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -92,7 +92,7 @@ jobs:
 
       - name: Download Burning Crusade UI source
         if: matrix.game_version == 'bcc'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -100,7 +100,7 @@ jobs:
 
       - name: Download WotLK UI source
         if: matrix.game_version == 'cata'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -108,7 +108,7 @@ jobs:
 
       - name: Download Mists UI source
         if: matrix.game_version == 'mists'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -116,7 +116,7 @@ jobs:
 
       - name: Download forever UI source
         if: matrix.game_version == 'forever'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -124,7 +124,7 @@ jobs:
 
       - name: Download retail UI source
         if: matrix.game_version == 'retail'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: Gethe/wow-ui-source
           path: tests/wow-ui-source
@@ -159,7 +159,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
         with:
           submodules: true
 
