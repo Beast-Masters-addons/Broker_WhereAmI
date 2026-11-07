@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        game_version: [ 'classic', 'bcc', 'mists', 'retail' ]
+        game_version: [ 'classic', 'bcc', 'mists', 'retail', 'forever' ]
 
     steps:
       - uses: actions/checkout@v6
