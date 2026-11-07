@@ -33,7 +33,7 @@ loadfile(('data/%s/MapInfo.lua'):format(game))()
 if os.getenv('GAME_VERSION') == 'retail' then
     loadfile('zone_id_missing_retail.lua')()
 else
-    if os.getenv('GAME_VERSION') == 'classic' then
+    if os.getenv('GAME_VERSION') == 'classic' or os.getenv('GAME_VERSION') == 'forever' then
         loadfile('zone_id_vanilla.lua')()
     elseif os.getenv('GAME_VERSION') == 'bcc' or os.getenv('GAME_VERSION') == 'cata' then
         loadfile('zone_id_tbc.lua')()
