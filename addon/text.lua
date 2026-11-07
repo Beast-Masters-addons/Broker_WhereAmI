@@ -35,7 +35,7 @@ function text:GetFishingSkillText()
     end
     if Tourist.GetFishingLevel then
         --Classic
-        local fishSkill = professions:GetAllSkills()[_G.PROFESSIONS_FISHING]
+        local fishSkill = professions:GetProfessions()[_G.PROFESSIONS_FISHING]
         local currentLevel
         if not fishSkill then
             currentLevel = 0
