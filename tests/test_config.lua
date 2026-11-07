@@ -13,7 +13,7 @@ end
 if os.getenv('GAME_VERSION') == 'cata' or os.getenv('GAME_VERSION') == 'mists' then
     _G.LibStub:NewLibrary('LibTouristClassic-1.0', 1)
 end
-if os.getenv('GAME_VERSION') == 'classic' then
+if os.getenv('GAME_VERSION') == 'classic' or os.getenv('GAME_VERSION') == 'forever' then
     _G.LibStub:NewLibrary('LibTouristClassicEra', 1)
 end
 if os.getenv('GAME_VERSION') == 'bcc' then
